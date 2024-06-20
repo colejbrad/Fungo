@@ -6,6 +6,23 @@ import pandas as pd
 class FungoImport:
 
     def importHitter(playerData):
+        '''
+        Imports hitter data from the given file and
+        returns a dataframe containing the data. It also
+        replaces missing data in numeric columns with 0s
+
+        Parameters
+        ----------
+        playerData : str
+            string values of input file
+
+        Returns
+        -------
+        DataFrame
+            DataFrame of the data from the input file with
+            described changes made
+
+        '''
         try:
             with open(playerData, newline='') as playerFile:
                 reader = csv.reader(playerFile)
@@ -41,6 +58,23 @@ class FungoImport:
         return playerDF
 
     def importPitcher(playerData):
+        '''
+        Imports pitcher data from the given file and
+        returns a dataframe containing the data. It also
+        replaces missing data in numeric columns with 0s
+
+        Parameters
+        ----------
+        playerData : str
+            string values of input file
+
+        Returns
+        -------
+        DataFrame
+            DataFrame of the data from the input file with
+            described changes made
+
+        '''
         try:
             with open(playerData, newline='') as playerFile:
                 reader = csv.reader(playerFile)
@@ -57,7 +91,7 @@ class FungoImport:
             return pd.DataFrame()
 
         try:
-            playerDF = pd.DF(playerData[1:], columns=playerData[0])
+            playerDF = pd.DataFrame(playerData[1:], columns=playerData[0])
 
             numericColumns = ['battersFaced', 'velocity', 'location',
                               'swing', 'miss']

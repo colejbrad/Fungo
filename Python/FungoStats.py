@@ -17,6 +17,20 @@ class FungoStats:
                          'gidp', 'k', 'kk']}
 
     def average(playerData):
+        '''
+        Calculate a hitter's batting average
+
+        Parameters
+        ----------
+        playerData : DataFrame
+            DataFrame of a hitter's plate appearances
+
+        Returns
+        -------
+        float
+            The hitter's batting average
+
+        '''
         global hitTypes
         hits = 0
         atBats = 0
@@ -33,6 +47,20 @@ class FungoStats:
         return hits / atBats
 
     def whiffRate(playerData):
+        '''
+        Calculate a hitter's swing and miss rate
+
+        Parameters
+        ----------
+        playerData : DataFrame
+            DataFrame of a hitter's plate appearances
+
+        Returns
+        -------
+        float
+            The batter's swing and miss rate
+
+        '''
         swings = 0
         misses = 0
         for index, row in playerData.iterrows():
@@ -42,9 +70,23 @@ class FungoStats:
             elif row['swing'] == 1:
                 swings += 1
 
-        return misses / swings
+        return misses / swings * 100
 
     def onBase(playerData):
+        '''
+        Calculate a hitter's on base percentage
+
+        Parameters
+        ----------
+        playerData : DataFrame
+            DataFrame of a hitter's plate appearances
+
+        Returns
+        -------
+        float
+            The hitter's on base percentage
+
+        '''
         global hitTypes
         onBase = 0
         plateAppearance = len(playerData)
@@ -57,6 +99,20 @@ class FungoStats:
         return onBase / plateAppearance
 
     def slugging(playerData):
+        '''
+        Calculate a hitter's slugging percentage
+
+        Parameters
+        ----------
+        playerData : DataFrame
+            DataFrame of a hitter's plate appearances
+
+        Returns
+        -------
+        float
+            The hitter's slugging percentage
+
+        '''
         global hitTypes
         hits = 0
         atBats = 0
