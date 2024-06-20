@@ -1,0 +1,1330 @@
+date,opponent,batter,pitcherHand,plateAppearance,pitchType,pitchLocation,swing,miss,result,resultType,resultLocation,hitType
+6/15/2024,Burlington,Fleming,R,1,SL,13,0,0,ball,,,
+6/15/2024,Burlington,Fleming,R,1,FB,11,0,0,ball,,,
+6/15/2024,Burlington,Fleming,R,1,CH,2,1,1,swing,miss,,
+6/15/2024,Burlington,Fleming,R,1,FB,6,0,0,strike,looking,,
+6/15/2024,Burlington,Fleming,R,1,CB,11,0,0,ball,,,
+6/15/2024,Burlington,Fleming,R,1,FB,13,1,1,strike,swinging,,k
+6/15/2024,Burlington,Fleming,R,2,FB,11,0,0,ball,,,
+6/15/2024,Burlington,Fleming,R,2,FB,13,0,0,ball,,,
+6/15/2024,Burlington,Fleming,R,2,CH,11,0,0,ball,,,
+6/15/2024,Burlington,Fleming,R,2,CH,7,0,0,strike,looking,,
+6/15/2024,Burlington,Fleming,R,2,FB,11,0,0,ball,walk,,
+6/15/2024,Burlington,Fleming,R,3,FB,12,0,0,ball,,,
+6/15/2024,Burlington,Fleming,R,3,SL,6,1,0,foul,,,
+6/15/2024,Burlington,Fleming,R,3,CB,12,0,0,ball,,,
+6/15/2024,Burlington,Fleming,R,3,FB,1,0,0,strike,looking,,
+6/15/2024,Burlington,Fleming,R,3,FB,6,1,0,foul,,,
+6/15/2024,Burlington,Fleming,R,3,SL,3,1,0,bip,fly,6,sf9
+6/15/2024,Burlington,Miller,R,1,FB,13,0,0,ball,,,
+6/15/2024,Burlington,Miller,R,1,FB,1,1,0,bip,popup,3,po6
+6/15/2024,Burlington,Miller,R,2,CB,13,0,0,ball,,,
+6/15/2024,Burlington,Miller,R,2,CB,11,0,0,ball,,,
+6/15/2024,Burlington,Miller,R,2,FB,10,0,0,ball,,,
+6/15/2024,Burlington,Miller,R,2,FB,7,1,0,bip,grounder,4,double
+6/15/2024,Burlington,Miller,R,3,CH,11,0,0,ball,,,
+6/15/2024,Burlington,Miller,R,3,CH,11,0,0,ball,,,
+6/15/2024,Burlington,Miller,R,3,FB,6,1,0,bip,grounder,3,fc
+6/15/2024,Burlington,Miller,R,4,CH,12,1,0,foul,,,
+6/15/2024,Burlington,Miller,R,4,FB,5,1,0,bip,popup,2,fc
+6/15/2024,Burlington,Ross,R,1,FB,10,0,0,ball,,,
+6/15/2024,Burlington,Ross,R,1,FB,2,1,0,bip,grounder,2,go1
+6/15/2024,Burlington,Ross,R,2,FB,10,0,0,ball,,,
+6/15/2024,Burlington,Ross,R,2,CH,7,1,0,bip,liner,6,lo9
+6/15/2024,Burlington,Ross,R,3,CB,13,0,0,ball,,,
+6/15/2024,Burlington,Ross,R,3,CH,11,0,0,ball,,,
+6/15/2024,Burlington,Ross,R,3,CH,10,0,0,ball,,,
+6/15/2024,Burlington,Ross,R,3,FB,3,1,1,strike,swinging,,
+6/15/2024,Burlington,Ross,R,3,CH,11,0,0,ball,walk,,
+6/15/2024,Burlington,Ross,R,4,CB,8,0,0,strike,looking,,
+6/15/2024,Burlington,Ross,R,4,CB,10,0,0,ball,,,
+6/15/2024,Burlington,Ross,R,4,FB,8,0,0,strike,looking,,
+6/15/2024,Burlington,Ross,R,4,CB,12,0,0,ball,,,
+6/15/2024,Burlington,Ross,R,4,FB,12,0,0,ball,,,
+6/15/2024,Burlington,Ross,R,4,FB,3,1,0,bip,liner,6,single
+6/15/2024,Burlington,Drew,R,1,FB,4,1,0,bip,grounder,1,go4
+6/15/2024,Burlington,Drew,R,2,FB,6,1,0,bip,grounder,2,single
+6/15/2024,Burlington,Drew,R,3,CB,9,0,0,strike,looking,,
+6/15/2024,Burlington,Drew,R,3,CH,10,0,0,ball,,,
+6/15/2024,Burlington,Drew,R,3,FB,13,0,0,ball,,,
+6/15/2024,Burlington,Drew,R,3,CB,13,0,0,ball,,,
+6/15/2024,Burlington,Drew,R,3,CH,1,1,0,bip,fly,4,single
+6/15/2024,Burlington,Drew,R,4,CH,13,1,0,foul,,,
+6/15/2024,Burlington,Drew,R,4,FB,2,1,0,foul,,,
+6/15/2024,Burlington,Drew,R,4,CB,13,0,0,ball,,,
+6/15/2024,Burlington,Drew,R,4,CH,3,1,0,bip,fly,5,fo9
+6/15/2024,Burlington,Bock,R,1,CB,10,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,1,FB,10,1,1,strike,swinging,,
+6/15/2024,Burlington,Bock,R,1,FB,1,1,0,foul,,,
+6/15/2024,Burlington,Bock,R,1,CB,13,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,1,FB,11,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,1,FB,3,1,0,bip,grounder,2,go4
+6/15/2024,Burlington,Bock,R,2,FB,4,1,0,foul,,,
+6/15/2024,Burlington,Bock,R,2,CB,10,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,2,SL,13,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,2,FB,11,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,2,FB,11,0,0,ball,walk,,
+6/15/2024,Burlington,Bock,R,3,FB,10,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,3,SL,13,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,3,CH,10,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,3,FB,3,0,0,strike,looking,,
+6/15/2024,Burlington,Bock,R,3,FB,9,0,0,strike,looking,,
+6/15/2024,Burlington,Bock,R,3,FB,2,1,0,foul,,,
+6/15/2024,Burlington,Bock,R,3,CH,1,1,1,strike,swinging,,k
+6/15/2024,Burlington,Bock,R,4,CB,13,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,4,FB,7,1,0,foul,,,
+6/15/2024,Burlington,Bock,R,4,FB,11,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,4,SL,13,0,0,ball,,,
+6/15/2024,Burlington,Bock,R,4,CB,12,0,0,ball,walk,,
+6/15/2024,Burlington,Richardson,R,1,CH,10,0,0,ball,,,
+6/15/2024,Burlington,Richardson,R,1,CH,13,0,0,ball,,,
+6/15/2024,Burlington,Richardson,R,1,FB,11,0,0,ball,,,
+6/15/2024,Burlington,Richardson,R,1,FB,12,0,0,ball,walk,,
+6/15/2024,Burlington,Richardson,R,2,CH,11,0,0,ball,,,
+6/15/2024,Burlington,Richardson,R,2,FB,13,0,0,ball,,,
+6/15/2024,Burlington,Richardson,R,2,CH,3,0,0,ball,,,
+6/15/2024,Burlington,Richardson,R,2,FB,11,1,0,foul,,,
+6/15/2024,Burlington,Richardson,R,2,CB,10,0,0,ball,,,
+6/15/2024,Burlington,Richardson,R,2,CH,7,1,0,foul,,,
+6/15/2024,Burlington,Richardson,R,2,FB,2,1,0,foul,,,
+6/15/2024,Burlington,Richardson,R,2,FB,11,0,0,ball,walk,,
+6/15/2024,Burlington,Richardson,R,3,SL,13,0,0,ball,,,
+6/15/2024,Burlington,Richardson,R,3,CB,10,0,0,ball,,,
+6/15/2024,Burlington,Richardson,R,3,FB,11,0,0,ball,,,
+6/15/2024,Burlington,Richardson,R,3,FB,1,0,0,strike,looking,,
+6/15/2024,Burlington,Richardson,R,3,CH,4,0,0,strike,looking,,
+6/15/2024,Burlington,Richardson,R,3,FB,2,1,0,bip,grounder,4,single
+6/15/2024,Burlington,Richardson,R,4,FB,5,1,0,bip,grounder,2,roe
+6/15/2024,Burlington,Grenata,R,1,FB,1,1,1,strike,swinging,,
+6/15/2024,Burlington,Grenata,R,1,FB,13,0,0,ball,,,
+6/15/2024,Burlington,Grenata,R,1,CH,11,0,0,ball,,,
+6/15/2024,Burlington,Grenata,R,1,FB,11,0,0,ball,,,
+6/15/2024,Burlington,Grenata,R,1,FB,3,0,0,strike,looking,,
+6/15/2024,Burlington,Grenata,R,1,CH,10,0,0,ball,walk,,
+6/15/2024,Burlington,Grenata,R,2,FB,6,1,0,bip,fly,6,roe
+6/15/2024,Burlington,Grenata,R,3,CB,12,0,0,ball,,,
+6/15/2024,Burlington,Grenata,R,3,FB,1,0,0,strike,looking,,
+6/15/2024,Burlington,Grenata,R,3,CH,13,0,0,ball,,,
+6/15/2024,Burlington,Grenata,R,3,FB,3,1,0,foul,,,
+6/15/2024,Burlington,Grenata,R,3,SL,13,0,0,ball,,,
+6/15/2024,Burlington,Grenata,R,3,SL,13,0,0,ball,walk,,
+6/15/2024,Burlington,Grenata,R,4,CB,1,0,0,strike,looking,,
+6/15/2024,Burlington,Grenata,R,4,CH,12,1,0,bip,grounder,4,single
+6/15/2024,Burlington,Garrett,R,1,SL,6,0,0,strike,looking,,
+6/15/2024,Burlington,Garrett,R,1,SL,7,1,0,bip,grounder,3,fc
+6/15/2024,Burlington,Garrett,R,2,FB,2,1,0,bip,grounder,1,sb1
+6/15/2024,Burlington,Garrett,R,3,CB,9,0,0,strike,looking,,
+6/15/2024,Burlington,Garrett,R,3,FB,3,1,0,bip,fly,4,single
+6/15/2024,Burlington,Garrett,R,4,FB,4,1,0,bip,grounder,3,sh5
+6/15/2024,Burlington,Merlak,R,1,CB,1,0,0,strike,looking,,
+6/15/2024,Burlington,Merlak,R,1,CB,9,0,0,strike,looking,,
+6/15/2024,Burlington,Merlak,R,1,FB,3,1,1,strike,swinging,,k
+6/15/2024,Burlington,Merlak,R,2,SL,3,0,0,strike,looking,,
+6/15/2024,Burlington,Merlak,R,2,CB,13,0,0,ball,,,
+6/15/2024,Burlington,Merlak,R,2,FB,6,0,0,strike,looking,,
+6/15/2024,Burlington,Merlak,R,2,CH,11,0,0,ball,,,
+6/15/2024,Burlington,Merlak,R,2,CB,4,0,0,strike,looking,,kk
+6/15/2024,Burlington,Merlak,R,3,FB,12,0,0,ball,,,
+6/15/2024,Burlington,Merlak,R,3,FB,5,1,0,foul,,,
+6/15/2024,Burlington,Merlak,R,3,CB,12,0,0,ball,,,
+6/15/2024,Burlington,Merlak,R,3,SL,13,0,0,ball,,,
+6/15/2024,Burlington,Merlak,R,3,FB,12,0,0,ball,walk,,
+6/15/2024,Burlington,Merlak,R,4,FB,10,0,0,ball,,,
+6/15/2024,Burlington,Merlak,R,4,FB,9,1,1,strike,swinging,,
+6/15/2024,Burlington,Merlak,R,4,CH,13,0,0,ball,,,
+6/15/2024,Burlington,Merlak,R,4,FB,7,1,0,foul,,,
+6/15/2024,Burlington,Merlak,R,4,CH,1,1,1,strike,swinging,,k
+6/11/2024,Clayton,Ross,R,1,FB,13,0,0,ball,,,
+6/11/2024,Clayton,Ross,R,1,FB,12,0,0,ball,,,
+6/11/2024,Clayton,Ross,R,1,FB,12,0,0,ball,,,
+6/11/2024,Clayton,Ross,R,1,FB,1,0,0,strike,looking,,
+6/11/2024,Clayton,Ross,R,1,FB,12,0,0,ball,walk,,
+6/11/2024,Clayton,Ross,R,2,CH,12,0,0,ball,,,
+6/11/2024,Clayton,Ross,R,2,FB,4,1,0,bip,fly,5,fo8
+6/11/2024,Clayton,Ross,L,3,FB,11,0,0,ball,,,
+6/11/2024,Clayton,Ross,L,3,FB,7,1,0,bip,grounder,3,roe
+6/11/2024,Clayton,Ross,R,4,FB,6,0,0,strike,looking,,
+6/11/2024,Clayton,Ross,R,4,FB,13,0,0,ball,,,
+6/11/2024,Clayton,Ross,R,4,CH,1,1,0,foul,,,
+6/11/2024,Clayton,Ross,R,4,CH,11,0,0,ball,,,
+6/11/2024,Clayton,Ross,R,4,FB,8,1,0,foul,,,
+6/11/2024,Clayton,Ross,R,4,SL,12,1,1,strike,swinging,,kpb
+6/4/2024,High Point,Williams,R,1,FB,13,0,0,ball,,,
+6/4/2024,High Point,Williams,R,1,CH,7,0,0,strike,looking,,
+6/4/2024,High Point,Williams,R,1,CB,10,0,0,ball,,,
+6/4/2024,High Point,Williams,R,1,CH,11,0,0,ball,,,
+6/4/2024,High Point,Williams,R,1,FB,4,0,0,strike,looking,,
+6/4/2024,High Point,Williams,R,1,FB,11,1,0,foul,,,
+6/4/2024,High Point,Williams,R,1,FB,3,1,0,bip,fly,4,sf8
+6/4/2024,High Point,Williams,R,2,FB,11,0,0,ball,,,
+6/4/2024,High Point,Williams,R,2,CH,10,0,0,ball,,,
+6/4/2024,High Point,Williams,R,2,CB,12,0,0,ball,,,
+6/4/2024,High Point,Williams,R,2,FB,11,0,0,ball,walk,,
+6/4/2024,High Point,Williams,R,3,FB,7,1,0,bip,popup,3,po6
+6/4/2024,High Point,Richardson,R,1,CH,10,0,0,ball,hbp,,
+6/4/2024,High Point,Richardson,R,2,FB,13,1,0,foul,,,
+6/4/2024,High Point,Richardson,R,2,CH,13,0,0,ball,,,
+6/4/2024,High Point,Richardson,R,2,FB,6,1,0,foul,,,
+6/4/2024,High Point,Richardson,R,2,FB,2,1,0,bip,grounder,6,single
+6/5/2024,Yorktown,Garrett,R,1,CH,1,0,0,strike,looking,,
+6/5/2024,Yorktown,Garrett,R,1,FB,13,1,1,strike,swinging,,
+6/5/2024,Yorktown,Garrett,R,1,FB,13,0,0,ball,,,
+6/5/2024,Yorktown,Garrett,R,1,CB,6,0,0,strike,looking,,kk
+6/5/2024,Yorktown,Garrett,R,2,SL,13,0,0,ball,,,
+6/5/2024,Yorktown,Garrett,R,2,FB,11,0,0,ball,,,
+6/5/2024,Yorktown,Garrett,R,2,FB,1,1,0,bip,popup,1,po3
+6/5/2024,Yorktown,Garrett,R,3,FB,5,1,0,bip,fly,5,fo8
+6/5/2024,Yorktown,Garrett,L,4,SL,13,0,0,ball,,,
+6/5/2024,Yorktown,Garrett,L,4,SL,6,0,0,strike,looking,,
+6/5/2024,Yorktown,Garrett,L,4,SL,13,0,0,ball,,,
+6/5/2024,Yorktown,Garrett,L,4,CH,13,0,0,ball,,,
+6/5/2024,Yorktown,Garrett,L,4,FB,5,1,0,bip,grounder,5,single
+6/5/2024,Yorktown,Torti,R,1,CH,6,0,0,strike,looking,,
+6/5/2024,Yorktown,Torti,R,1,FB,12,0,0,ball,,,
+6/5/2024,Yorktown,Torti,R,1,FB,11,0,0,ball,,,
+6/5/2024,Yorktown,Torti,R,1,FB,,,,,,,
+6/5/2024,Yorktown,Torti,R,1,CH,10,0,0,ball,,,
+6/5/2024,Yorktown,Torti,R,1,FB,1,1,0,foul,,,
+6/5/2024,Yorktown,Torti,R,1,FB,10,1,1,strike,swinging,,k
+6/5/2024,Yorktown,Torti,R,2,FB,7,1,1,strike,swinging,,
+6/5/2024,Yorktown,Torti,R,2,FB,13,0,0,ball,,,
+6/5/2024,Yorktown,Torti,R,2,CB,7,1,0,bip,grounder,6,single
+6/5/2024,Yorktown,Torti,R,3,FB,13,0,0,ball,,,
+6/5/2024,Yorktown,Torti,R,3,FB,12,0,0,ball,,,
+6/5/2024,Yorktown,Torti,R,3,FB,8,1,1,strike,swinging,,
+6/5/2024,Yorktown,Torti,R,3,CH,12,0,0,ball,,,
+6/5/2024,Yorktown,Torti,R,3,FB,5,1,0,foul,,,
+6/5/2024,Yorktown,Torti,R,3,CH,10,0,0,ball,walk,,
+6/5/2024,Yorktown,Torti,R,4,FB,4,1,0,foul,,,
+6/5/2024,Yorktown,Torti,L,4,FB,12,0,0,ball,,,
+6/5/2024,Yorktown,Torti,L,4,CH,3,1,0,bip,fly,6,fo9
+6/7/2024,Reidsville,White,R,1,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,White,R,1,CH,1,1,0,foul,,,
+6/7/2024,Reidsville,White,R,1,SL,7,1,0,foul,,,
+6/7/2024,Reidsville,White,R,1,CB,4,0,0,strike,looking,,kk
+6/7/2024,Reidsville,White,R,2,FB,10,1,0,foul,,,
+6/7/2024,Reidsville,White,R,2,FB,3,1,0,foul,,,
+6/7/2024,Reidsville,White,R,2,CH,6,1,0,bip,grounder,4,single
+6/7/2024,Reidsville,White,R,3,CB,11,0,0,ball,,,
+6/7/2024,Reidsville,White,R,3,CH,13,0,0,ball,,,
+6/7/2024,Reidsville,White,R,3,FB,9,1,0,bip,popup,1,po3
+6/7/2024,Reidsville,White,R,4,FB,6,1,0,bip,grounder,2,go6
+5/28/2024,Carolina,Williams,R,1,FB,12,1,0,bip,grounder,3,roe
+5/28/2024,Carolina,Williams,R,2,FB,4,0,0,strike,looking,,
+5/28/2024,Carolina,Williams,R,2,CH,7,1,0,foul,,,
+5/28/2024,Carolina,Williams,R,2,SL,5,1,0,foul,,,
+5/28/2024,Carolina,Williams,R,2,CH,5,1,0,bip,grounder,2,go1
+5/28/2024,Carolina,Williams,R,3,CB,12,0,0,ball,,,
+5/28/2024,Carolina,Williams,R,3,FB,6,1,1,strike,swinging,,
+5/28/2024,Carolina,Williams,R,3,FB,6,1,0,bip,fly,6,fo9
+5/31/2024,Burlington,Williams,R,1,FB,1,1,0,foul,,,
+5/31/2024,Burlington,Williams,R,1,CB,13,0,0,ball,,,
+5/31/2024,Burlington,Williams,R,1,SL,4,0,0,strike,looking,,
+5/31/2024,Burlington,Williams,R,1,FB,6,1,0,foul,,,
+5/31/2024,Burlington,Williams,R,1,FB,11,0,0,ball,,,
+5/31/2024,Burlington,Williams,R,1,SL,13,1,1,strike,swinging,,k
+5/31/2024,Burlington,Williams,L,2,FB,3,1,0,bip,liner,5,lo8
+5/31/2024,Burlington,Williams,R,3,CH,9,0,0,strike,looking,,
+5/31/2024,Burlington,Williams,R,3,FB,13,1,1,strike,swinging,,
+5/31/2024,Burlington,Williams,R,3,FB,11,0,0,ball,,,
+5/31/2024,Burlington,Williams,R,3,SL,11,0,0,ball,,,
+5/31/2024,Burlington,Williams,R,3,FB,13,0,0,ball,,,
+5/31/2024,Burlington,Williams,R,3,FB,9,0,0,strike,looking,,kk
+5/31/2024,Burlington,Williams,R,4,FB,8,1,0,bip,grounder,2,go6
+5/28/2024,Carolina,Richardson,R,1,FB,10,0,0,ball,,,
+5/28/2024,Carolina,Richardson,R,1,CB,10,0,0,ball,,,
+5/28/2024,Carolina,Richardson,R,1,SL,7,1,0,bip,grounder,3,roe
+5/28/2024,Carolina,Richardson,R,2,FB,9,0,0,strike,looking,,
+5/28/2024,Carolina,Richardson,R,2,CH,12,0,0,ball,,,
+5/28/2024,Carolina,Richardson,R,2,FB,12,0,0,ball,,,
+5/28/2024,Carolina,Richardson,R,2,CH,5,0,0,strike,looking,,
+5/28/2024,Carolina,Richardson,R,2,FB,6,1,0,bip,fly,4,fo7
+5/28/2024,Carolina,Richardson,R,3,CB,4,1,0,bip,grounder,3,roe
+5/28/2024,Carolina,Richardson,R,4,FB,6,1,0,bip,popup,1,po3
+5/30/2024,Danville,Richardson,R,1,FB,3,1,1,strike,swinging,,
+5/30/2024,Danville,Richardson,R,1,FB,13,0,0,ball,,,
+5/30/2024,Danville,Richardson,R,1,CB,4,0,0,strike,looking,,
+5/30/2024,Danville,Richardson,R,1,SL,13,1,0,foul,,,
+5/30/2024,Danville,Richardson,R,1,FB,13,0,0,ball,,,
+5/30/2024,Danville,Richardson,R,1,SL,8,1,0,bip,popup,2,po6
+5/30/2024,Danville,Richardson,R,2,FB,10,0,0,ball,,,
+5/30/2024,Danville,Richardson,R,2,FB,9,0,0,strike,looking,,
+5/30/2024,Danville,Richardson,R,2,FB,13,0,0,ball,,,
+5/30/2024,Danville,Richardson,R,2,FB,4,1,0,bip,grounder,1,go4
+5/30/2024,Danville,Richardson,R,3,FB,4,1,0,foul,,,
+5/30/2024,Danville,Richardson,R,3,CH,10,0,0,ball,hbp,,
+5/30/2024,Danville,Richardson,R,4,FB,1,1,0,foul,,,
+5/30/2024,Danville,Richardson,R,4,FB,11,0,0,ball,,,
+5/30/2024,Danville,Richardson,R,4,FB,6,1,1,strike,swinging,,
+5/30/2024,Danville,Richardson,R,4,FB,7,1,0,foul,,,
+5/30/2024,Danville,Richardson,R,4,FB,13,1,0,foul,,,
+5/30/2024,Danville,Richardson,R,4,CH,13,0,0,ball,,,
+5/30/2024,Danville,Richardson,R,4,CH,10,0,0,ball,,,
+5/30/2024,Danville,Richardson,R,4,FB,2,1,0,bip,fly,4,fo7
+5/30/2024,Danville,Richardson,R,5,FB,10,0,0,ball,,,
+5/30/2024,Danville,Richardson,R,5,FB,10,0,0,ball,hbp,,
+6/11/2024,Clayton,White,R,1,SL,13,0,0,ball,,,
+6/11/2024,Clayton,White,R,1,FB,12,0,0,ball,,,
+6/11/2024,Clayton,White,R,1,FB,7,0,0,strike,looking,,
+6/11/2024,Clayton,White,R,1,FB,6,1,0,bip,grounder,3,go5
+6/11/2024,Clayton,White,R,2,CH,3,1,0,bip,grounder,2,go4
+6/11/2024,Clayton,White,L,3,FB,6,0,0,strike,looking,,
+6/11/2024,Clayton,White,L,3,CB,13,0,0,ball,,,
+6/11/2024,Clayton,White,L,3,FB,11,0,0,ball,,,
+6/11/2024,Clayton,White,L,3,CH,4,1,0,bip,liner,2,lo1
+6/11/2024,Clayton,White,R,4,CB,5,0,0,strike,looking,,
+6/11/2024,Clayton,White,R,4,CH,12,0,0,ball,,,
+6/11/2024,Clayton,White,R,4,FB,4,1,0,bip,grounder,2,gidp
+6/11/2024,Clayton,White,R,5,CB,4,0,0,strike,looking,,
+6/11/2024,Clayton,White,R,5,CH,11,0,0,ball,,,
+6/11/2024,Clayton,White,R,5,FB,13,1,1,strike,swinging,,
+6/11/2024,Clayton,White,R,5,SL,7,0,0,strike,looking,,kk
+6/4/2024,High Point,Fleming,R,1,FB,7,1,0,foul,,,
+6/4/2024,High Point,Fleming,R,1,CB,13,0,0,ball,,,
+6/4/2024,High Point,Fleming,R,1,CH,13,0,0,ball,,,
+6/4/2024,High Point,Fleming,R,1,FB,6,1,0,bip,grounder,1,go4
+6/4/2024,High Point,Wilson,R,1,FB,11,0,0,ball,,,
+6/4/2024,High Point,Wilson,R,1,CB,12,0,0,ball,,,
+6/4/2024,High Point,Wilson,R,1,CH,10,0,0,ball,,,
+6/4/2024,High Point,Wilson,R,1,FB,11,0,0,ball,walk,,
+6/4/2024,High Point,Wilson,R,2,CB,9,1,1,strike,swinging,,
+6/4/2024,High Point,Wilson,R,2,SL,8,1,1,strike,swinging,,
+6/4/2024,High Point,Wilson,R,2,FB,1,1,0,bip,grounder,3,roe
+6/4/2024,High Point,Wilson,R,3,FB,10,0,0,ball,,,
+6/4/2024,High Point,Wilson,R,3,FB,3,1,0,bip,liner,4,lo7
+6/4/2024,High Point,Wilson,R,4,CH,11,0,0,ball,,,
+6/4/2024,High Point,Wilson,R,4,CH,11,0,0,ball,,,
+6/4/2024,High Point,Wilson,R,4,FB,2,1,0,foul,,,
+6/4/2024,High Point,Wilson,R,4,SL,13,1,1,strike,swinging,,
+6/4/2024,High Point,Wilson,R,4,CB,10,0,0,ball,,,
+6/4/2024,High Point,Wilson,R,4,FB,3,1,0,bip,liner,5,single
+6/5/2024,Yorktown,White,R,1,FB,2,1,1,strike,swinging,,
+6/5/2024,Yorktown,White,R,1,SL,13,0,0,ball,,,
+6/5/2024,Yorktown,White,R,1,FB,7,0,0,strike,looking,,
+6/5/2024,Yorktown,White,R,1,CB,3,1,0,foul,,,
+6/5/2024,Yorktown,White,R,1,FB,3,1,0,bip,liner,4,lo7
+6/5/2024,Yorktown,White,R,2,FB,11,0,0,ball,,,
+6/5/2024,Yorktown,White,R,2,FB,5,1,0,bip,fly,5,fo9
+6/5/2024,Yorktown,White,R,3,FB,1,1,0,foul,,,
+6/5/2024,Yorktown,White,R,3,CB,13,0,0,ball,,,
+6/5/2024,Yorktown,White,R,3,FB,4,1,0,foul,,,
+6/5/2024,Yorktown,White,R,3,FB,8,1,0,foul,,,
+6/5/2024,Yorktown,White,R,3,CH,13,0,0,ball,,,
+6/5/2024,Yorktown,White,R,3,FB,12,0,0,ball,,,
+6/5/2024,Yorktown,White,R,3,FB,10,0,0,ball,walk,,
+6/5/2024,Yorktown,White,L,4,CH,12,0,0,ball,,,
+6/5/2024,Yorktown,White,L,4,FB,4,1,0,bip,fly,4,single
+6/7/2024,Reidsville,Wilson,R,1,FB,12,0,0,ball,hbp,,
+6/7/2024,Reidsville,Wilson,R,2,FB,11,0,0,ball,,,
+6/7/2024,Reidsville,Wilson,R,2,FB,6,1,0,bip,grounder,3,roe
+6/7/2024,Reidsville,Wilson,R,3,FB,11,0,0,ball,,,
+6/7/2024,Reidsville,Wilson,R,3,CH,11,0,0,ball,,,
+6/7/2024,Reidsville,Wilson,R,3,FB,3,1,1,strike,swinging,,
+6/7/2024,Reidsville,Wilson,R,3,SL,13,0,0,ball,,,
+6/7/2024,Reidsville,Wilson,R,3,FB,11,0,0,ball,walk,,
+6/7/2024,Reidsville,Wilson,L,4,FB,6,0,0,strike,looking,,
+6/7/2024,Reidsville,Wilson,L,4,CB,13,0,0,ball,,,
+6/7/2024,Reidsville,Wilson,L,4,FB,3,1,0,bip,fly,6,fo9
+5/30/2024,Danville,White,R,1,FB,1,0,0,strike,looking,,
+5/30/2024,Danville,White,R,1,FB,7,0,0,strike,looking,,
+5/30/2024,Danville,White,R,1,FB,12,1,1,strike,swinging,,k
+5/31/2024,Burlington,White,R,1,CH,13,1,1,strike,swinging,,
+5/31/2024,Burlington,White,R,1,FB,13,0,0,ball,,,
+5/31/2024,Burlington,White,R,1,CH,3,1,0,foul,,,
+5/31/2024,Burlington,White,R,1,FB,9,1,0,foul,,,
+5/31/2024,Burlington,White,R,1,FB,13,0,0,ball,,,
+5/31/2024,Burlington,White,R,1,FB,6,0,0,strike,looking,,kk
+5/31/2024,Burlington,White,L,2,FB,5,1,0,foul,,,
+5/31/2024,Burlington,White,L,2,FB,5,1,0,bip,grounder,5,single
+5/31/2024,Burlington,White,R,3,FB,12,1,1,strike,swinging,,
+5/31/2024,Burlington,White,R,3,CH,11,0,0,ball,,,
+5/31/2024,Burlington,White,R,3,CB,10,0,0,ball,,,
+5/31/2024,Burlington,White,R,3,FB,10,0,0,ball,hbp,,
+5/31/2024,Burlington,White,R,4,FB,13,1,0,foul,,,
+5/31/2024,Burlington,White,R,4,SL,6,0,0,strike,looking,,
+5/31/2024,Burlington,White,R,4,FB,13,0,0,ball,,,
+5/31/2024,Burlington,White,R,4,CH,13,0,0,ball,,,
+5/31/2024,Burlington,White,R,4,FB,9,1,1,strike,swinging,,k
+5/28/2024,Carolina,Fleming,R,1,CB,10,0,0,ball,hbp,,
+5/28/2024,Carolina,Fleming,R,2,FB,1,1,1,strike,swinging,,
+5/28/2024,Carolina,Fleming,R,2,CH,1,0,0,strike,looking,,
+5/28/2024,Carolina,Fleming,R,2,FB,9,0,0,strike,looking,,kk
+5/28/2024,Carolina,Fleming,R,3,CB,6,1,0,bip,fly,6,fo9
+5/31/2024,Burlington,Fleming,R,1,FB,6,0,0,strike,looking,,
+5/31/2024,Burlington,Fleming,R,1,SL,10,0,0,ball,,,
+5/31/2024,Burlington,Fleming,R,1,SL,13,0,0,ball,,,
+5/31/2024,Burlington,Fleming,R,1,FB,13,0,0,ball,,,
+5/31/2024,Burlington,Fleming,R,1,FB,10,0,0,ball,walk,,
+5/31/2024,Burlington,Fleming,L,2,FB,11,0,0,ball,,,
+5/31/2024,Burlington,Fleming,L,2,FB,6,0,0,strike,looking,,
+5/31/2024,Burlington,Fleming,L,2,CH,11,0,0,ball,,,
+5/31/2024,Burlington,Fleming,L,2,FB,1,1,0,bip,fly,4,single
+5/31/2024,Burlington,Fleming,R,3,FB,5,1,0,foul,,,
+5/31/2024,Burlington,Fleming,R,3,FB,13,0,0,ball,,,
+5/31/2024,Burlington,Fleming,R,3,SL,3,0,0,strike,looking,,
+5/31/2024,Burlington,Fleming,R,3,CH,13,0,0,ball,,,
+5/31/2024,Burlington,Fleming,R,3,FB,6,1,0,foul,,,
+5/31/2024,Burlington,Fleming,R,3,CH,3,1,0,bip,fly,6,fo4
+5/31/2024,Burlington,Fleming,R,4,FB,13,0,0,ball,,,
+5/31/2024,Burlington,Fleming,R,4,CH,5,0,0,strike,looking,,
+5/31/2024,Burlington,Fleming,R,4,CH,9,0,0,strike,looking,,
+5/31/2024,Burlington,Fleming,R,4,FB,4,1,0,bip,grounder,2,go6
+5/30/2024,Danville,Wilson,R,1,SL,2,1,0,foul,,,
+5/30/2024,Danville,Wilson,R,1,FB,13,0,0,ball,,,
+5/30/2024,Danville,Wilson,R,1,FB,13,0,0,ball,,,
+5/30/2024,Danville,Wilson,R,1,FB,13,0,0,ball,,,
+5/30/2024,Danville,Wilson,R,1,CB,7,1,0,foul,,,
+5/30/2024,Danville,Wilson,R,1,SL,11,0,0,ball,walk,,
+5/30/2024,Danville,Wilson,R,2,SL,12,0,0,ball,,,
+5/30/2024,Danville,Wilson,R,2,FB,10,0,0,ball,,,
+5/30/2024,Danville,Wilson,R,2,FB,13,0,0,ball,,,
+5/30/2024,Danville,Wilson,R,2,FB,6,0,0,strike,looking,,
+5/30/2024,Danville,Wilson,R,2,FB,12,0,0,ball,walk,,
+5/30/2024,Danville,Wilson,R,3,FB,10,0,0,ball,,,
+5/30/2024,Danville,Wilson,R,3,CH,10,0,0,ball,,,
+5/30/2024,Danville,Wilson,R,3,CB,9,0,0,strike,looking,,
+5/30/2024,Danville,Wilson,R,3,CH,7,0,0,strike,looking,,
+5/30/2024,Danville,Wilson,R,3,FB,13,0,0,ball,,,
+5/30/2024,Danville,Wilson,R,3,CB,10,0,0,ball,hbp,,
+5/30/2024,Danville,Wilson,R,4,FB,4,1,0,bip,grounder,2,go1
+6/11/2024,Clayton,Oliver,R,1,FB,9,0,0,strike,looking,,
+6/11/2024,Clayton,Oliver,R,1,FB,13,1,0,foul,,,
+6/11/2024,Clayton,Oliver,R,1,FB,13,0,0,ball,,,
+6/11/2024,Clayton,Oliver,R,1,SL,10,0,0,ball,,,
+6/11/2024,Clayton,Oliver,R,1,CH,8,1,1,strike,swinging,,k
+6/11/2024,Clayton,Oliver,R,2,FB,3,1,0,bip,fly,5,sf8
+6/11/2024,Clayton,Oliver,L,3,FB,13,0,0,ball,,,
+6/11/2024,Clayton,Oliver,L,3,CB,12,0,0,ball,,,
+6/11/2024,Clayton,Oliver,L,3,FB,11,0,0,ball,,,
+6/11/2024,Clayton,Oliver,L,3,SL,12,1,0,foul,,,
+6/11/2024,Clayton,Oliver,L,3,FB,7,1,0,bip,grounder,1,go4
+6/11/2024,Clayton,Oliver,R,4,CH,12,0,0,ball,,,
+6/11/2024,Clayton,Oliver,R,4,FB,6,1,0,foul,,,
+6/11/2024,Clayton,Oliver,R,4,FB,8,1,0,foul,,,
+6/11/2024,Clayton,Oliver,R,4,FB,6,1,0,bip,grounder,2,single
+6/11/2024,Clayton,Oliver,R,5,FB,1,1,0,foul,,,
+6/11/2024,Clayton,Oliver,R,5,CB,9,0,0,strike,looking,,
+6/11/2024,Clayton,Oliver,R,5,CB,13,0,0,ball,,,
+6/11/2024,Clayton,Oliver,R,5,FB,11,0,0,ball,,,
+6/11/2024,Clayton,Oliver,R,5,FB,13,0,0,ball,,,
+6/11/2024,Clayton,Oliver,R,5,SL,4,1,1,strike,swinging,,k
+6/4/2024,High Point,Ross,R,1,FB,3,1,0,bip,fly,6,fo9
+6/4/2024,High Point,Ross,R,2,FB,8,1,0,foul,,,
+6/4/2024,High Point,Ross,R,2,CH,7,1,0,bip,fly,6,fo9
+6/4/2024,High Point,Ross,R,3,FB,3,1,0,foul,,,
+6/4/2024,High Point,Ross,R,3,CH,13,0,0,ball,,,
+6/4/2024,High Point,Ross,R,3,CH,7,0,0,strike,looking,,
+6/4/2024,High Point,Ross,R,3,FB,11,1,0,foul,,,
+6/4/2024,High Point,Ross,R,3,SL,13,0,0,ball,,,
+6/4/2024,High Point,Ross,R,3,FB,12,0,0,ball,,,
+6/4/2024,High Point,Ross,R,3,CH,7,0,0,strike,looking,,kk
+6/4/2024,High Point,Ross,R,4,FB,11,0,0,ball,,,
+6/4/2024,High Point,Ross,R,4,CB,10,0,0,ball,,,
+6/4/2024,High Point,Ross,R,4,FB,6,1,0,bip,fly,5,fo8
+6/4/2024,High Point,Ross,L,5,FB,12,0,0,ball,,,
+6/4/2024,High Point,Ross,L,5,FB,12,0,0,ball,,,
+6/4/2024,High Point,Ross,L,5,FB,9,0,0,strike,looking,,
+6/4/2024,High Point,Ross,L,5,CB,8,1,0,foul,,,
+6/4/2024,High Point,Ross,L,5,CB,4,0,0,strike,looking,,kk
+6/5/2024,Yorktown,Oliver,R,1,CB,10,0,0,ball,,,
+6/5/2024,Yorktown,Oliver,R,1,FB,7,1,0,foul,,,
+6/5/2024,Yorktown,Oliver,R,1,CH,5,1,0,foul,,,
+6/5/2024,Yorktown,Oliver,R,1,CB,10,0,0,b,,,
+6/5/2024,Yorktown,Oliver,R,1,FB,11,1,0,foul,,,
+6/5/2024,Yorktown,Oliver,R,1,FB,4,1,1,strike,swinging,,k
+6/5/2024,Yorktown,Oliver,R,2,CH,11,0,0,ball,,,
+6/5/2024,Yorktown,Oliver,R,2,FB,1,1,0,bip,grounder,6,double
+6/5/2024,Yorktown,Oliver,R,3,FB,5,1,0,foul,,,
+6/5/2024,Yorktown,Oliver,R,3,FB,12,0,0,ball,,,
+6/5/2024,Yorktown,Oliver,R,3,CH,11,1,0,foul,,,
+6/5/2024,Yorktown,Oliver,R,3,CH,4,1,0,bip,fly,4,sf7
+6/5/2024,Yorktown,Oliver,L,4,FB,13,0,0,ball,,,
+6/5/2024,Yorktown,Oliver,L,4,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,Oliver,L,4,CH,13,0,0,ball,,,
+6/5/2024,Yorktown,Oliver,L,4,FB,5,0,0,strike,looking,,
+6/5/2024,Yorktown,Oliver,L,4,CH,4,1,1,strike,swinging,,
+6/5/2024,Yorktown,Oliver,L,4,CH,12,0,0,ball,walk,,
+6/7/2024,Reidsville,Ross,R,1,FB,2,1,0,foul,,,
+6/7/2024,Reidsville,Ross,R,1,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,Ross,R,1,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,Ross,R,1,FB,12,0,0,ball,,,
+6/7/2024,Reidsville,Ross,R,1,CH,3,1,0,foul,,,
+6/7/2024,Reidsville,Ross,R,1,CB,10,0,0,ball,walk,,
+6/7/2024,Reidsville,Ross,R,2,FB,13,0,0,ball,,,
+6/7/2024,Reidsville,Ross,R,2,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,Ross,R,2,FB,12,0,0,ball,,,
+6/7/2024,Reidsville,Ross,R,2,FB,10,0,0,ball,walk,,
+6/7/2024,Reidsville,Ross,R,3,SL,13,0,0,ball,,,
+6/7/2024,Reidsville,Ross,R,3,FB,6,1,0,bip,grounder,1,go3
+6/7/2024,Reidsville,Ross,R,4,FB,12,0,0,ball,,,
+6/7/2024,Reidsville,Ross,R,4,SL,6,0,0,strike,looking,,
+6/7/2024,Reidsville,Ross,R,4,CB,12,0,0,ball,,,
+6/7/2024,Reidsville,Ross,R,4,FB,4,1,0,bip,grounder,2,go1
+5/28/2024,Carolina,Ross,R,1,FB,2,1,0,bip,grounder,1,go4
+5/28/2024,Carolina,Ross,R,2,CH,4,0,0,strike,looking,,
+5/28/2024,Carolina,Ross,R,2,FB,4,1,1,strike,swinging,,
+5/28/2024,Carolina,Ross,R,2,FB,9,1,0,bip,grounder,2,roe
+5/28/2024,Carolina,Ross,R,3,FB,7,1,0,bip,grounder,1,go3
+5/28/2024,Carolina,Ross,R,4,FB,11,0,0,ball,,,
+5/28/2024,Carolina,Ross,R,4,FB,2,1,0,bip,fly,5,single
+5/31/2024,Burlington,Ross,R,1,FB,2,1,0,foul,,,
+5/31/2024,Burlington,Ross,R,1,SL,11,1,0,foul,,,
+5/31/2024,Burlington,Ross,R,1,FB,2,1,1,strike,swinging,,k
+5/31/2024,Burlington,Ross,L,2,CB,11,0,0,ball,hbp,,
+5/31/2024,Burlington,Ross,R,3,CH,11,0,0,ball,,,
+5/31/2024,Burlington,Ross,R,3,FB,9,0,0,strike,looking,,
+5/31/2024,Burlington,Ross,R,3,CH,3,0,0,strike,looking,,
+5/31/2024,Burlington,Ross,R,3,FB,1,1,0,bip,grounder,2,gidp
+5/31/2024,Burlington,Ross,R,4,FB,2,1,0,bip,fly,5,fo8
+5/28/2024,Carolina,Garrett,R,1,FB,13,0,0,ball,,,
+5/28/2024,Carolina,Garrett,R,1,FB,5,1,0,bip,liner,6,lo9
+5/30/2024,Danville,Garrett,R,1,SL,4,0,0,strike,looking,,
+5/30/2024,Danville,Garrett,R,1,SL,5,1,1,strike,swinging,,
+5/30/2024,Danville,Garrett,R,1,FB,9,1,1,strike,swinging,,k
+5/30/2024,Danville,Garrett,R,2,FB,4,1,0,bip,grounder,3,go5
+5/30/2024,Danville,Garrett,R,3,FB,10,1,0,foul,,,
+5/30/2024,Danville,Garrett,R,3,FB,13,0,0,ball,,,
+5/30/2024,Danville,Garrett,R,3,FB,2,1,0,bip,popup,2,po4
+5/30/2024,Danville,Garrett,R,4,FB,6,1,0,foul,,,
+5/30/2024,Danville,Garrett,R,4,CH,10,0,0,ball,,,
+5/30/2024,Danville,Garrett,R,4,FB,6,0,0,strike,looking,,
+5/30/2024,Danville,Garrett,R,4,CH,8,1,0,foul,,,
+5/30/2024,Danville,Garrett,R,4,FB,1,1,0,foul,,,
+5/30/2024,Danville,Garrett,R,4,CH,12,1,1,strike,swinging,,k
+5/30/2024,Danville,Garrett,R,5,CH,7,0,0,strike,looking,,
+5/30/2024,Danville,Garrett,R,5,FB,6,1,0,bip,grounder,1,roe
+6/11/2024,Clayton,Snelson,R,1,SL,9,0,0,strike,looking,,
+6/11/2024,Clayton,Snelson,R,1,FB,12,0,0,ball,,,
+6/11/2024,Clayton,Snelson,R,1,FB,6,1,0,foul,,,
+6/11/2024,Clayton,Snelson,R,1,FB,10,0,0,ball,,,
+6/11/2024,Clayton,Snelson,R,1,CH,13,0,0,ball,,,
+6/11/2024,Clayton,Snelson,R,1,FB,12,0,0,ball,walk,,
+6/11/2024,Clayton,Snelson,R,2,CH,10,0,0,ball,hbp,,
+6/11/2024,Clayton,Snelson,L,3,FB,5,0,0,strike,looking,,
+6/11/2024,Clayton,Snelson,L,3,CB,4,1,0,foul,,,
+6/11/2024,Clayton,Snelson,L,3,FB,12,0,0,ball,hbp,,
+6/11/2024,Clayton,Snelson,R,4,FB,3,1,0,foul,,,
+6/11/2024,Clayton,Snelson,R,4,CB,10,0,0,ball,,,
+6/11/2024,Clayton,Snelson,R,4,CH,13,0,0,ball,,,
+6/11/2024,Clayton,Snelson,R,4,CB,13,0,0,ball,,,
+6/11/2024,Clayton,Snelson,R,4,FB,9,1,0,bip,fly,6,fo9
+6/4/2024,High Point,Snelson,R,1,FB,10,1,0,bip,popup,7,po3
+6/4/2024,High Point,Snelson,R,2,FB,1,1,0,foul,,,
+6/4/2024,High Point,Snelson,R,2,CH,3,1,0,foul,,,
+6/4/2024,High Point,Snelson,R,2,FB,13,0,0,ball,,,
+6/4/2024,High Point,Snelson,R,2,FB,2,1,0,bip,fly,4,double
+6/4/2024,High Point,Snelson,R,3,CH,10,0,0,ball,,,
+6/4/2024,High Point,Snelson,R,3,FB,2,1,0,foul,,,
+6/4/2024,High Point,Snelson,R,3,CB,10,0,0,ball,,,
+6/4/2024,High Point,Snelson,R,3,FB,13,1,1,strike,swinging,,
+6/4/2024,High Point,Snelson,R,3,CB,10,0,0,ball,,,
+6/4/2024,High Point,Snelson,R,3,CH,3,1,0,foul,,,
+6/4/2024,High Point,Snelson,R,3,CH,11,0,0,ball,walk,,
+6/4/2024,High Point,Snelson,L,4,FB,6,0,0,strike,looking,,
+6/4/2024,High Point,Snelson,L,4,FB,13,0,0,ball,,,
+6/4/2024,High Point,Snelson,L,4,SL,12,0,0,ball,,,
+6/4/2024,High Point,Snelson,L,4,FB,7,1,1,strike,swinging,,
+6/4/2024,High Point,Snelson,L,4,FB,12,0,0,ball,,,
+6/4/2024,High Point,Snelson,L,4,CH,9,1,0,foul,,,
+6/4/2024,High Point,Snelson,L,4,FB,4,1,1,strike,swinging,,k
+6/5/2024,Yorktown,Merlak,R,1,FB,1,0,0,strike,looking,,
+6/5/2024,Yorktown,Merlak,R,1,FB,13,0,0,ball,,,
+6/5/2024,Yorktown,Merlak,R,1,FB,12,0,0,ball,,,
+6/5/2024,Yorktown,Merlak,R,1,CH,6,1,1,strike,swinging,,
+6/5/2024,Yorktown,Merlak,R,1,FB,13,0,0,ball,,,
+6/5/2024,Yorktown,Merlak,R,1,CH,5,1,1,strike,swinging,,k
+6/5/2024,Yorktown,Merlak,R,2,FB,4,1,0,bip,popup,1,po3
+6/5/2024,Yorktown,Merlak,R,3,CH,4,1,0,foul,,,
+6/5/2024,Yorktown,Merlak,R,3,CH,12,0,0,ball,,,
+6/5/2024,Yorktown,Merlak,R,3,FB,1,1,0,foul,,,
+6/5/2024,Yorktown,Merlak,R,3,FB,13,0,0,ball,,,
+6/5/2024,Yorktown,Merlak,R,3,FB,6,1,0,bip,grounder,2,single
+6/5/2024,Yorktown,Merlak,L,4,CB,9,0,0,strike,looking,,
+6/5/2024,Yorktown,Merlak,L,4,CH,13,0,0,ball,,,
+6/5/2024,Yorktown,Merlak,L,4,FB,13,0,0,ball,,,
+6/5/2024,Yorktown,Merlak,L,4,CH,13,0,0,ball,,,
+6/5/2024,Yorktown,Merlak,L,4,CH,13,0,0,ball,walk,,
+6/7/2024,Reidsville,Richardson,R,1,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,Richardson,R,1,FB,13,0,0,ball,,,
+6/7/2024,Reidsville,Richardson,R,1,CB,12,0,0,ball,,,
+6/7/2024,Reidsville,Richardson,R,1,FB,5,0,0,strike,looking,,
+6/7/2024,Reidsville,Richardson,R,1,FB,1,1,0,bip,grounder,2,go4
+6/7/2024,Reidsville,Richardson,R,2,FB,4,1,0,bip,liner,6,double
+6/7/2024,Reidsville,Richardson,R,3,CH,11,1,0,bip,fly,4,single
+6/7/2024,Reidsville,Richardson,L,4,FB,12,0,0,ball,,,
+6/7/2024,Reidsville,Richardson,L,4,CH,6,0,0,strike,looking,,
+6/7/2024,Reidsville,Richardson,L,4,FB,7,1,0,bip,fly,6,fo9
+5/28/2024,Carolina,Snelson,R,1,FB,8,1,1,strike,swinging,,
+5/28/2024,Carolina,Snelson,R,1,FB,5,1,0,foul,,,
+5/28/2024,Carolina,Snelson,R,1,FB,2,1,0,foul,,,
+5/28/2024,Carolina,Snelson,R,1,CB,12,0,0,ball,,,
+5/28/2024,Carolina,Snelson,R,1,FB,7,1,0,bip,fly,5,fo8
+5/28/2024,Carolina,Snelson,R,2,CH,9,1,0,foul,,,
+5/28/2024,Carolina,Snelson,R,2,CB,7,1,0,foul,,,
+5/28/2024,Carolina,Snelson,R,2,FB,12,1,1,strike,swinging,,k
+5/28/2024,Carolina,Snelson,R,3,FB,7,0,0,strike,looking,,
+5/28/2024,Carolina,Snelson,R,3,FB,12,1,0,foul,,,
+5/28/2024,Carolina,Snelson,R,3,CB,4,1,0,bip,popup,8,po2
+5/28/2024,Carolina,Bock,R,1,FB,2,1,0,bip,grounder,3,go5
+5/28/2024,Carolina,Bock,R,2,FB,5,1,0,bip,popup,2,po4
+5/28/2024,Carolina,Bock,R,3,FB,4,1,0,bip,grounder,2,single
+5/30/2024,Danville,Bock,R,1,SL,8,0,0,strike,looking,,
+5/30/2024,Danville,Bock,R,1,SL,13,0,0,ball,,,
+5/30/2024,Danville,Bock,R,1,CB,12,0,0,ball,,,
+5/30/2024,Danville,Bock,R,1,FB,13,0,0,ball,,,
+5/30/2024,Danville,Bock,R,1,FB,13,0,0,ball,walk,,
+5/30/2024,Danville,Bock,R,2,FB,9,0,0,strike,looking,,
+5/30/2024,Danville,Bock,R,2,SL,13,0,0,ball,,,
+5/30/2024,Danville,Bock,R,2,FB,9,1,0,foul,,,
+5/30/2024,Danville,Bock,R,2,SL,11,0,0,ball,,,
+5/30/2024,Danville,Bock,R,2,FB,5,1,0,bip,liner,5,single
+5/30/2024,Danville,Bock,R,3,SL,8,0,0,strike,looking,,
+5/30/2024,Danville,Bock,R,3,SL,10,0,0,ball,,,
+5/30/2024,Danville,Bock,R,3,FB,12,0,0,ball,,,
+5/30/2024,Danville,Bock,R,3,FB,8,0,0,strike,looking,,
+5/30/2024,Danville,Bock,R,3,SL,13,0,0,ball,,,
+5/30/2024,Danville,Bock,R,3,FB,10,0,0,ball,walk,,
+5/30/2024,Danville,Bock,R,4,FB,12,1,1,strike,swinging,,
+5/30/2024,Danville,Bock,R,4,CH,10,0,0,ball,,,
+5/30/2024,Danville,Bock,R,4,FB,7,1,1,strike,swinging,,
+5/30/2024,Danville,Bock,R,4,SL,12,0,0,ball,,,
+5/30/2024,Danville,Bock,R,4,FB,12,0,0,ball,,,
+5/30/2024,Danville,Bock,R,4,CB,10,0,0,ball,walk,,
+5/30/2024,Danville,Bock,R,5,FB,13,0,0,ball,,,
+5/30/2024,Danville,Bock,R,5,SL,4,0,0,strike,looking,,
+5/30/2024,Danville,Bock,R,5,FB,10,0,0,ball,,,
+5/30/2024,Danville,Bock,R,5,FB,4,0,0,strike,looking,,
+5/30/2024,Danville,Bock,R,5,CB,9,0,0,strike,looking,,kk
+5/31/2024,Burlington,Bock,R,1,FB,9,0,0,strike,looking,,
+5/31/2024,Burlington,Bock,R,1,FB,12,1,1,strike,swinging,,
+5/31/2024,Burlington,Bock,R,1,SL,13,0,0,ball,,,
+5/31/2024,Burlington,Bock,R,1,FB,6,0,0,strike,looking,,kk
+5/31/2024,Burlington,Bock,L,2,FB,6,1,1,strike,swinging,,
+5/31/2024,Burlington,Bock,L,2,FB,12,0,0,ball,,,
+5/31/2024,Burlington,Bock,L,2,FB,9,0,0,strike,looking,,
+5/31/2024,Burlington,Bock,L,2,CH,13,0,0,ball,,,
+5/31/2024,Burlington,Bock,L,2,FB,1,1,0,bip,grounder,3,roe
+5/31/2024,Burlington,Bock,R,3,FB,5,1,0,bip,grounder,4,single
+5/31/2024,Burlington,Bock,R,4,FB,11,0,0,ball,,,
+5/31/2024,Burlington,Bock,R,4,FB,11,0,0,ball,,,
+5/31/2024,Burlington,Bock,R,4,FB,3,1,0,bip,fly,5,single
+5/31/2024,Burlington,Merlak,L,1,FB,10,0,0,ball,,,
+5/31/2024,Burlington,Merlak,L,1,FB,13,0,0,ball,,,
+5/31/2024,Burlington,Merlak,L,1,FB,11,0,0,ball,,,
+5/31/2024,Burlington,Merlak,L,1,FB,11,0,0,ball,walk,,
+5/31/2024,Burlington,Merlak,R,2,FB,11,0,0,ball,,,
+5/31/2024,Burlington,Merlak,R,2,FB,13,0,0,ball,,,
+5/31/2024,Burlington,Merlak,R,2,FB,13,0,0,ball,,,
+5/31/2024,Burlington,Merlak,R,2,FB,4,0,0,strike,looking,,
+5/31/2024,Burlington,Merlak,R,2,FB,10,0,0,ball,walk,,
+5/31/2024,Burlington,Merlak,R,3,FB,10,0,0,ball,,,
+5/31/2024,Burlington,Merlak,R,3,CH,11,0,0,ball,,,
+5/31/2024,Burlington,Merlak,R,3,FB,8,1,0,bip,fly,5,fo9
+5/28/2024,Carolina,Merlak,R,1,CB,7,1,1,strike,swinging,,
+5/28/2024,Carolina,Merlak,R,1,SL,13,0,0,ball,,,
+5/28/2024,Carolina,Merlak,R,1,FB,12,0,0,ball,,,
+5/28/2024,Carolina,Merlak,R,1,FB,12,0,0,ball,hbp,,
+6/11/2024,Clayton,Merlak,R,1,CH,11,0,0,ball,,,
+6/11/2024,Clayton,Merlak,R,1,FB,7,1,1,strike,swinging,,
+6/11/2024,Clayton,Merlak,R,1,FB,13,0,0,ball,,,
+6/11/2024,Clayton,Merlak,R,1,FB,10,0,0,ball,,,
+6/11/2024,Clayton,Merlak,R,1,FB,1,1,0,foul,,,
+6/11/2024,Clayton,Merlak,R,1,FB,11,0,0,ball,walk,,
+6/11/2024,Clayton,Merlak,R,2,CH,10,0,0,ball,hbp,,
+6/11/2024,Clayton,Merlak,R,3,CB,12,0,0,ball,,,
+6/11/2024,Clayton,Merlak,R,3,FB,9,1,0,foul,,,
+6/11/2024,Clayton,Merlak,R,3,CB,12,0,0,ball,,,
+6/11/2024,Clayton,Merlak,R,3,FB,1,0,0,strike,looking,,
+6/11/2024,Clayton,Merlak,R,3,CB,12,0,0,ball,,,
+6/11/2024,Clayton,Merlak,R,3,FB,2,1,0,foul,,,
+6/11/2024,Clayton,Merlak,R,3,FB,5,1,0,foul,,,
+6/11/2024,Clayton,Merlak,R,3,CB,6,1,0,foul,,,
+6/11/2024,Clayton,Merlak,R,3,CH,13,0,0,ball,walk,,
+6/11/2024,Clayton,Merlak,R,4,FB,4,1,0,bip,grounder,3,roe
+6/4/2024,High Point,Cepparulo,R,1,CH,11,0,0,ball,,,
+6/4/2024,High Point,Cepparulo,R,1,FB,5,0,0,strike,looking,,
+6/4/2024,High Point,Cepparulo,R,1,FB,6,1,1,strike,swinging,,
+6/4/2024,High Point,Cepparulo,R,1,CH,11,0,0,ball,,,
+6/4/2024,High Point,Cepparulo,R,1,SL,11,1,0,foul,,,
+6/4/2024,High Point,Cepparulo,R,1,FB,2,1,0,foul,,,
+6/4/2024,High Point,Cepparulo,R,1,CB,12,0,0,ball,,,
+6/4/2024,High Point,Cepparulo,R,1,FB,10,0,0,ball,walk,,
+6/4/2024,High Point,Cepparulo,R,2,FB,4,1,0,foul,,,
+6/4/2024,High Point,Cepparulo,R,2,FB,3,1,0,bip,fly,6,hr
+6/4/2024,High Point,Cepparulo,R,3,FB,13,0,0,ball,,,
+6/4/2024,High Point,Cepparulo,R,3,CH,12,0,0,ball,,,
+6/4/2024,High Point,Cepparulo,R,3,FB,10,0,0,ball,,,
+6/4/2024,High Point,Cepparulo,R,3,FB,13,0,0,ball,walk,,
+6/4/2024,High Point,Cepparulo,R,4,CH,10,0,0,ball,,,
+6/4/2024,High Point,Cepparulo,R,4,SL,11,0,0,ball,,,
+6/4/2024,High Point,Cepparulo,R,4,FB,1,1,0,bip,grounder,1,fc
+6/4/2024,High Point,Cepparulo,R,5,FB,12,0,0,ball,,,
+6/4/2024,High Point,Cepparulo,R,5,CH,7,1,1,strike,swinging,,
+6/4/2024,High Point,Cepparulo,R,5,CH,9,0,0,strike,looking,,
+6/4/2024,High Point,Cepparulo,R,5,FB,2,1,0,bip,fly,5,double
+6/5/2024,Yorktown,Cepparulo,R,1,CB,10,0,0,ball,,,
+6/5/2024,Yorktown,Cepparulo,R,1,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,Cepparulo,R,1,FB,11,0,0,ball,,,
+6/5/2024,Yorktown,Cepparulo,R,1,FB,11,0,0,ball,walk,,
+6/7/2024,Reidsville,Bock,R,1,FB,7,0,0,strike,looking,,
+6/7/2024,Reidsville,Bock,R,1,SL,9,1,0,bip,fly,6,single
+6/7/2024,Reidsville,Bock,R,2,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,Bock,R,2,FB,12,0,0,ball,,,
+6/7/2024,Reidsville,Bock,R,2,SL,13,0,0,ball,,,
+6/7/2024,Reidsville,Bock,R,2,FB,6,0,0,strike,looking,,
+6/7/2024,Reidsville,Bock,R,2,FB,10,0,0,ball,walk,,
+6/7/2024,Reidsville,Bock,R,3,FB,11,0,0,ball,,,
+6/7/2024,Reidsville,Bock,R,3,SL,10,0,0,ball,,,
+6/7/2024,Reidsville,Bock,R,3,CH,1,1,0,bip,popup,3,po5
+6/7/2024,Reidsville,Bock,R,4,CH,13,0,0,ball,,,
+6/7/2024,Reidsville,Bock,R,4,FB,10,1,0,foul,,,
+6/7/2024,Reidsville,Bock,R,4,CB,13,0,0,ball,,,
+6/7/2024,Reidsville,Bock,R,4,FB,9,0,0,strike,looking,,
+6/7/2024,Reidsville,Bock,R,4,CB,11,0,0,ball,,,
+6/7/2024,Reidsville,Bock,R,4,CB,13,0,0,ball,walk,,
+5/30/2024,Danville,Cepparulo,R,1,FB,10,0,0,ball,,,
+5/30/2024,Danville,Cepparulo,R,1,FB,13,0,0,ball,,,
+5/30/2024,Danville,Cepparulo,R,1,FB,6,1,0,bip,liner,5,double
+5/30/2024,Danville,Cepparulo,R,2,FB,13,0,0,ball,,,
+5/30/2024,Danville,Cepparulo,R,2,FB,6,1,1,strike,swinging,,
+5/30/2024,Danville,Cepparulo,R,2,FB,12,0,0,ball,,,
+5/30/2024,Danville,Cepparulo,R,2,CH,9,1,1,strike,swinging,,
+5/30/2024,Danville,Cepparulo,R,2,FB,12,0,0,ball,,,
+5/30/2024,Danville,Cepparulo,R,2,SL,8,0,0,strike,looking,,kk
+5/30/2024,Danville,Cepparulo,R,3,FB,13,1,0,bip,fly,6,hr
+5/30/2024,Danville,Cepparulo,R,4,SL,5,1,0,foul,,,
+5/30/2024,Danville,Cepparulo,R,4,FB,6,1,0,foul,,,
+5/30/2024,Danville,Cepparulo,R,4,FB,12,0,0,ball,,,
+5/30/2024,Danville,Cepparulo,R,4,FB,13,1,1,strike,swinging,,
+5/30/2024,Danville,Cepparulo,R,4,FB,10,0,0,ball,,,
+5/30/2024,Danville,Cepparulo,R,4,FB,12,0,0,ball,,,
+5/30/2024,Danville,Cepparulo,R,5,FB,4,0,0,strike,looking,,
+5/30/2024,Danville,Cepparulo,R,5,FB,5,1,0,bip,grounder,2,go1
+5/31/2024,Burlington,Cepparulo,R,1,FB,13,0,0,ball,,,
+5/31/2024,Burlington,Cepparulo,R,1,FB,5,1,0,foul,,,
+5/31/2024,Burlington,Cepparulo,R,1,FB,4,1,0,bip,grounder,2,go1
+5/31/2024,Burlington,Cepparulo,L,2,FB,2,1,1,strike,swinging,,
+5/31/2024,Burlington,Cepparulo,L,2,FB,13,0,0,ball,,,
+5/31/2024,Burlington,Cepparulo,L,2,FB,11,0,0,ball,,,
+5/31/2024,Burlington,Cepparulo,L,2,CH,6,1,0,bip,popup,2,po4
+5/31/2024,Burlington,Cepparulo,R,3,CB,12,0,0,ball,,,
+5/31/2024,Burlington,Cepparulo,R,3,FB,4,0,0,strike,looking,,
+5/31/2024,Burlington,Cepparulo,R,3,FB,10,0,0,ball,,,
+5/31/2024,Burlington,Cepparulo,R,3,CB,12,0,0,ball,,,
+5/31/2024,Burlington,Cepparulo,R,3,FB,4,0,0,strike,looking,,
+5/31/2024,Burlington,Cepparulo,R,3,FB,7,1,0,bip,fly,6,fo9
+5/31/2024,Burlington,Cepparulo,R,4,CH,6,1,1,strike,swinging,,
+5/31/2024,Burlington,Cepparulo,R,4,CH,3,0,0,strike,looking,,
+5/31/2024,Burlington,Cepparulo,R,4,FB,13,0,0,ball,,,
+5/31/2024,Burlington,Cepparulo,R,4,FB,3,1,0,bip,liner,6,single
+6/11/2024,Clayton,Miller,R,1,CB,4,0,0,strike,looking,,
+6/11/2024,Clayton,Miller,R,1,SL,6,0,0,strike,looking,,
+6/11/2024,Clayton,Miller,R,1,SL,13,0,0,ball,,,
+6/11/2024,Clayton,Miller,R,1,FB,8,1,0,bip,grounder,2,go4
+6/11/2024,Clayton,Miller,R,2,FB,3,1,0,foul,,,
+6/11/2024,Clayton,Miller,R,2,SL,13,0,0,ball,,,
+6/11/2024,Clayton,Miller,R,2,CH,10,1,0,foul,,,
+6/11/2024,Clayton,Miller,R,2,SL,9,1,0,bip,fly,6,roe
+6/11/2024,Clayton,Miller,R,3,FB,1,1,0,bip,grounder,3,sb6
+6/11/2024,Clayton,Miller,R,4,FB,1,1,1,strike,swinging,,
+6/11/2024,Clayton,Miller,R,4,FB,13,0,0,ball,,,
+6/11/2024,Clayton,Miller,R,4,CH,6,1,0,bip,fly,4,fo7
+6/4/2024,High Point,Bock,R,1,CB,10,0,0,ball,,,
+6/4/2024,High Point,Bock,R,1,FB,13,0,0,ball,,,
+6/4/2024,High Point,Bock,R,1,FB,12,0,0,ball,,,
+6/4/2024,High Point,Bock,R,1,FB,13,0,0,ball,walk,,
+6/4/2024,High Point,Bock,R,2,FB,13,0,0,ball,,,
+6/4/2024,High Point,Bock,R,2,CH,13,0,0,ball,,,
+6/4/2024,High Point,Bock,R,2,FB,9,0,0,strike,looking,,
+6/4/2024,High Point,Bock,R,2,FB,13,0,0,ball,,,
+6/4/2024,High Point,Bock,R,2,SL,13,1,1,strike,swinging,,
+6/4/2024,High Point,Bock,R,2,CH,13,0,0,ball,walk,,
+6/4/2024,High Point,Bock,R,3,FB,9,0,0,strike,looking,,
+6/4/2024,High Point,Bock,R,3,CH,6,0,0,strike,looking,,
+6/4/2024,High Point,Bock,R,3,FB,5,1,0,bip,liner,4,single
+6/4/2024,High Point,Bock,R,4,FB,10,0,0,ball,,,
+6/4/2024,High Point,Bock,R,4,FB,13,0,0,ball,,,
+6/4/2024,High Point,Bock,R,4,CH,11,0,0,ball,,,
+6/4/2024,High Point,Bock,R,4,CH,8,0,0,strike,looking,,
+6/4/2024,High Point,Bock,R,4,FB,1,1,0,bip,liner,5,single
+6/4/2024,High Point,Bock,L,5,FB,11,0,0,ball,,,
+6/4/2024,High Point,Bock,L,5,FB,13,0,0,ball,,,
+6/4/2024,High Point,Bock,L,5,FB,4,0,0,strike,looking,,
+6/4/2024,High Point,Bock,L,5,CB,8,0,0,strike,looking,,
+6/4/2024,High Point,Bock,L,5,CH,10,0,0,ball,,,
+6/4/2024,High Point,Bock,L,5,FB,5,1,0,foul,,,
+6/4/2024,High Point,Bock,L,5,FB,6,0,0,strike,looking,,kk
+6/5/2024,Yorktown,Miller,R,1,FB,12,0,0,ball,,,
+6/5/2024,Yorktown,Miller,R,1,FB,4,1,0,foul,,,
+6/5/2024,Yorktown,Miller,R,1,SL,13,0,0,ball,,,
+6/5/2024,Yorktown,Miller,R,1,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,Miller,R,1,FB,4,0,0,strike,looking,,
+6/5/2024,Yorktown,Miller,R,1,CB,13,1,0,foul,,,
+6/5/2024,Yorktown,Miller,R,1,FB,2,1,1,strike,swinging,,k
+6/5/2024,Yorktown,Miller,R,2,CH,13,0,0,ball,,,
+6/5/2024,Yorktown,Miller,R,2,FB,6,1,0,foul,,,
+6/5/2024,Yorktown,Miller,R,2,FB,1,1,0,foul,,,
+6/5/2024,Yorktown,Miller,R,2,FB,10,1,0,foul,,,
+6/5/2024,Yorktown,Miller,R,2,CH,10,0,0,ball,,,
+6/5/2024,Yorktown,Miller,R,2,FB,3,1,1,strike,swinging,,k
+6/5/2024,Yorktown,Miller,L,3,CH,1,0,0,strike,looking,,
+6/5/2024,Yorktown,Miller,L,3,FB,13,0,0,ball,,,
+6/5/2024,Yorktown,Miller,L,3,FB,11,0,0,ball,,,
+6/5/2024,Yorktown,Miller,L,3,CH,6,1,0,bip,liner,6,single
+6/5/2024,Yorktown,Bock,R,1,CB,4,1,0,foul,,,
+6/5/2024,Yorktown,Bock,R,1,CH,11,0,0,ball,,,
+6/5/2024,Yorktown,Bock,R,1,FB,6,0,0,strike,looking,,
+6/5/2024,Yorktown,Bock,R,1,SL,8,0,0,strike,looking,,kk
+6/5/2024,Yorktown,Bock,R,2,CH,2,1,1,strike,swinging,,
+6/5/2024,Yorktown,Bock,R,2,FB,11,0,0,ball,,,
+6/5/2024,Yorktown,Bock,R,2,FB,5,1,0,bip,liner,4,double
+6/5/2024,Yorktown,Bock,R,3,CB,13,0,0,ball,,,
+6/5/2024,Yorktown,Bock,R,3,FB,2,1,0,foul,,,
+6/5/2024,Yorktown,Bock,R,3,FB,11,0,0,ball,,,
+6/5/2024,Yorktown,Bock,R,3,FB,5,1,0,bip,fly,5,fo8
+6/5/2024,Yorktown,Bock,L,4,CH,11,1,0,foul,,,
+6/5/2024,Yorktown,Bock,L,4,FB,9,0,0,strike,looking,,
+6/5/2024,Yorktown,Bock,L,4,FB,9,0,0,strike,looking,,kk
+6/7/2024,Reidsville,Miller,R,1,FB,4,1,0,foul,,,
+6/7/2024,Reidsville,Miller,R,1,FB,2,1,0,foul,,,
+6/7/2024,Reidsville,Miller,R,1,CB,6,1,0,bip,fly,5,fo8
+6/7/2024,Reidsville,Miller,R,2,FB,1,1,0,bip,popup,2,po4
+6/7/2024,Reidsville,Miller,R,3,FB,13,0,0,ball,,,
+6/7/2024,Reidsville,Miller,R,3,CH,11,0,0,ball,,,
+6/7/2024,Reidsville,Miller,R,3,FB,8,1,1,strike,swinging,,
+6/7/2024,Reidsville,Miller,R,3,FB,12,0,0,ball,,,
+6/7/2024,Reidsville,Miller,R,3,SL,13,0,0,ball,walk,,
+6/7/2024,Reidsville,Miller,L,4,CH,12,1,1,strike,swinging,,
+6/7/2024,Reidsville,Miller,L,4,CB,13,0,0,ball,,,
+6/7/2024,Reidsville,Miller,L,4,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,Miller,L,4,FB,11,0,0,ball,,,
+6/7/2024,Reidsville,Miller,L,4,CB,11,0,0,ball,walk,,
+5/28/2024,Carolina,Torti,R,1,FB,2,0,0,strike,looking,,
+5/28/2024,Carolina,Torti,R,1,FB,10,0,0,ball,,,
+5/28/2024,Carolina,Torti,R,1,CH,7,1,0,foul,,,
+5/28/2024,Carolina,Torti,R,1,FB,12,0,0,ball,,,
+5/28/2024,Carolina,Torti,R,1,CH,8,1,0,bip,fly,2,single
+5/28/2024,Carolina,Torti,R,2,CH,10,0,0,ball,,,
+5/28/2024,Carolina,Torti,R,2,FB,8,1,0,foul,,,
+5/28/2024,Carolina,Torti,R,2,CH,12,0,0,ball,,,
+5/28/2024,Carolina,Torti,R,2,FB,13,0,0,ball,,,
+5/28/2024,Carolina,Torti,R,2,CH,3,1,0,bip,popup,8,po5
+5/28/2024,Carolina,Torti,R,3,FB,12,0,0,ball,,,
+5/28/2024,Carolina,Torti,R,3,CH,8,0,0,strike,looking,,
+5/28/2024,Carolina,Torti,R,3,FB,6,0,0,strike,looking,,
+5/28/2024,Carolina,Torti,R,3,FB,5,1,0,bip,popup,2,po4
+5/28/2024,Carolina,Torti,R,4,FB,12,0,0,ball,,,
+5/28/2024,Carolina,Torti,R,4,FB,5,1,0,foul,,,
+5/28/2024,Carolina,Torti,R,4,CH,10,0,0,ball,,,
+5/28/2024,Carolina,Torti,R,4,FB,2,1,0,bip,grounder,1,go3
+5/30/2024,Danville,Torti,R,1,FB,12,0,0,ball,,,
+5/30/2024,Danville,Torti,R,1,FB,7,0,0,strike,looking,,
+5/30/2024,Danville,Torti,R,1,FB,11,0,0,ball,,,
+5/30/2024,Danville,Torti,R,1,CB,9,0,0,strike,looking,,
+5/30/2024,Danville,Torti,R,1,FB,13,0,0,ball,,,
+5/30/2024,Danville,Torti,R,1,SL,7,1,0,foul,,,
+5/30/2024,Danville,Torti,R,1,SL,6,1,0,bip,grounder,2,single
+5/30/2024,Danville,Torti,R,2,FB,12,0,0,ball,,,
+5/30/2024,Danville,Torti,R,2,CH,13,0,0,ball,,,
+5/30/2024,Danville,Torti,R,2,FB,6,0,0,strike,looking,,
+5/30/2024,Danville,Torti,R,2,FB,10,0,0,ball,,,
+5/30/2024,Danville,Torti,R,2,SL,4,0,0,strike,looking,,
+5/30/2024,Danville,Torti,R,2,FB,3,1,1,strike,swinging,,k
+5/30/2024,Danville,Torti,R,3,FB,6,0,0,strike,looking,,
+5/30/2024,Danville,Torti,R,3,FB,7,0,0,strike,looking,,
+5/30/2024,Danville,Torti,R,3,FB,10,0,0,ball,,,
+5/30/2024,Danville,Torti,R,3,SL,1,1,0,foul,,,
+5/30/2024,Danville,Torti,R,3,FB,13,0,0,ball,,,
+5/30/2024,Danville,Torti,R,3,FB,11,0,0,ball,,,
+5/30/2024,Danville,Torti,R,3,FB,6,1,0,foul,,,
+5/30/2024,Danville,Torti,R,3,FB,6,1,0,bip,grounder,1,fc
+5/30/2024,Danville,Torti,R,4,FB,5,1,0,bip,fly,5,single
+5/30/2024,Danville,Torti,R,5,CH,13,0,0,ball,,,
+5/30/2024,Danville,Torti,R,5,CH,11,0,0,ball,,,
+5/30/2024,Danville,Torti,R,5,FB,11,0,0,ball,,,
+5/30/2024,Danville,Torti,R,5,FB,8,1,0,foul,,,
+5/30/2024,Danville,Torti,R,5,FB,13,0,0,ball,walk,,
+5/31/2024,Burlington,Torti,R,1,FB,7,1,0,foul,,,
+5/31/2024,Burlington,Torti,R,1,FB,12,1,1,strike,swinging,,
+5/31/2024,Burlington,Torti,R,1,SL,13,0,0,ball,,,
+5/31/2024,Burlington,Torti,R,1,FB,5,1,1,strike,swinging,,k
+5/30/2024,Danville,Oliver,R,1,FB,12,0,0,ball,,,
+5/30/2024,Danville,Oliver,R,1,FB,7,1,0,bip,fly,4,fo8
+5/30/2024,Danville,Oliver,R,2,FB,12,0,0,ball,,,
+5/30/2024,Danville,Oliver,R,2,SL,10,0,0,ball,,,
+5/30/2024,Danville,Oliver,R,2,FB,12,0,0,ball,,,
+5/30/2024,Danville,Oliver,R,2,FB,12,0,0,ball,walk,,
+5/30/2024,Danville,Oliver,R,3,FB,,1,0,bip,popup,2,po6
+5/30/2024,Danville,Oliver,R,4,SL,13,0,0,ball,,,
+5/30/2024,Danville,Oliver,R,4,FB,9,1,0,foul,,,
+5/30/2024,Danville,Oliver,R,4,FB,5,1,0,foul,,,
+5/30/2024,Danville,Oliver,R,4,CB,13,1,1,strike,swinging,,k
+5/30/2024,Danville,Oliver,R,5,FB,10,0,0,ball,,,
+5/30/2024,Danville,Oliver,R,5,CH,12,0,0,ball,,,
+5/30/2024,Danville,Oliver,R,5,FB,12,0,0,ball,,,
+5/30/2024,Danville,Oliver,R,5,FB,10,0,0,ball,walk,,
+5/28/2024,Carolina,DiCarlo,R,1,FB,12,0,0,ball,,,
+5/28/2024,Carolina,DiCarlo,R,1,FB,7,1,0,bip,fly,4,fo7
+5/28/2024,Carolina,DiCarlo,R,2,CH,12,1,1,strike,swinging,,
+5/28/2024,Carolina,DiCarlo,R,2,CB,10,0,0,ball,,,
+5/28/2024,Carolina,DiCarlo,R,2,CB,2,1,0,foul,,,
+5/28/2024,Carolina,DiCarlo,R,2,SL,13,0,0,ball,,,
+5/28/2024,Carolina,DiCarlo,R,2,FB,9,1,0,bip,liner,3,lo6
+5/28/2024,Carolina,DiCarlo,R,3,CH,4,1,1,strike,swinging,,
+5/28/2024,Carolina,DiCarlo,R,3,FB,7,1,0,bip,grounder,3,go6
+5/30/2024,Danville,DiCarlo,R,1,FB,10,0,0,ball,,,
+5/30/2024,Danville,DiCarlo,R,1,FB,5,1,0,bip,liner,4,single
+5/30/2024,Danville,DiCarlo,R,2,FB,13,0,0,ball,,,
+5/30/2024,Danville,DiCarlo,R,2,FB,12,1,1,strike,swinging,,
+5/30/2024,Danville,DiCarlo,R,2,SL,9,1,0,foul,,,
+5/30/2024,Danville,DiCarlo,R,2,FB,5,1,0,bip,liner,4,lo7
+5/30/2024,Danville,DiCarlo,R,3,FB,8,1,0,bip,grounder,3,sb3
+5/30/2024,Danville,DiCarlo,R,4,FB,6,0,0,strike,looking,,
+5/30/2024,Danville,DiCarlo,R,4,FB,13,0,0,ball,,,
+5/30/2024,Danville,DiCarlo,R,4,CH,3,0,0,strike,looking,,
+5/30/2024,Danville,DiCarlo,R,4,FB,12,0,0,ball,,,
+5/30/2024,Danville,DiCarlo,R,4,FB,11,0,0,ball,,,
+5/30/2024,Danville,DiCarlo,R,4,FB,10,0,0,ball,walk,,
+5/30/2024,Danville,DiCarlo,R,5,FB,6,1,0,bip,grounder,3,go6
+5/30/2024,Danville,DiCarlo,R,6,FB,10,0,0,ball,,,
+5/30/2024,Danville,DiCarlo,R,6,FB,12,0,0,ball,,,
+5/31/2024,Burlington,DiCarlo,R,1,FB,12,1,1,strike,swinging,,
+5/31/2024,Burlington,DiCarlo,R,1,FB,13,0,0,ball,,,
+5/31/2024,Burlington,DiCarlo,R,1,FB,12,1,0,bip,grounder,3,go5
+5/31/2024,Burlington,DiCarlo,R,2,CH,10,0,0,ball,,,
+5/31/2024,Burlington,DiCarlo,R,2,FB,11,0,0,ball,,,
+5/31/2024,Burlington,DiCarlo,R,2,FB,6,1,0,bip,grounder,1,go3
+5/31/2024,Burlington,DiCarlo,L,3,FB,3,1,0,bip,liner,6,lo9
+5/31/2024,Burlington,DiCarlo,R,4,CH,10,1,0,foul,,,
+5/31/2024,Burlington,DiCarlo,R,4,CB,12,0,0,ball,,,
+5/31/2024,Burlington,DiCarlo,R,4,FB,10,0,0,ball,,,
+5/31/2024,Burlington,DiCarlo,R,4,FB,5,0,0,ball,,,
+5/31/2024,Burlington,DiCarlo,R,4,FB,5,1,0,foul,,,
+5/31/2024,Burlington,DiCarlo,R,4,FB,12,0,0,ball,walk,,
+5/31/2024,Burlington,DiCarlo,R,5,CH,9,0,0,strike,looking,,
+5/31/2024,Burlington,DiCarlo,R,5,FB,13,0,0,ball,,,
+5/31/2024,Burlington,DiCarlo,R,5,FB,13,0,0,ball,,,
+5/31/2024,Burlington,DiCarlo,R,5,FB,1,1,0,bip,liner,6,lo9
+5/28/2024,Carolina,Drew,R,1,FB,8,0,0,strike,looking,,
+5/28/2024,Carolina,Drew,R,1,CB,10,0,0,ball,,,
+5/28/2024,Carolina,Drew,R,1,FB,5,1,0,foul,,,
+5/28/2024,Carolina,Drew,R,1,FB,7,1,0,foul,,,
+5/28/2024,Carolina,Drew,R,1,FB,8,1,0,bip,grounder,3,single
+5/28/2024,Carolina,Drew,R,2,FB,4,1,0,bip,grounder,2,single
+5/28/2024,Carolina,Drew,R,3,CH,12,1,1,strike,swinging,,
+5/28/2024,Carolina,Drew,R,3,FB,12,0,0,ball,,,
+5/28/2024,Carolina,Drew,R,3,SL,4,1,0,foul,,,
+5/28/2024,Carolina,Drew,R,3,CB,7,1,0,bip,grounder,1,go4
+5/28/2024,Carolina,Drew,R,4,CH,8,0,0,strike,looking,,
+5/28/2024,Carolina,Drew,R,4,CB,12,0,0,ball,,,
+5/28/2024,Carolina,Drew,R,4,FB,6,0,0,strike,looking,,
+5/28/2024,Carolina,Drew,R,4,FB,5,1,0,bip,grounder,6,single
+5/31/2024,Burlington,Drew,R,1,FB,1,1,0,foul,,,
+5/31/2024,Burlington,Drew,R,1,CH,10,0,0,ball,,,
+5/31/2024,Burlington,Drew,R,1,FB,10,0,0,ball,,,
+5/31/2024,Burlington,Drew,R,1,FB,6,0,0,strike,looking,,
+5/31/2024,Burlington,Drew,R,1,FB,5,1,1,strike,swinging,,k
+5/31/2024,Burlington,Drew,L,2,CH,5,0,0,strike,looking,,
+5/31/2024,Burlington,Drew,L,2,CH,11,0,0,ball,,,
+5/31/2024,Burlington,Drew,L,2,CB,5,1,0,bip,fly,4,single
+5/31/2024,Burlington,Drew,R,3,FB,13,1,0,foul,,,
+5/31/2024,Burlington,Drew,R,3,FB,1,1,0,bip,grounder,6,double
+5/31/2024,Burlington,Drew,R,4,FB,4,0,0,strike,looking,,
+5/31/2024,Burlington,Drew,R,4,FB,3,1,0,bip,fly,6,fo9
+5/28/2024,Carolina,Grenata,R,1,FB,4,1,0,bip,grounder,3,single
+5/28/2024,Carolina,Grenata,R,2,FB,7,0,0,strike,looking,,
+5/28/2024,Carolina,Grenata,R,2,FB,8,1,0,bip,fly,5,fo8
+5/28/2024,Carolina,Grenata,R,3,FB,1,1,0,bip,grounder,3,go6
+5/30/2024,Danville,Grenata,R,1,FB,9,1,1,strike,swinging,,
+5/30/2024,Danville,Grenata,R,1,FB,6,0,0,strike,looking,,
+5/30/2024,Danville,Grenata,R,1,CH,12,0,0,ball,,,
+5/30/2024,Danville,Grenata,R,1,SL,13,1,0,foul,,,
+5/30/2024,Danville,Grenata,R,1,FB,12,0,0,ball,,,
+5/30/2024,Danville,Grenata,R,1,SL,6,0,0,strike,looking,,kk
+5/30/2024,Danville,Grenata,R,2,SL,4,1,0,bip,grounder,2,go6
+5/30/2024,Danville,Grenata,R,3,FB,8,0,0,strike,looking,,
+5/30/2024,Danville,Grenata,R,3,FB,5,1,0,foul,,,
+5/30/2024,Danville,Grenata,R,3,SL,12,0,0,ball,,,
+5/30/2024,Danville,Grenata,R,3,SL,13,0,0,ball,,,
+5/30/2024,Danville,Grenata,R,3,FB,12,0,0,ball,,,
+5/30/2024,Danville,Grenata,R,3,FB,11,0,0,ball,walk,,
+5/30/2024,Danville,Grenata,R,4,FB,6,1,1,strike,swinging,,
+5/30/2024,Danville,Grenata,R,4,FB,13,0,0,ball,,,
+5/30/2024,Danville,Grenata,R,4,FB,1,1,1,strike,swinging,,
+5/30/2024,Danville,Grenata,R,4,SL,12,0,0,ball,,,
+5/30/2024,Danville,Grenata,R,4,FB,5,1,0,bip,fly,4,fo6
+5/30/2024,Danville,Grenata,R,5,FB,12,0,0,ball,,,
+5/30/2024,Danville,Grenata,R,5,SL,6,0,0,strike,looking,,
+5/30/2024,Danville,Grenata,R,5,FB,5,1,1,strike,swinging,,
+5/30/2024,Danville,Grenata,R,5,FB,10,0,0,ball,,,
+5/30/2024,Danville,Grenata,R,5,FB,12,0,0,ball,,,
+5/30/2024,Danville,Grenata,R,5,FB,12,0,0,ball,walk,,
+6/4/2024,High Point,Grenata,R,1,CH,12,0,0,ball,,,
+6/4/2024,High Point,Grenata,R,1,FB,12,0,0,ball,,,
+6/4/2024,High Point,Grenata,R,1,CB,1,1,0,bip,liner,4,single
+6/4/2024,High Point,Grenata,R,2,FB,6,1,0,bip,liner,6,single
+6/4/2024,High Point,Grenata,R,3,CH,10,0,0,ball,,,
+6/4/2024,High Point,Grenata,R,3,CH,10,0,0,ball,,,
+6/4/2024,High Point,Grenata,R,3,FB,12,0,0,ball,,,
+6/4/2024,High Point,Grenata,R,3,FB,10,0,0,ball,walk,,
+6/4/2024,High Point,Grenata,R,4,FB,3,1,0,bip,popup,3,po6
+6/4/2024,High Point,Grenata,L,5,CH,6,1,0,foul,,,
+6/4/2024,High Point,Grenata,L,5,CB,8,0,0,strike,looking,,
+6/4/2024,High Point,Grenata,L,5,FB,5,1,0,bip,liner,5,lo8
+6/4/2024,High Point,Drew,R,1,CH,3,1,0,bip,grounder,2,gidp
+6/4/2024,High Point,Drew,R,2,FB,13,0,0,ball,,,
+6/4/2024,High Point,Drew,R,2,FB,11,0,0,ball,,,
+6/4/2024,High Point,Drew,R,2,FB,13,1,1,strike,swinging,,
+6/4/2024,High Point,Drew,R,2,CH,10,1,0,bip,grounder,1,go3
+6/4/2024,High Point,Drew,R,3,FB,13,1,1,strike,swinging,,
+6/4/2024,High Point,Drew,R,3,CH,12,1,0,foul,,,
+6/4/2024,High Point,Drew,R,3,FB,12,0,0,ball,,,
+6/4/2024,High Point,Drew,R,3,FB,1,1,0,bip,liner,6,double
+6/4/2024,High Point,Drew,R,4,CH,10,0,0,ball,,,
+6/4/2024,High Point,Drew,R,4,FB,13,0,0,ball,,,
+6/4/2024,High Point,Drew,R,4,CH,10,0,0,ball,,,
+6/4/2024,High Point,Drew,R,4,CH,1,0,0,strike,looking,,
+6/4/2024,High Point,Drew,R,4,FB,7,1,0,bip,fly,4,fo7
+6/4/2024,High Point,Drew,R,5,CB,5,0,0,strike,looking,,
+6/4/2024,High Point,Drew,R,5,FB,5,1,0,bip,grounder,3,single
+6/4/2024,High Point,Grenata,R,1,FB,11,0,0,ball,,,
+6/4/2024,High Point,Grenata,R,1,CB,10,0,0,ball,,,
+6/4/2024,High Point,Grenata,R,1,FB,4,0,0,strike,looking,,
+6/4/2024,High Point,Grenata,R,1,FB,1,1,0,bip,fly,4,single
+6/4/2024,High Point,Grenata,R,2,FB,11,1,1,strike,swinging,,
+6/4/2024,High Point,Grenata,R,2,CH,12,1,1,strike,swinging,,
+6/4/2024,High Point,Grenata,R,2,CH,9,1,1,strike,swinging,,k
+6/4/2024,High Point,Grenata,R,3,FB,10,0,0,ball,,,
+6/4/2024,High Point,Grenata,R,3,FB,6,0,0,strike,looking,,
+6/4/2024,High Point,Grenata,R,3,FB,5,1,0,bip,grounder,3,go5
+6/4/2024,High Point,Merlak,R,1,FB,11,0,0,ball,,,
+6/4/2024,High Point,Merlak,R,1,FB,10,0,0,ball,,,
+6/4/2024,High Point,Merlak,R,1,CH,3,0,0,strike,looking,,
+6/4/2024,High Point,Merlak,R,1,CH,11,0,0,ball,,,
+6/4/2024,High Point,Merlak,R,1,FB,8,1,1,strike,swinging,,
+6/4/2024,High Point,Merlak,R,1,CB,13,0,0,ball,walk,,
+6/4/2024,High Point,Merlak,R,2,FB,12,0,0,ball,,,
+6/4/2024,High Point,Merlak,R,2,FB,13,0,0,ball,,,
+6/4/2024,High Point,Merlak,R,2,CH,6,1,1,strike,swinging,,
+6/4/2024,High Point,Merlak,R,2,CB,4,1,0,foul,,,
+6/4/2024,High Point,Merlak,R,2,FB,4,1,0,bip,grounder,3,go5
+6/5/2024,Yorktown,Snelson,R,1,CB,11,0,0,ball,,,
+6/5/2024,Yorktown,Snelson,R,1,FB,1,1,0,foul,,,
+6/5/2024,Yorktown,Snelson,R,1,CB,7,1,0,bip,fly,5,fo8
+6/5/2024,Yorktown,Snelson,R,2,CB,11,0,0,ball,,,
+6/5/2024,Yorktown,Snelson,R,2,FB,5,0,0,strike,looking,,
+6/5/2024,Yorktown,Snelson,R,2,CB,10,0,0,ball,,,
+6/5/2024,Yorktown,Snelson,R,2,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,Snelson,R,2,FB,6,1,1,strike,swinging,,
+6/5/2024,Yorktown,Snelson,R,2,FB,11,0,0,ball,walk,,
+6/5/2024,Yorktown,Snelson,R,3,FB,1,1,0,foul,,,
+6/5/2024,Yorktown,Snelson,R,3,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,Snelson,R,3,FB,9,1,1,strike,swinging,,
+6/5/2024,Yorktown,Snelson,R,3,CH,8,1,0,bip,fly,6,single
+6/5/2024,Yorktown,Snelson,R,4,CH,12,0,0,ball,,,
+6/5/2024,Yorktown,Snelson,R,4,FB,6,1,0,foul,,,
+6/5/2024,Yorktown,Snelson,R,4,FB,4,1,0,bip,grounder,2,go6
+6/7/2024,Reidsville,DiCarlo,R,1,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,DiCarlo,R,1,CB,12,0,0,ball,,,
+6/7/2024,Reidsville,DiCarlo,R,1,FB,5,0,0,strike,looking,,
+6/7/2024,Reidsville,DiCarlo,R,1,CB,12,0,0,ball,,,
+6/7/2024,Reidsville,DiCarlo,R,1,CH,7,1,0,bip,popup,3,po6
+6/7/2024,Reidsville,DiCarlo,R,2,FB,12,1,0,foul,,,
+6/7/2024,Reidsville,DiCarlo,R,2,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,DiCarlo,R,2,FB,4,1,0,foul,,,
+6/7/2024,Reidsville,DiCarlo,R,2,CH,10,1,0,foul,,,
+6/7/2024,Reidsville,DiCarlo,R,2,CB,8,1,0,bip,grounder,2,gidp
+6/7/2024,Reidsville,DiCarlo,R,3,FB,6,1,0,bip,liner,2,gidp
+6/7/2024,Reidsville,DiCarlo,R,4,CH,12,0,0,ball,,,
+6/7/2024,Reidsville,DiCarlo,R,4,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,DiCarlo,R,4,FB,2,1,0,bip,fly,4,single
+6/7/2024,Reidsville,DiCarlo,L,5,CB,12,0,0,ball,,,
+6/7/2024,Reidsville,DiCarlo,L,5,FB,3,1,0,bip,fly,2,fo6
+6/7/2024,Reidsville,Oliver,R,1,FB,13,0,0,ball,,,
+6/7/2024,Reidsville,Oliver,R,1,FB,12,1,0,foul,,,
+6/7/2024,Reidsville,Oliver,R,1,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,Oliver,R,1,FB,3,1,0,foul,,,
+6/7/2024,Reidsville,Oliver,R,1,CB,13,0,0,ball,,,
+6/7/2024,Reidsville,Oliver,R,1,CH,12,0,0,ball,walk,,
+6/7/2024,Reidsville,Oliver,R,2,FB,12,0,0,ball,,,
+6/7/2024,Reidsville,Oliver,R,2,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,Oliver,R,2,FB,12,0,0,ball,,,
+6/7/2024,Reidsville,Oliver,R,2,FB,10,0,0,ball,walk,,
+6/7/2024,Reidsville,Oliver,R,3,SL,4,0,0,strike,looking,,
+6/7/2024,Reidsville,Oliver,R,3,FB,6,1,0,bip,grounder,6,single
+6/7/2024,Reidsville,Oliver,R,4,FB,,1,0,bip,grounder,2,fc
+6/7/2024,Reidsville,Grenata,R,1,FB,9,0,0,strike,looking,,
+6/7/2024,Reidsville,Grenata,R,1,SL,13,0,0,ball,,,
+6/7/2024,Reidsville,Grenata,R,1,FB,13,0,0,ball,,,
+6/7/2024,Reidsville,Grenata,R,1,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,Grenata,R,1,FB,13,0,0,ball,walk,,
+6/7/2024,Reidsville,Grenata,R,2,FB,13,0,0,ball,,,
+6/7/2024,Reidsville,Grenata,R,2,FB,12,1,0,foul,,,
+6/7/2024,Reidsville,Grenata,R,2,SL,13,0,0,ball,,,
+6/7/2024,Reidsville,Grenata,R,2,CH,7,1,0,bip,fly,4,sf7
+6/7/2024,Reidsville,Grenata,R,3,FB,13,0,0,ball,,,
+6/7/2024,Reidsville,Grenata,R,3,FB,7,1,0,bip,fly,4,fo7
+6/7/2024,Reidsville,Grenata,L,4,FB,10,0,0,ball,,,
+6/7/2024,Reidsville,Grenata,L,4,FB,10,0,0,ball,hbp,,
+6/5/2024,Yorktown,Drew,R,1,CB,12,0,0,ball,,,
+6/5/2024,Yorktown,Drew,R,1,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,Drew,R,1,FB,2,1,0,bip,fly,5,fo8
+6/5/2024,Yorktown,Drew,R,2,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,Drew,R,2,FB,2,1,1,strike,swinging,,
+6/5/2024,Yorktown,Drew,R,2,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,Drew,R,2,CH,8,1,0,bip,popup,8,po5
+6/5/2024,Yorktown,Drew,R,3,CH,6,0,0,strike,looking,,
+6/5/2024,Yorktown,Drew,R,3,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,Drew,R,3,FB,11,1,0,foul,,,
+6/5/2024,Yorktown,Drew,R,3,CH,6,1,0,bip,grounder,2,single
+6/5/2024,Yorktown,Drew,R,4,FB,4,1,0,foul,,,
+6/5/2024,Yorktown,Drew,R,4,FB,1,1,0,bip,fly,6,fo9
+6/5/2024,Yorktown,DiCarlo,R,1,FB,8,1,0,foul,,,
+6/5/2024,Yorktown,DiCarlo,R,1,FB,2,1,0,bip,fly,5,fo8
+6/5/2024,Yorktown,DiCarlo,R,2,CH,10,1,1,strike,swinging,,
+6/5/2024,Yorktown,DiCarlo,R,2,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,DiCarlo,R,2,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,DiCarlo,R,2,FB,11,1,0,bip,fly,4,fo7
+6/5/2024,Yorktown,DiCarlo,R,3,CH,4,1,0,foul,,,
+6/5/2024,Yorktown,DiCarlo,R,3,FB,3,1,0,foul,,,
+6/5/2024,Yorktown,DiCarlo,R,3,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,DiCarlo,R,3,FB,11,1,0,foul,,,
+6/5/2024,Yorktown,DiCarlo,R,3,FB,4,1,0,bip,grounder,2,roe
+6/5/2024,Yorktown,DiCarlo,R,4,FB,12,0,0,ball,,,
+6/5/2024,Yorktown,DiCarlo,R,4,FB,10,0,0,ball,,,
+6/5/2024,Yorktown,DiCarlo,R,4,CH,7,1,0,foul,,,
+6/5/2024,Yorktown,DiCarlo,R,4,FB,12,1,0,foul,,,
+6/5/2024,Yorktown,DiCarlo,R,4,CH,2,1,0,foul,,,
+6/5/2024,Yorktown,DiCarlo,R,4,CH,6,1,0,foul,,,
+6/5/2024,Yorktown,DiCarlo,R,4,SL,6,1,0,bip,popup,4,roe
+6/11/2024,Clayton,Drew,R,1,FB,6,1,0,bip,grounder,2,gidp
+6/11/2024,Clayton,Drew,R,2,FB,1,1,0,bip,fly,4,single
+6/11/2024,Clayton,Drew,L,3,FB,13,0,0,ball,,,
+6/11/2024,Clayton,Drew,L,3,FB,8,0,0,strike,looking,,
+6/11/2024,Clayton,Drew,L,3,FB,13,1,1,strike,swinging,,
+6/11/2024,Clayton,Drew,L,3,SL,7,1,0,bip,grounder,2,go4
+6/11/2024,Clayton,Drew,R,4,CB,10,0,0,ball,,,
+6/11/2024,Clayton,Drew,R,4,FB,5,1,1,strike,swinging,,
+6/11/2024,Clayton,Drew,R,4,FB,13,0,0,ball,,,
+6/11/2024,Clayton,Drew,R,4,FB,13,1,0,foul,,,
+6/11/2024,Clayton,Drew,R,4,CH,10,0,0,ball,,,
+6/11/2024,Clayton,Drew,R,4,FB,4,1,0,bip,grounder,3,go5
+6/11/2024,Clayton,Drew,R,5,CH,9,1,0,bip,popup,8,po6
+6/11/2024,Clayton,DiCarlo,R,1,FB,12,0,0,ball,,,
+6/11/2024,Clayton,DiCarlo,R,1,FB,2,1,0,foul,,,
+6/11/2024,Clayton,DiCarlo,R,1,CH,10,1,0,foul,,,
+6/11/2024,Clayton,DiCarlo,R,1,CH,6,1,0,bip,fly,4,single
+6/11/2024,Clayton,DiCarlo,R,2,FB,13,0,0,ball,,,
+6/11/2024,Clayton,DiCarlo,R,2,FB,4,1,0,bip,grounder,2,fc
+6/11/2024,Clayton,DiCarlo,R,3,CB,9,1,0,foul,,,
+6/11/2024,Clayton,DiCarlo,R,3,CH,12,0,0,ball,,,
+6/11/2024,Clayton,DiCarlo,R,3,FB,10,0,0,ball,,,
+6/11/2024,Clayton,DiCarlo,R,3,FB,13,0,0,ball,,,
+6/11/2024,Clayton,DiCarlo,R,3,CH,7,1,0,foul,,,
+6/11/2024,Clayton,DiCarlo,R,3,FB,1,1,0,bip,liner,6,single
+6/11/2024,Clayton,DiCarlo,R,4,FB,4,1,0,foul,,,
+6/11/2024,Clayton,DiCarlo,R,4,SL,10,1,0,foul,,,
+6/11/2024,Clayton,DiCarlo,R,4,CB,8,1,0,bip,grounder,3,gidp
+6/11/2024,Clayton,DiCarlo,R,5,SL,12,0,0,ball,,,
+6/11/2024,Clayton,DiCarlo,R,5,SL,13,1,0,foul,,,
+6/11/2024,Clayton,DiCarlo,R,5,FB,13,0,0,ball,hbp,,
+6/11/2024,Clayton,Grenata,R,1,SL,4,1,0,bip,fly,3,fo6
+6/11/2024,Clayton,Grenata,R,2,SL,9,0,0,strike,looking,,
+6/11/2024,Clayton,Grenata,R,2,CH,13,0,0,foul,,,
+6/11/2024,Clayton,Grenata,R,2,SL,12,0,0,foul,,,
+6/11/2024,Clayton,Grenata,R,2,SL,4,1,0,bip,grounder,2,go6
+6/11/2024,Clayton,Grenata,L,3,CB,12,0,0,ball,,,
+6/11/2024,Clayton,Grenata,L,3,CH,12,0,0,ball,,,
+6/11/2024,Clayton,Grenata,L,3,FB,4,1,1,strike,swinging,,
+6/11/2024,Clayton,Grenata,L,3,FB,10,0,0,ball,,,
+6/11/2024,Clayton,Grenata,L,3,FB,9,1,0,foul,,,
+6/11/2024,Clayton,Grenata,L,3,FB,3,1,1,strike,swinging,,k
+6/11/2024,Clayton,Grenata,R,4,FB,13,0,0,ball,,,
+6/11/2024,Clayton,Grenata,R,4,CH,12,0,0,ball,,,
+6/11/2024,Clayton,Grenata,R,4,FB,3,0,0,strike,looking,,
+6/11/2024,Clayton,Grenata,R,4,CB,12,0,0,ball,,,
+6/11/2024,Clayton,Grenata,R,4,FB,13,0,0,ball,walk,,
+6/18/2024,Carolina,Cepparulo,R,1,CB,13,1,1,strike,swinging,,
+6/18/2024,Carolina,Cepparulo,R,1,CB,8,0,0,strike,looking,,
+6/18/2024,Carolina,Cepparulo,R,1,FB,10,0,0,ball,,,
+6/18/2024,Carolina,Cepparulo,R,1,CB,3,1,0,bip,grounder,1,go3
+6/18/2024,Carolina,Cepparulo,L,2,SL,6,0,0,strike,looking,,
+6/18/2024,Carolina,Cepparulo,L,2,SL,7,1,0,foul,,,
+6/18/2024,Carolina,Cepparulo,L,2,CH,11,0,0,ball,hbp,,
+6/18/2024,Carolina,Cepparulo,R,3,CH,4,0,0,strike,looking,,
+6/18/2024,Carolina,Cepparulo,R,3,FB,5,1,1,strike,swinging,,
+6/18/2024,Carolina,Cepparulo,R,3,FB,12,0,0,ball,,,
+6/18/2024,Carolina,Cepparulo,R,3,CH,2,1,0,foul,,,
+6/18/2024,Carolina,Cepparulo,R,3,FB,1,1,0,foul,,,
+6/18/2024,Carolina,Cepparulo,R,3,CB,12,0,0,ball,,,
+6/18/2024,Carolina,Cepparulo,R,3,FB,2,1,0,foul,,,
+6/18/2024,Carolina,Cepparulo,R,3,CH,6,1,0,bip,fly,5,fo8
+6/18/2024,Carolina,Cepparulo,R,4,FB,4,0,0,strike,looking,,
+6/18/2024,Carolina,Cepparulo,R,4,FB,10,0,0,ball,,,
+6/18/2024,Carolina,Cepparulo,R,4,SL,5,0,0,strike,looking,,
+6/18/2024,Carolina,Cepparulo,R,4,CB,13,1,0,foul,,,
+6/18/2024,Carolina,Cepparulo,R,4,FB,2,1,0,bip,grounder,2,sh5
+6/18/2024,Carolina,Cepparulo,R,5,FB,10,0,0,ball,,,
+6/18/2024,Carolina,Cepparulo,R,5,CH,10,0,0,ball,,,
+6/18/2024,Carolina,Cepparulo,R,5,CB,4,0,0,strike,looking,,
+6/18/2024,Carolina,Cepparulo,R,5,FB,5,1,0,foul,,,
+6/18/2024,Carolina,Cepparulo,R,5,FB,4,1,0,foul,,,
+6/18/2024,Carolina,Cepparulo,R,5,FB,5,1,0,bip,liner,5,single
+6/18/2024,Carolina,Richardson,R,1,CB,13,0,0,ball,,,
+6/18/2024,Carolina,Richardson,R,1,CB,7,0,0,strike,looking,,
+6/18/2024,Carolina,Richardson,R,1,FB,11,0,0,ball,,,
+6/18/2024,Carolina,Richardson,R,1,FB,12,0,0,ball,,,
+6/18/2024,Carolina,Richardson,R,1,CB,2,1,0,bip,fly,4,single
+6/18/2024,Carolina,Richardson,L,2,CB,13,0,0,ball,,,
+6/18/2024,Carolina,Richardson,L,2,FB,6,1,0,bip,fly,4,fo7
+6/18/2024,Carolina,Richardson,R,3,SL,13,0,0,ball,,,
+6/18/2024,Carolina,Richardson,R,3,FB,3,1,0,foul,,,
+6/18/2024,Carolina,Richardson,R,3,FB,2,1,1,strike,swinging,,
+6/18/2024,Carolina,Richardson,R,3,SL,13,0,0,ball,,,
+6/18/2024,Carolina,Richardson,R,3,CH,5,0,0,strike,looking,,kk
+6/18/2024,Carolina,Richardson,R,4,FB,11,0,0,ball,,,
+6/18/2024,Carolina,Richardson,R,4,CH,12,0,0,ball,,,
+6/18/2024,Carolina,Richardson,R,4,SL,10,0,0,ball,,,
+6/18/2024,Carolina,Richardson,R,4,FB,4,0,0,strike,looking,,
+6/18/2024,Carolina,Richardson,R,4,FB,9,1,0,foul,,,
+6/18/2024,Carolina,Richardson,R,4,FB,1,1,0,foul,,,
+6/18/2024,Carolina,Richardson,R,4,CB,13,0,0,ball,walk,,
+6/18/2024,Carolina,Drew,R,1,FB,10,0,0,ball,,,
+6/18/2024,Carolina,Drew,R,1,CB,9,0,0,strike,looking,,
+6/18/2024,Carolina,Drew,R,1,FB,13,0,0,ball,,,
+6/18/2024,Carolina,Drew,R,1,CB,4,0,0,strike,looking,,
+6/18/2024,Carolina,Drew,R,1,CH,3,1,0,foul,,,
+6/18/2024,Carolina,Drew,R,1,CB,13,1,1,strike,swinging,,k
+6/18/2024,Carolina,Drew,L,2,SL,12,0,0,ball,,,
+6/18/2024,Carolina,Drew,L,2,FB,13,0,0,ball,,,
+6/18/2024,Carolina,Drew,L,2,CB,12,1,1,strike,swinging,,
+6/18/2024,Carolina,Drew,L,2,CB,5,1,0,bip,grounder,2,single
+6/18/2024,Carolina,Drew,R,3,FB,12,0,0,ball,,,
+6/18/2024,Carolina,Drew,R,3,FB,9,0,0,strike,looking,,
+6/18/2024,Carolina,Drew,R,3,SL,13,0,0,ball,,,
+6/18/2024,Carolina,Drew,R,3,FB,4,1,1,strike,swinging,,
+6/18/2024,Carolina,Drew,R,3,FB,4,1,0,bip,grounder,3,go6
+6/18/2024,Carolina,Drew,R,4,FB,1,0,0,strike,looking,,
+6/18/2024,Carolina,Drew,R,4,CH,13,0,0,ball,,,
+6/18/2024,Carolina,Drew,R,4,FB,7,0,0,strike,looking,,
+6/18/2024,Carolina,Drew,R,4,CB,7,1,0,foul,,,
+6/18/2024,Carolina,Drew,R,4,CH,10,0,0,ball,,,
+6/18/2024,Carolina,Drew,R,4,FB,8,1,0,foul,,,
+6/18/2024,Carolina,Drew,R,4,CH,10,0,0,ball,,,
+6/18/2024,Carolina,Drew,R,4,CH,13,1,0,foul,,,
+6/18/2024,Carolina,Drew,R,4,FB,10,0,0,ball,walk,,
+6/18/2024,Carolina,DiCarlo,R,1,FB,8,1,0,bip,liner,4,single
+6/18/2024,Carolina,DiCarlo,L,2,SL,12,0,0,ball,,,
+6/18/2024,Carolina,DiCarlo,L,2,CB,7,0,0,strike,looking,,
+6/18/2024,Carolina,DiCarlo,L,2,FB,12,0,0,ball,,,
+6/18/2024,Carolina,DiCarlo,L,2,CB,10,0,0,ball,,,
+6/18/2024,Carolina,DiCarlo,L,2,FB,3,1,0,foul,,,
+6/18/2024,Carolina,DiCarlo,L,2,CB,3,1,0,foul,,,
+6/18/2024,Carolina,DiCarlo,R,3,CH,1,1,0,bip,fly,6,fo9
+6/18/2024,Carolina,DiCarlo,R,4,FB,5,1,0,foul,,,
+6/18/2024,Carolina,DiCarlo,R,4,FB,12,0,0,ball,,,
+6/18/2024,Carolina,DiCarlo,R,4,CH,12,0,0,ball,,,
+6/18/2024,Carolina,DiCarlo,R,4,FB,2,1,0,foul,,,
+6/18/2024,Carolina,DiCarlo,R,4,FB,6,0,0,strike,looking,,kk
+6/18/2024,Carolina,Merlak,R,1,FB,4,0,0,strike,looking,,
+6/18/2024,Carolina,Merlak,R,1,CB,13,0,0,ball,,,
+6/18/2024,Carolina,Merlak,R,1,CB,7,0,0,strike,looking,,
+6/18/2024,Carolina,Merlak,R,1,CB,4,1,0,bip,fly,4,fo7
+6/18/2024,Carolina,Merlak,L,2,CB,10,0,0,ball,,,
+6/18/2024,Carolina,Merlak,L,2,FB,3,1,0,bip,grounder,3,sh6
+6/18/2024,Carolina,Merlak,R,3,SL,13,0,0,ball,,,
+6/18/2024,Carolina,Merlak,R,3,FB,5,1,0,foul,,,
+6/18/2024,Carolina,Merlak,R,3,CB,10,0,0,ball,,,
+6/18/2024,Carolina,Merlak,R,3,CB,7,0,0,strike,looking,,
+6/18/2024,Carolina,Merlak,R,3,SL,6,1,0,bip,grounder,3,go5
+6/18/2024,Carolina,Merlak,R,4,CH,13,0,0,ball,,,
+6/18/2024,Carolina,Merlak,R,4,FB,2,1,0,foul,,,
+6/18/2024,Carolina,Merlak,R,4,FB,13,0,0,ball,,,
+6/18/2024,Carolina,Merlak,R,4,FB,6,1,0,foul,,,
+6/18/2024,Carolina,Merlak,R,4,CH,6,1,0,bip,grounder,1,go4
+6/18/2024,Carolina,Garrett,R,1,CB,11,0,0,ball,,,
+6/18/2024,Carolina,Garrett,R,1,FB,1,1,0,foul,,,
+6/18/2024,Carolina,Garrett,R,1,CB,10,0,0,ball,,,
+6/18/2024,Carolina,Garrett,R,1,CH,3,1,0,bip,grounder,3,go5
+6/18/2024,Carolina,Garrett,L,2,FB,11,0,0,ball,,,
+6/18/2024,Carolina,Garrett,L,2,CH,11,0,0,ball,,,
+6/18/2024,Carolina,Garrett,L,2,CH,11,0,0,ball,,,
+6/18/2024,Carolina,Garrett,L,2,FB,13,0,0,ball,walk,,
+6/18/2024,Carolina,Garrett,R,3,CH,6,1,0,bip,fly,6,fo4
+6/18/2024,Carolina,Garrett,R,4,FB,13,0,0,ball,,,
+6/18/2024,Carolina,Garrett,R,4,FB,12,0,0,ball,,,
+6/18/2024,Carolina,Garrett,R,4,FB,7,0,0,strike,looking,,
+6/18/2024,Carolina,Garrett,R,4,CH,7,1,1,strike,swinging,,
+6/18/2024,Carolina,Garrett,R,4,SL,13,1,1,strike,swinging,,k
+6/18/2024,Carolina,Snelson,L,1,CB,6,0,0,strike,looking,,
+6/18/2024,Carolina,Snelson,L,1,FB,11,0,0,ball,,,
+6/18/2024,Carolina,Snelson,L,1,SL,6,1,0,bip,grounder,2,go4
+6/18/2024,Carolina,Snelson,L,2,FB,13,0,0,ball,,,
+6/18/2024,Carolina,Snelson,L,2,CB,11,1,0,foul,,,
+6/18/2024,Carolina,Snelson,L,2,FB,11,0,0,ball,,,
+6/18/2024,Carolina,Snelson,L,2,CB,11,0,0,ball,,,
+6/18/2024,Carolina,Snelson,L,2,SL,7,1,1,strike,swinging,,
+6/18/2024,Carolina,Snelson,L,2,SL,7,1,0,foul,,,
+6/18/2024,Carolina,Snelson,L,2,CH,11,1,0,bip,fly,5,fo8
+6/18/2024,Carolina,Snelson,R,3,FB,9,0,0,strike,looking,,
+6/18/2024,Carolina,Snelson,R,3,FB,10,0,0,ball,,,
+6/18/2024,Carolina,Snelson,R,3,CH,2,1,0,foul,,,
+6/18/2024,Carolina,Snelson,R,3,SL,11,0,0,ball,,,
+6/18/2024,Carolina,Snelson,R,3,FB,11,0,0,ball,,,
+6/18/2024,Carolina,Snelson,R,3,CH,13,0,0,ball,walk,,
+6/18/2024,Carolina,Snelson,R,4,FB,5,0,0,strike,looking,,
+6/18/2024,Carolina,Snelson,R,4,CB,13,0,0,ball,,,
+6/18/2024,Carolina,Snelson,R,4,SL,13,0,0,ball,,,
+6/18/2024,Carolina,Snelson,R,4,FB,9,1,1,strike,swinging,,
+6/18/2024,Carolina,Snelson,R,4,FB,13,0,0,ball,,,
+6/18/2024,Carolina,Snelson,R,4,FB,10,0,0,ball,walk,,
+6/18/2024,Carolina,Fleming,L,1,SL,1,1,0,bip,grounder,4,single
+6/18/2024,Carolina,Fleming,L,2,FB,11,0,0,ball,,,
+6/18/2024,Carolina,Fleming,L,2,SL,3,1,0,foul,,,
+6/18/2024,Carolina,Fleming,L,2,FB,11,0,0,ball,,,
+6/18/2024,Carolina,Fleming,L,2,CB,13,0,0,ball,,,
+6/18/2024,Carolina,Fleming,L,2,CB,12,0,0,ball,walk,,
+6/18/2024,Carolina,Fleming,R,3,FB,5,1,0,bip,popup,2,po4
+6/18/2024,Carolina,Fleming,R,4,FB,13,0,0,ball,,,
+6/18/2024,Carolina,Fleming,R,4,CH,13,0,0,ball,,,
+6/18/2024,Carolina,Fleming,R,4,FB,11,0,0,ball,,,
+6/18/2024,Carolina,Fleming,R,4,FB,13,0,0,ball,walk,,
+6/18/2024,Carolina,Miller,R,1,FB,13,0,0,ball,,,
+6/18/2024,Carolina,Miller,R,1,FB,11,1,0,foul,,,
+6/18/2024,Carolina,Miller,R,1,CH,10,0,0,ball,,,
+6/18/2024,Carolina,Miller,R,1,CB,4,0,0,strike,looking,,
+6/18/2024,Carolina,Miller,R,1,CB,2,1,0,bip,fly,6,double
+6/18/2024,Carolina,Miller,L,2,FB,13,0,0,ball,,,
+6/18/2024,Carolina,Miller,L,2,SL,11,0,0,ball,,,
+6/18/2024,Carolina,Miller,L,2,FB,11,0,0,ball,,,
+6/18/2024,Carolina,Miller,L,2,CB,5,0,0,strike,looking,,
+6/18/2024,Carolina,Miller,L,2,CH,11,0,0,ball,walk,,
+6/18/2024,Carolina,Miller,R,3,FB,10,0,0,ball,,,
+6/18/2024,Carolina,Miller,R,3,CB,13,0,0,ball,,,
+6/18/2024,Carolina,Miller,R,3,FB,5,1,0,bip,fly,4,fo8
+6/18/2024,Carolina,Miller,R,4,SL,2,0,0,strike,looking,,
+6/18/2024,Carolina,Miller,R,4,FB,12,0,0,ball,,,
+6/18/2024,Carolina,Miller,R,4,CH,13,0,0,ball,,,
+6/18/2024,Carolina,Miller,R,4,FB,6,1,0,bip,grounder,2,go6
+6/18/2024,Carolina,Miller,R,5,FB,13,0,0,ball,,,
+6/18/2024,Carolina,Miller,R,5,CB,8,0,0,strike,looking,,
+6/18/2024,Carolina,Miller,R,5,SL,9,1,0,foul,,,
+6/18/2024,Carolina,Miller,R,5,SL,13,0,0,ball,,,
+6/18/2024,Carolina,Miller,R,5,CB,13,0,0,ball,,,
+6/18/2024,Carolina,Miller,R,5,SL,13,1,0,foul,,,
+6/18/2024,Carolina,Miller,R,5,FB,3,1,1,strike,swinging,,k
+6/18/2024,Carolina,Ross,R,1,SL,4,0,0,strike,looking,,
+6/18/2024,Carolina,Ross,R,1,FB,10,0,0,ball,,,
+6/18/2024,Carolina,Ross,R,1,CB,5,1,0,bip,popup,2,po6
+6/18/2024,Carolina,Ross,L,2,CB,3,1,0,bip,fly,5,fo8
+6/18/2024,Carolina,Ross,R,3,FB,3,0,0,strike,looking,,
+6/18/2024,Carolina,Ross,R,3,FB,6,1,0,bip,grounder,5,single
+6/18/2024,Carolina,Ross,R,4,FB,10,0,0,ball,,,
+6/18/2024,Carolina,Ross,R,4,CH,10,0,0,ball,,,
+6/18/2024,Carolina,Ross,R,4,FB,2,1,0,foul,,,
+6/18/2024,Carolina,Ross,R,4,SL,12,0,0,ball,,,
+6/18/2024,Carolina,Ross,R,4,FB,7,1,0,bip,liner,6,double
+6/18/2024,Carolina,Ross,R,5,CH,10,0,0,ball,,,
+6/18/2024,Carolina,Ross,R,5,SL,12,0,0,ball,,,
+6/18/2024,Carolina,Ross,R,5,CB,12,0,0,ball,,,
+6/18/2024,Carolina,Ross,R,5,CH,11,0,0,ball,walk,,
