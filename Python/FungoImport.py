@@ -109,6 +109,26 @@ class FungoImport:
 
         return playerDF
 
+    def importSwingAndMiss(playerData):
+        '''
+        Reads in the Swing and Miss dataset from PitcherAnalysis.sas file
+        and outputs the dataset in a dataframe
+
+        Parameters
+        ----------
+        playerData : str
+            Filepath of the .sas7bdat file containing the desired dataset
+
+        Returns
+        -------
+        playerDF : DataFrame
+            DataFrame representation of the SAS dataset
+
+        '''
+        playerDF = pd.read_sas(playerData)
+
+        return playerDF
+
 
 hitter = FungoImport.importHitter('Output_CSV\\SnelsonResults.csv')
 pitcher = FungoImport.importPitcher('Output_CSV\\Mizener.csv')
