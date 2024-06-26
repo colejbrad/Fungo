@@ -2,7 +2,7 @@
 
 /* Create library for storing data for Fungo */
 x 'cd C:\';
-libname Fungo "Users\1030c\Desktop\Fungo\Fungo\SAS_Files";
+libname Fungo "Users\1030c\Desktop\Fungo\Fungo\SAS_Files\Lib";
 
 *Establish macro variables;
 %let TitleOpts= height= 14 pt bold;
@@ -80,6 +80,7 @@ title;
 /* Create a report that shows the number of swings, the number of misses,
    and the swinging strike rate by location of the pitch*/
 title &TitleOpts "Swinging Strike Rate by Zone";
+title2 &SubTitleOpts "Zones 1-9 are inside strikezone, 10-13 are outside of zone";
 proc report data= Fungo.swingAndMiss;
   column location totalPitches totalSwings totalMisses swingingStrRate;
   define location / group 'Pitch Location';

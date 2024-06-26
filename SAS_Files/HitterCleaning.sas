@@ -6,7 +6,7 @@ for specified player. Last name only */
 
 /* Create library for storing data for Fungo */
 x 'cd C:\Users\1030c\Desktop\Fungo\Fungo\';
-libname Fungo "SAS_Files";
+libname Fungo "SAS_Files\Lib";
 
 /* Import data into SAS */
 data Fungo.Hitters;
@@ -16,18 +16,18 @@ data Fungo.Hitters;
          batter length= $10
   ;
   input date $
-  		  opponent $
-  		  batter $
-  		  pitcherHand $
-  		  plateAppearance
-  		  pitchType $
-  		  pitchLocation
-  		  swing
-  		  miss
-  		  result $
-  		  resultType $
-  		  resultLocation
-  		  hitType $
+        opponent $
+        batter $
+        pitcherHand $
+        plateAppearance
+        pitchType $
+        pitchLocation
+        swing
+        miss
+        result $
+        resultType $
+        resultLocation
+        hitType $
   ;
 run;
 

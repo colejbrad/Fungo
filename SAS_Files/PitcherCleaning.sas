@@ -5,12 +5,12 @@ for specified player. Last name only */
 %let pitcher = Mizener;
 
 /* Create library for storing data for Fungo */
-x 'cd C:\';
-libname Fungo "Users\1030c\Desktop\Fungo\Fungo\SAS_Files";
+x 'cd C:\Users\1030c\Desktop\Fungo\Fungo\';
+libname Fungo "SAS_Files\Lib";
 
 /* Import data into SAS */
 data Fungo.Pitchers;
-  infile "Users\1030c\Desktop\Fungo\Fungo\Raw_Data\PitcherData.csv" dsd firstobs= 2 missover;
+  infile "Raw_Data\PitcherData.csv" dsd firstobs= 2 missover;
   attrib date length= $9
          opponent length= $10
          pitcher length= $10
