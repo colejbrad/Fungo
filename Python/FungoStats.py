@@ -1,7 +1,4 @@
 # Create basic stats
-import pandas as pd
-from FungoSplits import FungoSplits as fs
-from FungoImport import FungoImport as fi
 
 
 class FungoStats:
@@ -43,6 +40,8 @@ class FungoStats:
             elif row['hitType'] in self.hitTypes['outs'] or self.hitTypes['reachSafe']:
                 atBats += 1
 
+        if atBats == 0:
+            return 0
         return hits / atBats
 
     def whiffRate(self, playerData):
@@ -63,13 +62,12 @@ class FungoStats:
         swings = 0
         misses = 0
         for index, row in playerData.iterrows():
-            if row['miss'] == 1:
+            if row['swing'] == 1:
                 swings += 1
-                misses += 1
-            elif row['swing'] == 1:
-                swings += 1
+                if row['miss'] == 1:
+                    misses += 1
 
-        return misses / swings * 100
+        return misses / swings
 
     def onBase(self, playerData):
         '''
@@ -89,9 +87,7 @@ class FungoStats:
         onBase = 0
         plateAppearance = len(playerData)
         for index, row in playerData.iterrows():
-            if row['hitType'] in self.hitTypes['hits'] or self.hitTypes['reachSafe']:
-                onBase += 1
-            elif row['result'] in self.hitTypes['nonhits']:
+            if (row['hitType'] in self.hitTypes['hits'] or row['hitType'] in self.hitTypes['reachSafe'] or row['resultType'] in self.hitTypes['nonHits']):
                 onBase += 1
 
         return onBase / plateAppearance
@@ -170,7 +166,7 @@ class FungoStats:
         '''
         walkCount = 0
         for index, row in playerData.iterrows():
-            if row['result'] == 'walk':
+            if row['resultType'] == 'walk':
                 walkCount += 1
 
         return walkCount / len(playerData)
@@ -193,7 +189,7 @@ class FungoStats:
         '''
         kCount = 0
         for index, row in playerData.iterrows():
-            if row['hitType'] == 'k' or 'kk':
+            if row['hitType'] in ['k', 'kk']:
                 kCount += 1
 
         return kCount / len(playerData)
@@ -217,16 +213,20 @@ class FungoStats:
         left = 0
         center = 0
         right = 0
+        bip = 0
 
         for index, row in playerData.iterrows():
-            if row['resultLocation'] == '1' or '6' or '7':
+            if row['result'] == 'bip':
+                bip += 1
+
+            if row['resultLocation'] in [1, 6, 7]:
                 right += 1
-            elif row['resultType'] == '2' or '5':
+            elif row['resultLocation'] in [2, 5]:
                 center += 1
-            elif row['resultLocation'] == '3' or '4' or '8':
+            elif row['resultLocation'] in [3, 4, 8]:
                 left += 1
 
-        return (left / len(playerData), center / len(playerData), right / len(playerData))
+        return (left / bip, center / bip, right / bip)
 
     def hitTypeRatios(self, playerData):
         '''
@@ -248,9 +248,13 @@ class FungoStats:
         grounder = 0
         liner = 0
         fly = 0
+        bip = 0
 
         for index, row in playerData.iterrows():
-            if row['hitType'] == 'sb' or row['resultType'] == 'popup':
+            if row['result'] == 'bip':
+                bip += 1
+
+            if row['hitType'][0:2] == 'sb' or row['resultType'] == 'popup':
                 continue
 
             match row['resultType']:
@@ -263,7 +267,7 @@ class FungoStats:
                 case _:
                     continue
 
-        return (grounder / len(playerData), liner / len(playerData), fly / len(playerData))
+        return (grounder / bip, liner / bip, fly / bip)
 
     def chaseRate(self, playerData):
         '''
@@ -291,18 +295,3 @@ class FungoStats:
                     chase += 1
 
         return chase / ooz
-
-
-fungoStats = FungoStats()
-hitterNew = fi.importHitter('Output_CSV\\SnelsonResults.csv')
-SnelsonAVG = fungoStats.average(hitterNew)
-SnelsonWhiff = fungoStats.whiffRate(hitterNew)
-SnelsonOBP = fungoStats.onBase(hitterNew)
-SnelsonSLG = fungoStats.slugging(hitterNew)
-SnelsonISO = fungoStats.iso(hitterNew)
-SnelsonBB = fungoStats.walkPct(hitterNew)
-SnelsonK = fungoStats.strikeoutPct(hitterNew)
-SnelsonFields = fungoStats.fieldRatios(hitterNew)
-SnelsonHits = fungoStats.hitTypeRatios(hitterNew)
-SnelsonChase = fungoStats.chaseRate(hitterNew)
-print(SnelsonAVG, SnelsonWhiff, SnelsonOBP, SnelsonSLG, SnelsonISO, SnelsonBB, SnelsonK, SnelsonFields, SnelsonHits, SnelsonChase)

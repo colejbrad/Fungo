@@ -1,37 +1,15 @@
 # Create strikezone based plots for hitters and pitchers
-import FungoImport as fi
 import numpy as np
 import seaborn as sns
 import pandas as pd
-import matplotlib.pyplot as plt
 
 
 class FungoVisual:
 
-    def importSwingAndMiss(playerData):
-        '''
-        Reads in the Swing and Miss dataset from PitcherAnalysis.sas file
-        and outputs the dataset in a dataframe
-
-        Parameters
-        ----------
-        playerData : str
-            Filepath of the .sas7bdat file containing the desired dataset
-
-        Returns
-        -------
-        playerDF : DataFrame
-            DataFrame representation of the SAS dataset
-
-        '''
-        playerDF = pd.read_sas(playerData)
-
-        return playerDF
-
     def pitchMatrix(playerData):
         '''
-        Transform a DataFrame or list of pitch location data formatted to fit the
-        correct locations in a strikezone in an array
+        Transform a DataFrame or list of pitch location data formatted to fit
+        the correct locations in a strikezone in an array
 
         Parameters
         ----------
@@ -156,13 +134,7 @@ class FungoVisual:
             Plotted array
 
         '''
-        plot = sns.heatmap(pitchMatrix, linecolor='white', cmap= 'inferno',
+        plot = sns.heatmap(pitchMatrix, linecolor='white', cmap='inferno',
                            annot=True, fmt='.3f', linewidths=0.5)
 
         return plot
-
-
-swingData = FungoVisual.importSwingAndMiss('SAS_Files\\swingandmiss.sas7bdat')
-swingMatrix = FungoVisual.pitchMatrix(swingData)
-swingPlot = FungoVisual.plotMatrix(swingMatrix)
-plt.show()

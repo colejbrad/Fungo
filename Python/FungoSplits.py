@@ -1,6 +1,6 @@
 # Subset data from import
 import pandas as pd
-import FungoStats as fStat
+from FungoStats import FungoStats as fStat
 
 
 class FungoSplits:
@@ -72,6 +72,26 @@ class FungoSplits:
         return (rightyDataFrame, leftyDataFrame)
 
     def getLocationSplits(playerData):
+        '''
+        Calculates a player's batting average based on the location of the pitch
+        for the ultimate pitch in an at bat
+
+        Parameters
+        ----------
+        playerData : DataFrame
+            DataFrame containing information about the final pitch of each
+            at bat a player has
+
+        Returns
+        -------
+        dataList : list
+            A list containing the batting average for each of the zones defined
+            in the strikezone. The list is ordered to match the numerical
+            definition of these zones (1 is top left of strikezone going across
+            down to 9 in bottom right of the zone with zones 10-13 being
+            quadrants outside the zone)
+
+        '''
         dataDict = {
             'tl': pd.DataFrame(),
             'tm': pd.DataFrame(),
@@ -89,39 +109,56 @@ class FungoSplits:
         }
 
         for index, row in playerData.iterrows():
-            match row['location']:
+            match row['pitchLocation']:
                 case 1:
-                    dataDict['tl'] = dataDict['tl'].append(row)
+                    dataDict['tl'] = pd.concat(
+                        [dataDict['tl'], row.to_frame().T])
                 case 2:
-                    dataDict['tm'] = dataDict['tm'].append(row)
+                    dataDict['tm'] = pd.concat(
+                        [dataDict['tm'], row.to_frame().T])
                 case 3:
-                    dataDict['tr'] = dataDict['tr'].append(row)
+                    dataDict['tr'] = pd.concat(
+                        [dataDict['tr'], row.to_frame().T])
                 case 4:
-                    dataDict['ml'] = dataDict['ml'].append(row)
+                    dataDict['ml'] = pd.concat(
+                        [dataDict['ml'], row.to_frame().T])
                 case 5:
-                    dataDict['mm'] = dataDict['mm'].append(row)
+                    dataDict['mm'] = pd.concat(
+                        [dataDict['mm'], row.to_frame().T])
                 case 6:
-                    dataDict['mr'] = dataDict['mr'].append(row)
+                    dataDict['mr'] = pd.concat(
+                        [dataDict['mr'], row.to_frame().T])
                 case 7:
-                    dataDict['bl'] = dataDict['bl'].append(row)
+                    dataDict['bl'] = pd.concat(
+                        [dataDict['bl'], row.to_frame().T])
                 case 8:
-                    dataDict['bm'] = dataDict['bm'].append(row)
+                    dataDict['bm'] = pd.concat(
+                        [dataDict['bm'], row.to_frame().T])
                 case 9:
-                    dataDict['br'] = dataDict['br'].append(row)
+                    dataDict['br'] = pd.concat(
+                        [dataDict['br'], row.to_frame().T])
                 case 10:
-                    dataDict['ui'] = dataDict['ui'].append(row)
+                    dataDict['ui'] = pd.concat(
+                        [dataDict['ui'], row.to_frame().T])
                 case 11:
-                    dataDict['uo'] = dataDict['uo'].append(row)
+                    dataDict['uo'] = pd.concat(
+                        [dataDict['uo'], row.to_frame().T])
                 case 12:
-                    dataDict['li'] = dataDict['li'].append(row)
+                    dataDict['li'] = pd.concat(
+                        [dataDict['li'], row.to_frame().T])
                 case 13:
-                    dataDict['lo'] = dataDict['lo'].append(row)
+                    dataDict['lo'] = pd.concat(
+                        [dataDict['lo'], row.to_frame().T])
                 case _:
                     continue
 
         dataList = []
+        stats = fStat()
         for key in dataDict:
-            dataDict[key] = fStat.average(dataDict[key])
-            dataList.append(dataDict[key])
+            if len(dataDict[key]) == 0:
+                dataList.append(0)
+            else:
+                dataDict[key] = stats.average(dataDict[key])
+                dataList.append(dataDict[key])
 
         return dataList

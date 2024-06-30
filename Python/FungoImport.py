@@ -42,7 +42,7 @@ class FungoImport:
             playerDF = pd.DataFrame(playerData[1:], columns=playerData[0])
 
             numericColumns = ['plateAppearance', 'pitchLocation',
-                              'swing', 'miss']
+                              'swing', 'miss', 'resultLocation']
             playerDF[numericColumns] = playerDF[numericColumns].apply(
                 pd.to_numeric, errors='coerce')
             playerDF[numericColumns] = playerDF[numericColumns].fillna(
@@ -128,7 +128,3 @@ class FungoImport:
         playerDF = pd.read_sas(playerData)
 
         return playerDF
-
-
-hitter = FungoImport.importHitter('Output_CSV\\SnelsonResults.csv')
-pitcher = FungoImport.importPitcher('Output_CSV\\Mizener.csv')
