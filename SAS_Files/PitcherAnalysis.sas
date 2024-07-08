@@ -43,6 +43,16 @@ data Fungo.swingAndMiss;
   swingingStrRate = totalMisses / totalPitches;
 run;
 
+/* Create dataset for average velocity by game */
+proc means data= Fungo.SpecificPitcher noprint;
+  where ~missing(velocity) and pitchType= 'FB';
+  class date;
+  var velocity;
+  output out= Fungo.avgVeloByGame (drop= _TYPE_ _FREQ_)
+         mean(velocity) = veloAvg
+  ;
+run;
+
 /* Set options for the output files */
 ods _all_ close;
 ods pdf file= "C:\Users\1030c\Desktop\Fungo\Fungo\Output_Files\&pitcher Pitch Information.pdf"
@@ -74,6 +84,16 @@ proc sgplot data= Fungo.SpecificPitcher;
   keylegend / location= inside position= topright 
               opaque title= "Pitch Type"
   ;
+run;
+title;
+
+/* Create series plot from avgVelo dataset */
+title &TitleOpts "Average Fastball Velocity by Game";
+title2 &SubTitleOpts "*Data available for home games only*";
+proc sgplot data= Fungo.avgVeloByGame;
+  series x= date y= veloAvg;
+  xaxis label= "Game Date";
+  yaxis label= "Average Velocity" grid values= (55 to 95 by 5);
 run;
 title;
 

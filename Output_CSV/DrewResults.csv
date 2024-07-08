@@ -1,0 +1,45 @@
+date,opponent,batter,pitcherHand,plateAppearance,pitchType,pitchLocation,swing,miss,result,resultType,resultLocation,hitType
+6/15/2024,Burlington,Drew,R,1,FB,4,1,0,bip,grounder,1,go4
+6/15/2024,Burlington,Drew,R,2,FB,6,1,0,bip,grounder,2,single
+6/15/2024,Burlington,Drew,R,3,CH,1,1,0,bip,fly,4,single
+6/15/2024,Burlington,Drew,R,4,CH,3,1,0,bip,fly,5,fo9
+5/28/2024,Carolina,Drew,R,1,FB,8,1,0,bip,grounder,3,single
+5/28/2024,Carolina,Drew,R,2,FB,4,1,0,bip,grounder,2,single
+5/28/2024,Carolina,Drew,R,3,CB,7,1,0,bip,grounder,1,go4
+5/28/2024,Carolina,Drew,R,4,FB,5,1,0,bip,grounder,6,single
+5/31/2024,Burlington,Drew,R,1,FB,5,1,1,strike,swinging,,k
+5/31/2024,Burlington,Drew,L,2,CB,5,1,0,bip,fly,4,single
+5/31/2024,Burlington,Drew,R,3,FB,1,1,0,bip,grounder,6,double
+5/31/2024,Burlington,Drew,R,4,FB,3,1,0,bip,fly,6,fo9
+6/4/2024,High Point,Drew,R,1,CH,3,1,0,bip,grounder,2,gidp
+6/4/2024,High Point,Drew,R,2,CH,10,1,0,bip,grounder,1,go3
+6/4/2024,High Point,Drew,R,3,FB,1,1,0,bip,liner,6,double
+6/4/2024,High Point,Drew,R,4,FB,7,1,0,bip,fly,4,fo7
+6/4/2024,High Point,Drew,R,5,FB,5,1,0,bip,grounder,3,single
+6/5/2024,Yorktown,Drew,R,1,FB,2,1,0,bip,fly,5,fo8
+6/5/2024,Yorktown,Drew,R,2,CH,8,1,0,bip,popup,8,po5
+6/5/2024,Yorktown,Drew,R,3,CH,6,1,0,bip,grounder,2,single
+6/5/2024,Yorktown,Drew,R,4,FB,1,1,0,bip,fly,6,fo9
+6/11/2024,Clayton,Drew,R,1,FB,6,1,0,bip,grounder,2,gidp
+6/11/2024,Clayton,Drew,R,2,FB,1,1,0,bip,fly,4,single
+6/11/2024,Clayton,Drew,L,3,SL,7,1,0,bip,grounder,2,go4
+6/11/2024,Clayton,Drew,R,4,FB,4,1,0,bip,grounder,3,go5
+6/11/2024,Clayton,Drew,R,5,CH,9,1,0,bip,popup,8,po6
+6/18/2024,Carolina,Drew,R,1,CB,13,1,1,strike,swinging,,k
+6/18/2024,Carolina,Drew,L,2,CB,5,1,0,bip,grounder,2,single
+6/18/2024,Carolina,Drew,R,3,FB,4,1,0,bip,grounder,3,go6
+6/18/2024,Carolina,Drew,R,4,FB,10,0,0,ball,walk,,
+6/27/2024,C. Pirates,Drew,R,1,FB,1,1,0,bip,fly,4,fo7
+6/27/2024,C. Pirates,Drew,R,2,FB,1,1,0,bip,grounder,2,go4
+6/27/2024,C. Pirates,Drew,R,3,FB,2,1,0,bip,grounder,1,single
+6/27/2024,C. Pirates,Drew,R,4,FB,11,0,0,ball,walk,,
+6/27/2024,C. Pirates,Drew,R,5,CH,5,1,0,bip,fly,5,fo8
+7/2/2024,Clayton,Drew,R,1,FB,5,1,0,bip,grounder,2,go4
+7/2/2024,Clayton,Drew,R,2,FB,4,1,0,bip,grounder,4,single
+7/2/2024,Clayton,Drew,L,3,FB,2,1,0,bip,fly,4,fo7
+7/2/2024,Clayton,Drew,L,4,FB,3,1,0,bip,grounder,2,fc
+7/2/2024,Clayton,Drew,L,5,CB,6,1,0,bip,grounder,1,roe
+7/3/2024,Tarboro,Drew,R,1,CB,12,1,0,bip,grounder,1,go3
+7/3/2024,Tarboro,Drew,R,2,CH,2,1,0,bip,grounder,2,single
+7/3/2024,Tarboro,Drew,R,3,CB,12,1,1,strike,swinging,,k
+7/3/2024,Tarboro,Drew,R,4,FB,1,1,0,bip,grounder,2,single

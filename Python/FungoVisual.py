@@ -2,6 +2,7 @@
 import numpy as np
 import seaborn as sns
 import pandas as pd
+from FungoStats import FungoStats as fStat
 
 
 class FungoVisual:
@@ -138,3 +139,27 @@ class FungoVisual:
                            annot=True, fmt='.3f', linewidths=0.5)
 
         return plot
+
+    def rollingAvg(playerData):
+        '''
+        Creates list of the rolling average of a player after each plate
+        appearance for use in plotting
+
+        Parameters
+        ----------
+        playerData : DataFrame
+            DataFrame containing plate appearance results for a specified batter
+
+        Returns
+        -------
+        avgList : list
+            List of rolling averages at each plate appearance for a batter
+
+        '''
+        stats = fStat()
+        avgList = []
+
+        for index, row in playerData.iterrows():
+            avgList.append(stats.average(playerData[:(index + 1)]))
+
+        return avgList

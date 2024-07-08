@@ -59,15 +59,9 @@ class FungoStats:
             The batter's swing and miss rate
 
         '''
-        swings = 0
-        misses = 0
-        for index, row in playerData.iterrows():
-            if row['swing'] == 1:
-                swings += 1
-                if row['miss'] == 1:
-                    misses += 1
-
-        return misses / swings
+        swings = playerData[playerData.swing == 1]
+        misses = playerData[playerData.miss == 1]
+        return len(misses) / len(swings)
 
     def onBase(self, playerData):
         '''
@@ -164,12 +158,7 @@ class FungoStats:
             The hitter's walk rate
 
         '''
-        walkCount = 0
-        for index, row in playerData.iterrows():
-            if row['resultType'] == 'walk':
-                walkCount += 1
-
-        return walkCount / len(playerData)
+        return len(playerData[playerData.resultType == 'walk']) / len(playerData)
 
     def strikeoutPct(self, playerData):
         '''
@@ -187,12 +176,9 @@ class FungoStats:
             The hitter's strikeout rate
 
         '''
-        kCount = 0
-        for index, row in playerData.iterrows():
-            if row['hitType'] in ['k', 'kk']:
-                kCount += 1
-
-        return kCount / len(playerData)
+        k = len(playerData[playerData.hitType == 'k']) + len(
+            playerData[playerData.hitType == 'kk']) + len(playerData[playerData.hitType == 'kpb'])
+        return k / len(playerData)
 
     def fieldRatios(self, playerData):
         '''
@@ -213,12 +199,9 @@ class FungoStats:
         left = 0
         center = 0
         right = 0
-        bip = 0
+        bip = len(playerData[playerData.result == 'bip'])
 
         for index, row in playerData.iterrows():
-            if row['result'] == 'bip':
-                bip += 1
-
             if row['resultLocation'] in [1, 6, 7]:
                 right += 1
             elif row['resultLocation'] in [2, 5]:
@@ -245,27 +228,10 @@ class FungoStats:
             the order: (grounder, liner, fly)
 
         '''
-        grounder = 0
-        liner = 0
-        fly = 0
-        bip = 0
-
-        for index, row in playerData.iterrows():
-            if row['result'] == 'bip':
-                bip += 1
-
-            if row['hitType'][0:2] == 'sb' or row['resultType'] == 'popup':
-                continue
-
-            match row['resultType']:
-                case 'grounder':
-                    grounder += 1
-                case 'liner':
-                    liner += 1
-                case 'fly':
-                    fly += 1
-                case _:
-                    continue
+        grounder = len(playerData[playerData.resultType == 'grounder'])
+        liner = len(playerData[playerData.resultType == 'liner'])
+        fly = len(playerData[playerData.resultType == 'fly'])
+        bip = len(playerData[playerData.result == 'bip'])
 
         return (grounder / bip, liner / bip, fly / bip)
 
@@ -285,13 +251,8 @@ class FungoStats:
             A player's chase rate
 
         '''
-        ooz = 0
-        chase = 0
-
-        for index, row in playerData.iterrows():
-            if row['pitchLocation'] > 9:
-                ooz += 1
-                if row['swing'] == 1:
-                    chase += 1
+        oozPitches = playerData[playerData.pitchLocation > 9]
+        ooz = len(oozPitches)
+        chase = len(oozPitches[oozPitches.swing == 1])
 
         return chase / ooz

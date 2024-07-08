@@ -5,6 +5,7 @@ from FungoSplits import FungoSplits as fs
 from FungoStats import FungoStats as fStat
 from FungoVisual import FungoVisual as fv
 import matplotlib.pyplot as plt
+import pandas as pd
 
 # Set working directory as parent folder of overall project
 os.chdir('C:\\Users\\1030c\\Desktop\\Fungo\\Fungo\\')
@@ -39,4 +40,31 @@ testMatrixPitcher = fv.pitchMatrix(testSwingMiss)
 testPlotHitter = fv.plotMatrix(testMatrixHitter)
 plt.show()
 testPlotPitcher = fv.plotMatrix(testMatrixPitcher)
+plt.show()
+testRollingAvg = fv.rollingAvg(testHitter)
+fig, ax = plt.subplots()
+ax.plot(range(1, len(testHitter) + 1), testRollingAvg)
+plt.show()
+
+# Jonalan Richardson
+richardson = fi.importHitter('Output_CSV\\RichardsonResults.csv')
+richardsonAll = fi.importHitter('Output_CSV\\Richardson.csv')
+richardsonLocations = fs.getLocationSplits(richardson)
+fStat = fStat()
+richardsonAvg = fStat.average(richardson)
+richardsonWhiff = fStat.whiffRate(richardsonAll)
+richardsonObp = fStat.onBase(richardson)
+richardsonSlg = fStat.slugging(richardson)
+richardsonIso = fStat.iso(richardson)
+richardsonWalkPct = fStat.walkPct(richardson)
+richardsonKPct = fStat.strikeoutPct(richardson)
+richardsonField = fStat.fieldRatios(richardson)
+richardsonType = fStat.hitTypeRatios(richardson)
+richardsonChase = fStat.chaseRate(richardsonAll)
+richardsonMatrix = fv.pitchMatrix(richardsonLocations)
+richardsonPlot = fv.plotMatrix(richardsonMatrix)
+plt.show()
+richardsonRolling = fv.rollingAvg(richardson)
+fig, ax = plt.subplots()
+ax.plot(range(1, len(richardson) + 1), richardsonRolling)
 plt.show()

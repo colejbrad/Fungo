@@ -25,18 +25,10 @@ class FungoSplits:
             pitcherHand == "L"
 
         '''
-        rightyData = []
-        leftyData = []
-        for index, row in playerData.iterrows():
-            if row['pitcherHand'] == 'R':
-                rightyData.append(row)
-            else:
-                leftyData.append(row)
+        rightyData = playerData[playerData.pitcherHand == 'R']
+        leftyData = playerData[playerData.pitcherHand == 'L']
 
-        rightyDataFrame = pd.DataFrame(rightyData, columns=playerData.columns)
-        leftyDataFrame = pd.DataFrame(leftyData, columns=playerData.columns)
-
-        return (rightyDataFrame, leftyDataFrame)
+        return (rightyData, leftyData)
 
     def getSplitPitcherPAs(playerData):
         '''
@@ -58,18 +50,10 @@ class FungoSplits:
             batterHand == "L"
 
         '''
-        rightyData = []
-        leftyData = []
-        for index, row in playerData.iterrows():
-            if row['batterHand'] == 'R':
-                rightyData.append(row)
-            else:
-                leftyData.append(row)
+        rightyData = playerData[playerData.batterHand == 'R']
+        leftyData = playerData[playerData.batterHand == 'L']
 
-        rightyDataFrame = pd.DataFrame(rightyData, columns=playerData.columns)
-        leftyDataFrame = pd.DataFrame(leftyData, columns=playerData.columns)
-
-        return (rightyDataFrame, leftyDataFrame)
+        return (rightyData, leftyData)
 
     def getLocationSplits(playerData):
         '''
@@ -90,75 +74,34 @@ class FungoSplits:
             definition of these zones (1 is top left of strikezone going across
             down to 9 in bottom right of the zone with zones 10-13 being
             quadrants outside the zone)
-
         '''
+
         dataDict = {
-            'tl': pd.DataFrame(),
-            'tm': pd.DataFrame(),
-            'tr': pd.DataFrame(),
-            'ml': pd.DataFrame(),
-            'mm': pd.DataFrame(),
-            'mr': pd.DataFrame(),
-            'bl': pd.DataFrame(),
-            'bm': pd.DataFrame(),
-            'br': pd.DataFrame(),
-            'ui': pd.DataFrame(),
-            'uo': pd.DataFrame(),
-            'li': pd.DataFrame(),
-            'lo': pd.DataFrame()
+            'tl': [], 'tm': [], 'tr': [],
+            'ml': [], 'mm': [], 'mr': [],
+            'bl': [], 'bm': [], 'br': [],
+            'ui': [], 'uo': [], 'li': [], 'lo': []
         }
 
-        for index, row in playerData.iterrows():
-            match row['pitchLocation']:
-                case 1:
-                    dataDict['tl'] = pd.concat(
-                        [dataDict['tl'], row.to_frame().T])
-                case 2:
-                    dataDict['tm'] = pd.concat(
-                        [dataDict['tm'], row.to_frame().T])
-                case 3:
-                    dataDict['tr'] = pd.concat(
-                        [dataDict['tr'], row.to_frame().T])
-                case 4:
-                    dataDict['ml'] = pd.concat(
-                        [dataDict['ml'], row.to_frame().T])
-                case 5:
-                    dataDict['mm'] = pd.concat(
-                        [dataDict['mm'], row.to_frame().T])
-                case 6:
-                    dataDict['mr'] = pd.concat(
-                        [dataDict['mr'], row.to_frame().T])
-                case 7:
-                    dataDict['bl'] = pd.concat(
-                        [dataDict['bl'], row.to_frame().T])
-                case 8:
-                    dataDict['bm'] = pd.concat(
-                        [dataDict['bm'], row.to_frame().T])
-                case 9:
-                    dataDict['br'] = pd.concat(
-                        [dataDict['br'], row.to_frame().T])
-                case 10:
-                    dataDict['ui'] = pd.concat(
-                        [dataDict['ui'], row.to_frame().T])
-                case 11:
-                    dataDict['uo'] = pd.concat(
-                        [dataDict['uo'], row.to_frame().T])
-                case 12:
-                    dataDict['li'] = pd.concat(
-                        [dataDict['li'], row.to_frame().T])
-                case 13:
-                    dataDict['lo'] = pd.concat(
-                        [dataDict['lo'], row.to_frame().T])
-                case _:
-                    continue
+        locationMap = {
+            1: 'tl', 2: 'tm', 3: 'tr',
+            4: 'ml', 5: 'mm', 6: 'mr',
+            7: 'bl', 8: 'bm', 9: 'br',
+            10: 'ui', 11: 'uo', 12: 'li', 13: 'lo'
+        }
 
-        dataList = []
-        stats = fStat()
+        for _, row in playerData.iterrows():
+            key = locationMap.get(row['pitchLocation'])
+            if key:
+                dataDict[key].append(row)
+
         for key in dataDict:
-            if len(dataDict[key]) == 0:
-                dataList.append(0)
-            else:
-                dataDict[key] = stats.average(dataDict[key])
-                dataList.append(dataDict[key])
+            dataDict[key] = pd.DataFrame(dataDict[key])
+
+        stats = fStat()
+        dataList = [
+            0 if dataDict[key].empty else stats.average(dataDict[key])
+            for key in dataDict
+        ]
 
         return dataList
