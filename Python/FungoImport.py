@@ -5,7 +5,7 @@ import pandas as pd
 
 class FungoImport:
 
-    def importHitter(playerData):
+    def importHitter(playerData: str) -> pd.DataFrame:
         '''
         Imports hitter data from the given file and
         returns a dataframe containing the data. It also
@@ -57,7 +57,7 @@ class FungoImport:
 
         return playerDF
 
-    def importPitcher(playerData):
+    def importPitcher(playerData: str) -> pd.DataFrame:
         '''
         Imports pitcher data from the given file and
         returns a dataframe containing the data. It also
@@ -109,7 +109,7 @@ class FungoImport:
 
         return playerDF
 
-    def importSwingAndMiss(playerData):
+    def importSwingAndMiss(playerData: str) -> pd.DataFrame:
         '''
         Reads in the Swing and Miss dataset from PitcherAnalysis.sas file
         and outputs the dataset in a dataframe

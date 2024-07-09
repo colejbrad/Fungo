@@ -5,7 +5,7 @@ from FungoStats import FungoStats as fStat
 
 class FungoSplits:
 
-    def getSplitHitterPAs(playerData):
+    def getSplitHitterPAs(playerData: pd.DataFrame) -> tuple[pd.DataFrame]:
         '''
         Creates separate dataframes based on the pitcherHand column
         for hitter data.
@@ -30,7 +30,7 @@ class FungoSplits:
 
         return (rightyData, leftyData)
 
-    def getSplitPitcherPAs(playerData):
+    def getSplitPitcherPAs(playerData: pd.DataFrame) -> tuple[pd.DataFrame]:
         '''
         Creates separate dataframes based on the batterHand column
         for pitcher data.
@@ -55,7 +55,7 @@ class FungoSplits:
 
         return (rightyData, leftyData)
 
-    def getLocationSplits(playerData):
+    def getLocationSplits(playerData: pd.DataFrame) -> list[float]:
         '''
         Calculates a player's batting average based on the location of the pitch
         for the ultimate pitch in an at bat

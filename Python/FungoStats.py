@@ -1,19 +1,24 @@
 # Create basic stats
+import pandas as pd
 
 
 class FungoStats:
 
-    hitTypes = {'hits': ['single', 'double', 'triple', 'hr'],
-                'reachSafe': ['roe', 'fc', 'kpb'],
-                'sacs': ['sb', 'sh', 'sf'],
-                'nonHits': ['walk', 'hbp'],
-                'outs': ['fo3', 'fo4', 'fo5', 'fo6', 'fo7', 'fo8', 'fo9',
-                         'go1', 'go2', 'go3', 'go4', 'go5', 'go6',
-                         'lo1', 'lo3', 'lo4', 'lo5', 'lo6', 'lo7', 'lo8', 'lo9',
-                         'po1', 'po2', 'po3', 'po4', 'po5', 'po6',
-                         'gidp', 'k', 'kk']}
+    hitTypes: dict[str, list[str]] = {'hits': ['single', 'double', 'triple',
+                                               'hr'],
+                                      'reachSafe': ['roe', 'fc', 'kpb'],
+                                      'sacs': ['sb', 'sh', 'sf'],
+                                      'nonHits': ['walk', 'hbp'],
+                                      'outs': ['fo3', 'fo4', 'fo5', 'fo6',
+                                               'fo7', 'fo8', 'fo9', 'go1',
+                                               'go2', 'go3', 'go4', 'go5',
+                                               'go6', 'lo1', 'lo3', 'lo4',
+                                               'lo5', 'lo6', 'lo7', 'lo8',
+                                               'lo9', 'po1', 'po2', 'po3',
+                                               'po4', 'po5', 'po6', 'gidp',
+                                               'k', 'kk']}
 
-    def average(self, playerData):
+    def average(self, playerData: pd.DataFrame) -> float:
         '''
         Calculate a hitter's batting average
 
@@ -44,7 +49,7 @@ class FungoStats:
             return 0
         return hits / atBats
 
-    def whiffRate(self, playerData):
+    def whiffRate(self, playerData: pd.DataFrame) -> float:
         '''
         Calculate a hitter's swing and miss rate
 
@@ -63,7 +68,7 @@ class FungoStats:
         misses = playerData[playerData.miss == 1]
         return len(misses) / len(swings)
 
-    def onBase(self, playerData):
+    def onBase(self, playerData: pd.DataFrame) -> float:
         '''
         Calculate a hitter's on base percentage
 
@@ -86,7 +91,7 @@ class FungoStats:
 
         return onBase / plateAppearance
 
-    def slugging(self, playerData):
+    def slugging(self, playerData: pd.DataFrame) -> float:
         '''
         Calculate a hitter's slugging percentage
 
@@ -125,7 +130,7 @@ class FungoStats:
 
         return hits / atBats
 
-    def iso(self, playerData):
+    def iso(self, playerData: pd.DataFrame) -> float:
         '''
         Calculate a hitter's isolated power (percentage of XBH)
 
@@ -142,7 +147,7 @@ class FungoStats:
         '''
         return self.slugging(playerData) - self.average(playerData)
 
-    def walkPct(self, playerData):
+    def walkPct(self, playerData: pd.DataFrame) -> float:
         '''
         Calculates the percentage of a hitter's plate appearances that result in
         a walk
@@ -160,7 +165,7 @@ class FungoStats:
         '''
         return len(playerData[playerData.resultType == 'walk']) / len(playerData)
 
-    def strikeoutPct(self, playerData):
+    def strikeoutPct(self, playerData: pd.DataFrame) -> float:
         '''
         Calculates the percentage of a hitter's plate appearances that result in
         a strikeout
@@ -180,7 +185,7 @@ class FungoStats:
             playerData[playerData.hitType == 'kk']) + len(playerData[playerData.hitType == 'kpb'])
         return k / len(playerData)
 
-    def fieldRatios(self, playerData):
+    def fieldRatios(self, playerData: pd.DataFrame) -> tuple[float]:
         '''
         Calculates the percentage a player's batted balls go to each field
 
@@ -211,7 +216,7 @@ class FungoStats:
 
         return (left / bip, center / bip, right / bip)
 
-    def hitTypeRatios(self, playerData):
+    def hitTypeRatios(self, playerData: pd.DataFrame) -> tuple[float]:
         '''
         Calculate the percentage of a player's balls in play that are of varying
         types (grounders, liners, fly balls)
@@ -235,7 +240,7 @@ class FungoStats:
 
         return (grounder / bip, liner / bip, fly / bip)
 
-    def chaseRate(self, playerData):
+    def chaseRate(self, playerData: pd.DataFrame) -> float:
         '''
         Calculates the percent of swing and misses a player has out of all
         swings on balls out of the zone

@@ -7,7 +7,7 @@ from FungoStats import FungoStats as fStat
 
 class FungoVisual:
 
-    def pitchMatrix(playerData):
+    def pitchMatrix(playerData: pd.DataFrame | list[float]) -> np.array:
         '''
         Transform a DataFrame or list of pitch location data formatted to fit
         the correct locations in a strikezone in an array
@@ -120,7 +120,7 @@ class FungoVisual:
 
         return pitchMatrix
 
-    def plotMatrix(pitchMatrix):
+    def plotMatrix(pitchMatrix: np.array) -> sns.heatmap:
         '''
         Plots the formatted pitch location data
 
@@ -140,7 +140,7 @@ class FungoVisual:
 
         return plot
 
-    def rollingAvg(playerData):
+    def rollingAvg(playerData: pd.DataFrame) -> list[float]:
         '''
         Creates list of the rolling average of a player after each plate
         appearance for use in plotting
