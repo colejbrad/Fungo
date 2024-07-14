@@ -1970,3 +1970,456 @@ date,opponent,batter,pitcherHand,plateAppearance,pitchType,pitchLocation,swing,m
 7/3/2024,Tarboro,Gardner,R,1,CH,12,0,0,ball,,,
 7/3/2024,Tarboro,Gardner,R,1,CB,13,0,0,ball,,,
 7/3/2024,Tarboro,Gardner,R,1,FB,6,1,1,strike,swinging,,k
+7/7/2024,Oak City,DiCarlo,R,1,FB,13,0,0,ball,,,
+7/7/2024,Oak City,DiCarlo,R,1,CH,2,1,0,bip,grounder,1,go3
+7/7/2024,Oak City,DiCarlo,R,2,FB,7,1,0,foul,,,
+7/7/2024,Oak City,DiCarlo,R,2,FB,10,1,0,foul,,,
+7/7/2024,Oak City,DiCarlo,R,2,FB,10,1,0,foul,,,
+7/7/2024,Oak City,DiCarlo,R,2,CH,10,1,0,bip,grounder,2,sh4
+7/7/2024,Oak City,DiCarlo,R,3,FB,8,1,0,foul,,,
+7/7/2024,Oak City,DiCarlo,R,3,FB,6,1,0,bip,fly,4,single
+7/7/2024,Oak City,DiCarlo,R,4,FB,13,0,0,ball,,,
+7/7/2024,Oak City,DiCarlo,R,4,FB,2,1,0,bip,grounder,1,go1
+7/7/2024,Oak City,DiCarlo,R,5,FB,5,1,0,bip,grounder,3,single
+7/7/2024,Oak City,Cepparulo,R,1,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,1,FB,7,1,1,strike,swinging,,
+7/7/2024,Oak City,Cepparulo,R,1,CB,13,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,1,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,1,FB,6,1,1,strike,swinging,,
+7/7/2024,Oak City,Cepparulo,R,1,CH,4,1,1,strike,swinging,,k
+7/7/2024,Oak City,Cepparulo,R,2,FB,8,0,0,strike,looking,,
+7/7/2024,Oak City,Cepparulo,R,2,CH,12,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,2,SL,13,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,2,FB,4,1,1,strike,swinging,,
+7/7/2024,Oak City,Cepparulo,R,2,FB,12,1,0,foul,,,
+7/7/2024,Oak City,Cepparulo,R,2,FB,4,1,0,foul,,,
+7/7/2024,Oak City,Cepparulo,R,2,FB,10,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,2,FB,13,0,0,ball,walk,,
+7/7/2024,Oak City,Cepparulo,R,3,FB,6,0,0,strike,looking,,
+7/7/2024,Oak City,Cepparulo,R,3,FB,5,1,0,foul,,,
+7/7/2024,Oak City,Cepparulo,R,3,CH,12,1,1,strike,swinging,,k
+7/7/2024,Oak City,Cepparulo,R,4,FB,11,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,4,FB,3,0,0,strike,looking,,
+7/7/2024,Oak City,Cepparulo,R,4,CH,10,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,4,FB,7,1,0,foul,,,
+7/7/2024,Oak City,Cepparulo,R,4,CH,13,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,4,FB,10,0,0,ball,walk,,
+7/7/2024,Oak City,Cepparulo,R,5,SL,7,0,0,strike,looking,,
+7/7/2024,Oak City,Cepparulo,R,5,CH,12,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,5,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,5,CH,11,0,0,ball,,,
+7/7/2024,Oak City,Cepparulo,R,5,FB,8,1,1,strike,swinging,,
+7/7/2024,Oak City,Cepparulo,R,5,FB,12,0,0,ball,walk,,
+7/7/2024,Oak City,Drew,R,1,FB,7,1,0,bip,popup,4,single
+7/7/2024,Oak City,Drew,R,2,CG,13,0,0,ball,,,
+7/7/2024,Oak City,Drew,R,2,FB,4,1,0,foul,,,
+7/7/2024,Oak City,Drew,R,2,CH,6,1,0,bip,popup,3,po5
+7/7/2024,Oak City,Drew,R,3,CH,2,1,0,foul,,,
+7/7/2024,Oak City,Drew,R,3,FB,7,0,0,strike,looking,,
+7/7/2024,Oak City,Drew,R,3,CH,12,1,0,bip,liner,3,lo5
+7/7/2024,Oak City,Drew,R,4,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Drew,R,4,FB,6,1,0,foul,,,
+7/7/2024,Oak City,Drew,R,4,FB,5,1,1,strike,swinging,,
+7/7/2024,Oak City,Drew,R,4,CH,12,0,0,ball,,,
+7/7/2024,Oak City,Drew,R,4,FB,1,1,0,bip,liner,4,double
+7/7/2024,Oak City,Drew,R,5,SL,2,0,0,strike,looking,,
+7/7/2024,Oak City,Drew,R,5,FB,1,1,0,foul,,,
+7/7/2024,Oak City,Drew,R,5,SL,5,1,0,bip,fly,4,fo7
+7/7/2024,Oak City,White,R,1,CB,13,0,0,ball,,,
+7/7/2024,Oak City,White,R,1,FB,13,0,0,ball,,,
+7/7/2024,Oak City,White,R,1,FB,13,0,0,ball,,,
+7/7/2024,Oak City,White,R,1,FB,11,0,0,ball,walk,,
+7/7/2024,Oak City,White,R,2,CB,11,0,0,ball,,,
+7/7/2024,Oak City,White,R,2,FB,6,0,0,strike,looking,,
+7/7/2024,Oak City,White,R,2,CB,13,0,0,ball,,,
+7/7/2024,Oak City,White,R,2,CH,4,0,0,strike,looking,,
+7/7/2024,Oak City,White,R,2,FB,6,1,0,foul,,,
+7/7/2024,Oak City,White,R,2,FB,13,0,0,ball,,,
+7/7/2024,Oak City,White,R,2,CH,12,0,0,ball,walk,,
+7/7/2024,Oak City,White,R,3,FB,13,0,0,ball,,,
+7/7/2024,Oak City,White,R,3,FB,13,0,0,ball,,,
+7/7/2024,Oak City,White,R,3,CH,5,1,1,strike,swinging,,
+7/7/2024,Oak City,White,R,3,FB,12,0,0,ball,,,
+7/7/2024,Oak City,White,R,3,FB,13,0,0,ball,walk,,
+7/7/2024,Oak City,White,R,4,CH,8,1,0,foul,,,
+7/7/2024,Oak City,White,R,4,CB,12,1,0,foul,,,
+7/7/2024,Oak City,White,R,4,CH,13,0,0,ball,,,
+7/7/2024,Oak City,White,R,4,FB,9,1,0,foul,,,
+7/7/2024,Oak City,White,R,4,CH,12,0,0,ball,,,
+7/7/2024,Oak City,White,R,4,FB,2,1,0,bip,liner,3,lo5
+7/7/2024,Oak City,White,R,5,CH,1,0,0,strike,looking,,
+7/7/2024,Oak City,White,R,5,FB,3,1,1,strike,swinging,,
+7/7/2024,Oak City,White,R,5,FB,2,1,0,bip,fly,5,double
+7/7/2024,Oak City,Ross,R,1,CH,1,1,0,bip,liner,6,double
+7/7/2024,Oak City,Ross,R,2,FB,7,0,0,strike,looking,,
+7/7/2024,Oak City,Ross,R,2,FB,2,1,0,bip,popup,2,po1
+7/7/2024,Oak City,Ross,R,3,FB,5,0,0,strike,looking,,
+7/7/2024,Oak City,Ross,R,3,FB,9,0,0,strike,looking,,
+7/7/2024,Oak City,Ross,R,3,CH,13,0,0,ball,,,
+7/7/2024,Oak City,Ross,R,3,CH,6,0,0,strike,looking,,kk
+7/7/2024,Oak City,Ross,R,4,CH,12,0,0,ball,,,
+7/7/2024,Oak City,Ross,R,4,FB,12,0,0,ball,,,
+7/7/2024,Oak City,Ross,R,4,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Ross,R,4,FB,6,1,0,bip,fly,5,fo8
+7/7/2024,Oak City,Ross,R,5,FB,1,1,0,bip,fly,6,sf9
+7/7/2024,Oak City,Bock,R,1,CB,12,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,1,FB,11,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,1,FB,12,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,1,CH,11,0,0,ball,walk,,
+7/7/2024,Oak City,Bock,R,2,SL,9,0,0,strike,looking,,
+7/7/2024,Oak City,Bock,R,2,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,2,CB,5,0,0,strike,looking,,
+7/7/2024,Oak City,Bock,R,2,CB,6,0,0,strike,looking,,kk
+7/7/2024,Oak City,Bock,R,3,FB,4,1,1,strike,swinging,,
+7/7/2024,Oak City,Bock,R,3,FB,10,1,1,strike,swinging,,
+7/7/2024,Oak City,Bock,R,3,CH,12,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,3,FB,12,1,1,strike,swinging,,k
+7/7/2024,Oak City,Bock,R,4,CB,12,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,4,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,4,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,4,CH,13,0,0,ball,walk,,
+7/7/2024,Oak City,Bock,R,5,FB,11,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,5,SL,11,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,5,CH,13,1,1,strike,swinging,,
+7/7/2024,Oak City,Bock,R,5,SL,11,0,0,ball,,,
+7/7/2024,Oak City,Bock,R,5,FB,11,0,0,ball,walk,,
+7/7/2024,Oak City,Merlak,R,1,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Merlak,R,1,FB,5,0,0,strike,looking,,
+7/7/2024,Oak City,Merlak,R,1,CH,12,0,0,ball,,,
+7/7/2024,Oak City,Merlak,R,1,CB,10,0,0,ball,,,
+7/7/2024,Oak City,Merlak,R,1,FB,8,0,0,strike,looking,,
+7/7/2024,Oak City,Merlak,R,1,FB,13,0,0,ball,walk,,
+7/7/2024,Oak City,Merlak,R,2,CB,13,0,0,ball,,,
+7/7/2024,Oak City,Merlak,R,2,FB,11,1,1,strike,swinging,,
+7/7/2024,Oak City,Merlak,R,2,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Merlak,R,2,CH,1,1,1,strike,swinging,,
+7/7/2024,Oak City,Merlak,R,2,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Merlak,R,2,CB,6,0,0,strike,looking,,kk
+7/7/2024,Oak City,Miller,R,1,CB,13,0,0,ball,,,
+7/7/2024,Oak City,Miller,R,1,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Miller,R,1,FB,6,0,0,strike,looking,,
+7/7/2024,Oak City,Miller,R,1,CH,12,0,0,ball,,,
+7/7/2024,Oak City,Miller,R,1,FB,11,0,0,ball,walk,,
+7/7/2024,Oak City,Miller,R,2,CB,6,0,0,strike,looking,,
+7/7/2024,Oak City,Miller,R,2,CB,5,0,0,strike,looking,,
+7/7/2024,Oak City,Miller,R,2,FB,5,1,1,strike,swinging,,k
+7/7/2024,Oak City,Miller,R,3,CH,13,0,0,ball,,,
+7/7/2024,Oak City,Miller,R,3,FB,11,0,0,ball,,,
+7/7/2024,Oak City,Miller,R,3,CB,6,0,0,strike,looking,,
+7/7/2024,Oak City,Miller,R,3,CB,13,1,1,strike,swinging,,
+7/7/2024,Oak City,Miller,R,3,CH,13,0,0,ball,,,
+7/7/2024,Oak City,Miller,R,3,FB,11,0,0,ball,walk,,
+7/7/2024,Oak City,Miller,R,4,FB,12,0,0,ball,,,
+7/7/2024,Oak City,Miller,R,4,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Miller,R,4,FB,4,1,0,ball,,,
+7/7/2024,Oak City,Miller,R,4,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Miller,R,4,CH,12,1,0,foul,,,
+7/7/2024,Oak City,Miller,R,4,FB,4,1,0,foul,,,
+7/7/2024,Oak City,Miller,R,4,SL,13,1,1,strike,swinging,,k
+7/7/2024,Oak City,Miller,R,5,CB,10,0,0,ball,,,
+7/7/2024,Oak City,Miller,R,5,CH,8,0,0,strike,looking,,
+7/7/2024,Oak City,Miller,R,5,CB,8,0,0,strike,looking,,
+7/7/2024,Oak City,Miller,R,5,CH,2,1,0,bip,popup,3,po6
+7/7/2024,Oak City,Richardson,R,1,FB,8,0,0,strike,looking,,
+7/7/2024,Oak City,Richardson,R,1,CB,13,0,0,ball,,,
+7/7/2024,Oak City,Richardson,R,1,FB,11,1,1,strike,swinging,,
+7/7/2024,Oak City,Richardson,R,1,CB,6,0,0,strike,looking,,kk
+7/7/2024,Oak City,Richardson,R,2,FB,3,1,0,foul,,,
+7/7/2024,Oak City,Richardson,R,2,FB,6,1,0,foul,,,
+7/7/2024,Oak City,Richardson,R,2,CB,9,1,0,bip,grounder,3,go5
+7/7/2024,Oak City,Richardson,R,3,CH,12,1,1,strike,swinging,,
+7/7/2024,Oak City,Richardson,R,3,FB,2,1,0,bip,popup,6,single
+7/7/2024,Oak City,Richardson,R,4,FB,4,0,0,strike,looking,,
+7/7/2024,Oak City,Richardson,R,4,FB,5,1,1,strike,swinging,,
+7/7/2024,Oak City,Richardson,R,4,CH,12,0,0,ball,,,
+7/7/2024,Oak City,Richardson,R,4,FB,4,1,0,bip,grounder,2,single
+7/7/2024,Oak City,Richardson,R,5,CB,8,0,0,strike,looking,,
+7/7/2024,Oak City,Richardson,R,5,SL,6,0,0,strike,looking,,
+7/7/2024,Oak City,Richardson,R,5,FB,10,0,0,ball,,,
+7/7/2024,Oak City,Richardson,R,5,SL,13,0,0,ball,,,
+7/7/2024,Oak City,Richardson,R,5,FB,10,0,0,ball,,,
+7/7/2024,Oak City,Richardson,R,5,CB,13,1,1,strike,swinging,,k
+7/7/2024,Oak City,Granata,R,1,FB,12,0,0,ball,,,
+7/7/2024,Oak City,Granata,R,1,CH,2,1,0,foul,,,
+7/7/2024,Oak City,Granata,R,1,SL,3,1,1,strike,swinging,,
+7/7/2024,Oak City,Granata,R,1,CB,13,0,0,ball,,,
+7/7/2024,Oak City,Granata,R,1,FB,13,0,0,ball,,,
+7/7/2024,Oak City,Granata,R,1,FB,6,1,0,foul,,,
+7/7/2024,Oak City,Granata,R,1,FB,10,0,0,ball,walk,,
+7/7/2024,Oak City,Granata,R,2,FB,12,0,0,ball,,,
+7/7/2024,Oak City,Granata,R,2,SL,9,1,1,strike,swinging,,
+7/7/2024,Oak City,Granata,R,2,CB,5,1,1,strike,swinging,,
+7/7/2024,Oak City,Granata,R,2,CB,4,1,0,bip,popup,4,po7
+7/7/2024,Oak City,Granata,R,3,FB,12,0,0,ball,,,
+7/7/2024,Oak City,Granata,R,3,FB,10,0,0,ball,hbp,,
+7/10/2024,Clayton,Cepparulo,R,1,FB,13,0,0,ball,,,
+7/10/2024,Clayton,Cepparulo,R,1,FB,10,0,0,ball,,,
+7/10/2024,Clayton,Cepparulo,R,1,CH,9,1,0,bip,fly,6,single
+7/10/2024,Clayton,Cepparulo,R,2,FB,4,1,0,bip,grounder,1,go3
+7/10/2024,Clayton,Cepparulo,R,3,CH,9,0,0,strike,looking,,
+7/10/2024,Clayton,Cepparulo,R,3,FB,12,0,0,ball,,,
+7/10/2024,Clayton,Cepparulo,R,3,FB,13,1,0,foul,,,
+7/10/2024,Clayton,Cepparulo,R,3,CH,10,1,0,foul,,,
+7/10/2024,Clayton,Cepparulo,R,3,FB,8,1,0,bip,fly,6,fo9
+7/10/2024,Clayton,Cepparulo,R,4,CH,4,1,1,strike,swinging,,
+7/10/2024,Clayton,Cepparulo,R,4,FB,6,1,0,foul,,,
+7/10/2024,Clayton,Cepparulo,R,4,FB,4,0,0,strike,looking,,kk
+7/10/2024,Clayton,Drew,R,1,CH,10,0,0,ball,,,
+7/10/2024,Clayton,Drew,R,1,FB,7,1,0,bip,grounder,1,go4
+7/10/2024,Clayton,Drew,R,2,CH,12,1,1,strike,swinging,,
+7/10/2024,Clayton,Drew,R,2,CH,8,1,1,strike,swinging,,
+7/10/2024,Clayton,Drew,R,2,FB,10,0,0,ball,,,
+7/10/2024,Clayton,Drew,R,2,FB,4,1,0,bip,fly,4,fo7
+7/10/2024,Clayton,Drew,R,3,FB,3,1,0,bip,grounder,2,go4
+7/10/2024,Clayton,White,R,1,FB,2,1,0,foul,,,
+7/10/2024,Clayton,White,R,1,CB,11,0,0,ball,,,
+7/10/2024,Clayton,White,R,1,CH,1,1,0,bip,fly,5,fo8
+7/10/2024,Clayton,White,R,2,CB,6,1,0,bip,grounder,3,go6
+7/10/2024,Clayton,White,R,3,FB,4,0,0,strike,looking,,
+7/10/2024,Clayton,White,R,3,CB,7,1,0,bip,fly,6,fo9
+7/10/2024,Clayton,Ross,R,1,FB,10,0,0,ball,,,
+7/10/2024,Clayton,Ross,R,1,FB,6,0,0,strike,looking,,
+7/10/2024,Clayton,Ross,R,1,FB,7,1,0,bip,grounder,1,go4
+7/10/2024,Clayton,Ross,R,2,FB,7,1,0,bip,grounder,2,go4
+7/10/2024,Clayton,Ross,R,3,CB,7,0,0,strike,looking,,
+7/10/2024,Clayton,Ross,R,3,FB,4,1,0,bip,grounder,3,go6
+7/10/2024,Clayton,Bock,R,1,CB,11,0,0,ball,,,
+7/10/2024,Clayton,Bock,R,1,FB,9,1,1,strike,swinging,,
+7/10/2024,Clayton,Bock,R,1,FB,7,1,0,bip,grounder,2,roe
+7/10/2024,Clayton,Bock,R,2,FB,3,1,0,bip,popup,6,po4
+7/10/2024,Clayton,Bock,R,3,SL,13,0,0,ball,,,
+7/10/2024,Clayton,Bock,R,3,CB,13,0,0,ball,,,
+7/10/2024,Clayton,Bock,R,3,FB,13,0,0,ball,,,
+7/10/2024,Clayton,Bock,R,3,CH,13,0,0,ball,walk,,
+7/10/2024,Clayton,Snelson,R,1,FB,12,0,0,ball,,,
+7/10/2024,Clayton,Snelson,R,1,SL,11,0,0,ball,,,
+7/10/2024,Clayton,Snelson,R,1,FB,5,1,1,strike,swinging,,
+7/10/2024,Clayton,Snelson,R,1,FB,3,1,1,strike,swinging,,
+7/10/2024,Clayton,Snelson,R,1,CH,6,1,1,strike,swinging,,k
+7/10/2024,Clayton,Snelson,R,2,SL,13,0,0,ball,,,
+7/10/2024,Clayton,Snelson,R,2,FB,4,1,0,foul,,,
+7/10/2024,Clayton,Snelson,R,2,CB,13,1,1,strike,swinging,,
+7/10/2024,Clayton,Snelson,R,2,CB,13,0,0,ball,,,
+7/10/2024,Clayton,Snelson,R,2,CH,12,0,0,ball,,,
+7/10/2024,Clayton,Snelson,R,2,FB,7,1,0,foul,,,
+7/10/2024,Clayton,Snelson,R,2,CH,3,1,0,bip,popup,4,single
+7/10/2024,Clayton,Snelson,R,3,CB,9,0,0,strike,looking,,
+7/10/2024,Clayton,Snelson,R,3,CB,4,1,0,bip,popup,4,po5
+7/10/2024,Clayton,Garrett,R,1,FB,4,0,0,strike,looking,,
+7/10/2024,Clayton,Garrett,R,1,CB,12,1,0,foul,,,
+7/10/2024,Clayton,Garrett,R,1,FB,2,1,0,bip,popup,1,po3
+7/10/2024,Clayton,Garrett,R,2,FB,9,0,0,strike,looking,,
+7/10/2024,Clayton,Garrett,R,2,FB,13,0,0,ball,,,
+7/10/2024,Clayton,Garrett,R,2,FB,9,0,0,strike,looking,,
+7/10/2024,Clayton,Garrett,R,2,FB,11,1,0,bip,grounder,4,single
+7/10/2024,Clayton,Miller,R,1,FB,8,0,0,strike,looking,,
+7/10/2024,Clayton,Miller,R,1,CB,8,1,1,strike,swinging,,
+7/10/2024,Clayton,Miller,R,1,FB,3,1,0,foul,,,
+7/10/2024,Clayton,Miller,R,1,CB,13,1,1,strike,swinging,,k
+7/10/2024,Clayton,Miller,R,2,CB,4,0,0,strike,looking,,
+7/10/2024,Clayton,Miller,R,2,CH,4,1,0,bip,popup,6,po4
+7/10/2024,Clayton,Miller,R,3,FB,10,0,0,ball,,,
+7/10/2024,Clayton,Miller,R,3,FB,5,1,1,strike,swinging,,
+7/10/2024,Clayton,Miller,R,3,CB,7,0,0,strike,looking,,
+7/10/2024,Clayton,Miller,R,3,SL,8,1,0,bip,grounder,3,go6
+7/10/2024,Clayton,Miller,R,4,FB,7,0,0,strike,looking,,
+7/10/2024,Clayton,Miller,R,4,CB,12,1,1,strike,swinging,,
+7/10/2024,Clayton,Miller,R,4,CH,10,0,0,ball,,,
+7/10/2024,Clayton,Miller,R,4,CB,13,0,0,ball,,,
+7/10/2024,Clayton,Miller,R,4,FB,11,0,0,ball,,,
+7/10/2024,Clayton,Miller,R,4,FB,9,1,1,strike,swinging,,k
+7/10/2024,Clayton,Richardson,R,1,FB,6,1,0,bip,grounder,3,go5
+7/10/2024,Clayton,Richardson,R,2,FB,1,0,0,strike,looking,,
+7/10/2024,Clayton,Richardson,R,2,FB,2,1,0,bip,fly,5,fo8
+7/10/2024,Clayton,Richardson,R,3,CB,8,0,0,strike,looking,,
+7/10/2024,Clayton,Richardson,R,3,CB,8,1,0,bip,grounder,2,go6
+7/10/2024,Clayton,Richardson,R,4,FB,2,1,0,foul,,,
+7/10/2024,Clayton,Richardson,R,4,FB,9,0,0,strike,looking,,
+7/10/2024,Clayton,Richardson,R,4,CH,5,1,0,bip,fly,5,fo8
+7/10/2024,Clayton,DiCarlo,R,1,FB,6,1,0,bip,grounder,1,go3
+7/10/2024,Clayton,DiCarlo,R,2,CH,1,1,0,bip,grounder,1,gidp
+7/11/2024,C. Pirates,Williams,R,1,CB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Williams,R,1,FB,1,1,0,foul,,,
+7/11/2024,C. Pirates,Williams,R,1,CH,10,0,0,ball,,,
+7/11/2024,C. Pirates,Williams,R,1,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Williams,R,1,CH,2,1,0,foul,,,
+7/11/2024,C. Pirates,Williams,R,1,FB,6,1,0,bip,liner,6,lo9
+7/11/2024,C. Pirates,Williams,R,2,CH,3,0,0,strike,looking,,
+7/11/2024,C. Pirates,Williams,R,2,CB,8,0,0,strike,looking,,
+7/11/2024,C. Pirates,Williams,R,2,CB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Williams,R,2,CB,12,0,0,ball,,,
+7/11/2024,C. Pirates,Williams,R,2,FB,2,1,0,bip,fly,5,fo8
+7/11/2024,C. Pirates,Williams,R,3,CB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Williams,R,3,FB,5,1,0,bip,grounder,4,single
+7/11/2024,C. Pirates,Williams,R,4,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Williams,R,4,CB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Williams,R,4,CH,11,0,0,ball,,,
+7/11/2024,C. Pirates,Williams,R,4,FB,6,1,0,foul,,,
+7/11/2024,C. Pirates,Williams,R,4,FB,4,0,0,strike,looking,,
+7/11/2024,C. Pirates,Williams,R,4,FB,10,1,0,foul,,,
+7/11/2024,C. Pirates,Williams,R,4,FB,10,0,0,ball,walk,,
+7/11/2024,C. Pirates,Richardson,R,1,CH,13,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,1,FB,1,0,0,strike,looking,,
+7/11/2024,C. Pirates,Richardson,R,1,CB,12,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,1,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,1,FB,4,1,0,bip,fly,5,double
+7/11/2024,C. Pirates,Richardson,R,2,CH,10,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,2,CH,10,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,2,FB,2,1,0,foul,,,
+7/11/2024,C. Pirates,Richardson,R,2,CB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,2,FB,13,0,0,ball,walk,,
+7/11/2024,C. Pirates,Richardson,R,3,CB,6,0,0,strike,looking,,
+7/11/2024,C. Pirates,Richardson,R,3,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,3,CB,12,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,3,CB,7,1,0,bip,fly,5,fo8
+7/11/2024,C. Pirates,Richardson,R,4,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,4,FB,7,0,0,strike,looking,,
+7/11/2024,C. Pirates,Richardson,R,4,FB,4,0,0,strike,looking,,
+7/11/2024,C. Pirates,Richardson,R,4,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,4,FB,3,1,0,foul,,,
+7/11/2024,C. Pirates,Richardson,R,4,CB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,4,FB,6,1,0,bip,fly,4,single
+7/11/2024,C. Pirates,Richardson,R,5,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,5,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Richardson,R,5,FB,6,0,0,strike,looking,,
+7/11/2024,C. Pirates,Richardson,R,5,FB,2,1,1,strike,swinging,,
+7/11/2024,C. Pirates,Richardson,R,5,CH,8,1,1,strike,swinging,,k
+7/11/2024,C. Pirates,Miller,R,1,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Miller,R,1,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Miller,R,1,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Miller,R,1,CH,13,0,0,ball,walk,,
+7/11/2024,C. Pirates,Miller,R,2,CH,11,0,0,ball,,,
+7/11/2024,C. Pirates,Miller,R,2,FB,7,0,0,strike,looking,,
+7/11/2024,C. Pirates,Miller,R,2,CH,2,1,0,bip,popup,2,po4
+7/11/2024,C. Pirates,Miller,R,3,CB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Miller,R,3,CB,12,0,0,ball,,,
+7/11/2024,C. Pirates,Miller,R,3,CB,8,0,0,strike,looking,,
+7/11/2024,C. Pirates,Miller,R,3,CB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Miller,R,3,FB,3,1,0,foul,,,
+7/11/2024,C. Pirates,Miller,R,3,CB,1,1,0,foul,,,
+7/11/2024,C. Pirates,Miller,R,3,FB,5,1,0,bip,fly,4,single
+7/11/2024,C. Pirates,Miller,R,4,FB,5,1,0,bip,liner,4,single
+7/11/2024,C. Pirates,Miller,R,5,FB,5,0,0,strike,looking,,
+7/11/2024,C. Pirates,Miller,R,5,FB,10,1,1,strike,swinging,,
+7/11/2024,C. Pirates,Miller,R,5,FB,7,1,0,foul,,,
+7/11/2024,C. Pirates,Miller,R,5,FB,9,1,0,foul,,,
+7/11/2024,C. Pirates,Miller,R,5,SL,13,1,0,foul,,,
+7/11/2024,C. Pirates,Miller,R,5,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Miller,R,5,FB,8,1,0,foul,,,
+7/11/2024,C. Pirates,Miller,R,5,CB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Miller,R,5,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Miller,R,5,FB,11,0,0,ball,walk,,
+7/11/2024,C. Pirates,Gardner,R,1,FB,5,0,0,strike,looking,,
+7/11/2024,C. Pirates,Gardner,R,1,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,1,FB,8,1,0,bip,grounder,6,single
+7/11/2024,C. Pirates,Gardner,R,2,CB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,2,CB,9,0,0,strike,looking,,
+7/11/2024,C. Pirates,Gardner,R,2,CB,12,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,2,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,2,FB,12,0,0,ball,walk,,
+7/11/2024,C. Pirates,Gardner,R,3,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,3,FB,1,0,0,strike,looking,,
+7/11/2024,C. Pirates,Gardner,R,3,FB,2,1,0,foul,,,
+7/11/2024,C. Pirates,Gardner,R,3,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,3,FB,4,1,0,foul,,,
+7/11/2024,C. Pirates,Gardner,R,3,CB,9,0,0,strike,looking,,kk
+7/11/2024,C. Pirates,Gardner,R,4,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,4,FB,12,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,4,CB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,4,FB,9,0,0,strike,looking,,
+7/11/2024,C. Pirates,Gardner,R,4,FB,12,0,0,ball,walk,,
+7/11/2024,C. Pirates,Gardner,R,5,CH,10,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,5,CH,10,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,5,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Gardner,R,5,FB,13,0,0,ball,walk,,
+7/11/2024,C. Pirates,Bock,R,1,CH,13,0,0,ball,,,
+7/11/2024,C. Pirates,Bock,R,1,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Bock,R,1,FB,4,1,1,strike,swinging,,
+7/11/2024,C. Pirates,Bock,R,1,CH,8,0,0,strike,looking,,
+7/11/2024,C. Pirates,Bock,R,1,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Bock,R,1,FB,10,0,0,ball,walk,,
+7/11/2024,C. Pirates,Bock,R,2,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Bock,R,2,CH,5,1,0,bip,fly,4,hr
+7/11/2024,C. Pirates,Bock,R,3,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Bock,R,3,CB,12,0,0,ball,,,
+7/11/2024,C. Pirates,Bock,R,3,FB,4,0,0,strike,looking,,
+7/11/2024,C. Pirates,Bock,R,3,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Bock,R,3,FB,2,1,0,bip,liner,4,single
+7/11/2024,C. Pirates,Bock,R,4,FB,4,0,0,strike,looking,,
+7/11/2024,C. Pirates,Bock,R,4,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Bock,R,4,FB,4,1,0,foul,,,
+7/11/2024,C. Pirates,Bock,R,4,FB,6,1,0,bip,grounder,3,fc
+7/11/2024,C. Pirates,Bock,R,5,FB,5,1,0,foul,,,
+7/11/2024,C. Pirates,Bock,R,5,CH,13,0,0,ball,,,
+7/11/2024,C. Pirates,Bock,R,5,FB,9,1,0,foul,,,
+7/11/2024,C. Pirates,Bock,R,5,CH,3,1,0,bip,fly,5,fo8
+7/11/2024,C. Pirates,Snelson,R,1,FB,4,1,0,bip,popup,8,po5
+7/11/2024,C. Pirates,Snelson,R,2,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Snelson,R,2,FB,11,1,0,foul,,,
+7/11/2024,C. Pirates,Snelson,R,2,CH,10,0,0,ball,,,
+7/11/2024,C. Pirates,Snelson,R,2,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Snelson,R,2,FB,13,0,0,ball,walk,,
+7/11/2024,C. Pirates,Snelson,R,3,FB,13,1,0,foul,,,
+7/11/2024,C. Pirates,Snelson,R,3,CB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Snelson,R,3,FB,4,1,0,foul,,,
+7/11/2024,C. Pirates,Snelson,R,3,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Snelson,R,3,FB,2,1,1,strike,swinging,,k
+7/11/2024,C. Pirates,Snelson,R,4,FB,6,1,0,foul,,,
+7/11/2024,C. Pirates,Snelson,R,4,FB,10,1,1,strike,swinging,,
+7/11/2024,C. Pirates,Snelson,R,4,FB,10,1,0,foul,,,
+7/11/2024,C. Pirates,Snelson,R,4,CH,12,0,0,ball,,,
+7/11/2024,C. Pirates,Snelson,R,4,SL,13,0,0,ball,,,
+7/11/2024,C. Pirates,Snelson,R,4,FB,7,1,1,strike,swinging,,k
+7/11/2024,C. Pirates,Snelson,R,5,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Snelson,R,5,FB,3,1,0,bip,fly,5,fo8
+7/11/2024,C. Pirates,Merlak,R,1,FB,2,1,0,bip,popup,2,po6
+7/11/2024,C. Pirates,Merlak,R,2,CB,4,0,0,strike,looking,,
+7/11/2024,C. Pirates,Merlak,R,2,CB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Merlak,R,2,FB,5,1,0,bip,grounder,2,go6
+7/11/2024,C. Pirates,Merlak,R,3,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Merlak,R,3,FB,12,1,1,strike,swinging,,
+7/11/2024,C. Pirates,Merlak,R,3,CB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Merlak,R,3,FB,9,1,0,foul,,,
+7/11/2024,C. Pirates,Merlak,R,3,FB,1,1,0,foul,,,
+7/11/2024,C. Pirates,Merlak,R,3,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Merlak,R,3,FB,10,0,0,ball,walk,,
+7/11/2024,C. Pirates,Merlak,R,4,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Merlak,R,4,FB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Merlak,R,4,CH,4,1,0,foul,,,
+7/11/2024,C. Pirates,Merlak,R,4,CB,1,0,0,strike,looking,,
+7/11/2024,C. Pirates,Merlak,R,4,FB,5,1,0,bip,popup,1,po3
+7/11/2024,C. Pirates,Merlak,R,5,CH,10,0,0,ball,,,
+7/11/2024,C. Pirates,Merlak,R,5,FB,4,1,0,bip,popup,3,po5
+7/11/2024,C. Pirates,Wilson,R,1,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Wilson,R,1,FB,5,0,0,strike,looking,,
+7/11/2024,C. Pirates,Wilson,R,1,CH,10,0,0,ball,,,
+7/11/2024,C. Pirates,Wilson,R,1,CH,6,1,0,bip,grounder,3,go5
+7/11/2024,C. Pirates,Wilson,R,2,CB,8,0,0,strike,looking,,
+7/11/2024,C. Pirates,Wilson,R,2,CB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Wilson,R,2,CH,13,1,1,strike,swinging,,
+7/11/2024,C. Pirates,Wilson,R,2,CB,5,0,0,strike,looking,,kk
+7/11/2024,C. Pirates,Wilson,R,3,FB,2,1,1,strike,swinging,,
+7/11/2024,C. Pirates,Wilson,R,3,FB,5,1,0,bip,liner,5,single
+7/11/2024,C. Pirates,Wilson,R,4,SL,6,1,0,foul,,,
+7/11/2024,C. Pirates,Wilson,R,4,CB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Wilson,R,4,FB,13,0,0,ball,,,
+7/11/2024,C. Pirates,Wilson,R,4,FB,9,0,0,strike,looking,,
+7/11/2024,C. Pirates,Wilson,R,4,CH,7,0,0,strike,looking,,kk
+7/11/2024,C. Pirates,Wilson,R,5,FB,6,1,0,foul,,,
+7/11/2024,C. Pirates,Wilson,R,5,CB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Wilson,R,5,CH,13,1,0,foul,,,
+7/11/2024,C. Pirates,Wilson,R,5,FB,6,1,0,bip,grounder,3,go5
+7/11/2024,C. Pirates,Garrett,R,1,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Garrett,R,1,FB,2,1,0,bip,fly,4,fo7
+7/11/2024,C. Pirates,Garrett,R,2,CH,12,0,0,ball,,,
+7/11/2024,C. Pirates,Garrett,R,2,CB,11,0,0,ball,,,
+7/11/2024,C. Pirates,Garrett,R,2,CB,9,0,0,strike,looking,,
+7/11/2024,C. Pirates,Garrett,R,2,FB,5,1,0,foul,,,
+7/11/2024,C. Pirates,Garrett,R,3,FB,6,1,0,foul,,,
+7/11/2024,C. Pirates,Garrett,R,3,FB,3,1,0,bip,fly,4,fo7
+7/11/2024,C. Pirates,Garrett,R,4,FB,6,0,0,strike,looking,,
+7/11/2024,C. Pirates,Garrett,R,4,CH,12,0,0,ball,,,
+7/11/2024,C. Pirates,Garrett,R,4,FB,12,0,0,ball,,,
+7/11/2024,C. Pirates,Garrett,R,4,FB,10,0,0,ball,,,
+7/11/2024,C. Pirates,Garrett,R,4,FB,10,0,0,ball,walk,,
+7/11/2024,C. Pirates,Garrett,R,5,FB,10,0,0,ball,hbp,,
