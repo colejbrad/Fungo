@@ -157,9 +157,7 @@ class FungoVisual:
 
         '''
         stats = fStat()
-        avgList = []
-
-        for index, row in playerData.iterrows():
-            avgList.append(stats.average(playerData[:(index + 1)]))
+        avgList = [stats.average(playerData[:(i + 1)])
+                   for i, r in playerData.iterrows()]
 
         return avgList

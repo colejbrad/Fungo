@@ -8,13 +8,13 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Set working directory as parent folder of overall project
-os.chdir('C:\\Users\\1030c\\Desktop\\Fungo\\Fungo\\')
+os.chdir("C:\\Users\\1030c\\Desktop\\Fungo\\Fungo\\")
 
 # Test FungoImport methods
-testHitter = fi.importHitter('Output_CSV\\SnelsonResults.csv')
-testHitterAll = fi.importHitter('Output_CSV\\Snelson.csv')
-testPitcher = fi.importPitcher('Output_CSV\\Mizener.csv')
-testSwingMiss = fi.importSwingAndMiss('SAS_Files\\Lib\\swingandmiss.sas7bdat')
+testHitter = fi.importHitter("Output_CSV\\SnelsonResults.csv")
+testHitterAll = fi.importHitter("Output_CSV\\Snelson.csv")
+testPitcher = fi.importPitcher("Output_CSV\\Mizener.csv")
+testSwingMiss = fi.importSwingAndMiss("SAS_Files\\Lib\\swingandmiss.sas7bdat")
 
 # Test FungoSplits methods
 testSplitHitterPAs = fs.getSplitHitterPAs(testHitter)
@@ -47,8 +47,8 @@ ax.plot(range(1, len(testHitter) + 1), testRollingAvg)
 plt.show()
 
 # Jonalan Richardson
-richardson = fi.importHitter('Output_CSV\\RichardsonResults.csv')
-richardsonAll = fi.importHitter('Output_CSV\\Richardson.csv')
+richardson = fi.importHitter("Output_CSV\\RichardsonResults.csv")
+richardsonAll = fi.importHitter("Output_CSV\\Richardson.csv")
 richardsonLocations = fs.getLocationSplits(richardson)
 fStat = fStat()
 richardsonAvg = fStat.average(richardson)

@@ -39,3 +39,14 @@ by-pitch velocities, effectiveness of a specific training regiment, etc.
 
 ## Raw_Data
 - Contains the raw datasets for all pitchers and hitters. These datasets are stored as CSVs.
+
+The structure of the datasets are as follows, types in parentheses based on which language they will be used in (Python, SAS):
+
+Hitter Data:
+    date (str, char), opponent (str, char), batter (str, char), pitcherHand (str, char), plateAppearance (int, num), pitchType (str, char),
+    pitchLocation (int, num), swing (int, num), miss (int, num), result (str, char), resultType (str, char),
+    resultLocation (int, num), hitType (str, char)
+
+Pitcher Data:
+    date (str, char), opponent (str, char), pitcher (str, char), batterHand (str, char), battersFaced (int, num), velocity (int, num),
+    pitchType (str, char), location (int, num), swing (int, num), miss (int, num)

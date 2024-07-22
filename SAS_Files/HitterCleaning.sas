@@ -11,11 +11,11 @@ libname Fungo "SAS_Files\Lib";
 /* Import data into SAS */
 data Fungo.Hitters;
   infile "Raw_Data\HitterData.csv" dsd firstobs= 2 missover;
-  attrib date length= $9
+  attrib date format= ddmmyy9.
          opponent length= $10
          batter length= $10
   ;
-  input date $
+  input date : date9.
         opponent $
         batter $
         pitcherHand $

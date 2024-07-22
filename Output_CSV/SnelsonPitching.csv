@@ -1,0 +1,241 @@
+date,opponent,pitcher,batterHand,battersFaced,velocity,pitchType,location,swing,miss
+07/06/24,Reidsville,Snelson,R,1,86,FB,4,0,0
+07/06/24,Reidsville,Snelson,R,1,85,FB,13,0,0
+07/06/24,Reidsville,Snelson,R,1,83,FB,8,1,0
+07/06/24,Reidsville,Snelson,R,1,81,FB,10,0,0
+07/06/24,Reidsville,Snelson,R,1,79,CH,13,0,0
+07/06/24,Reidsville,Snelson,R,1,84,FB,8,1,0
+07/06/24,Reidsville,Snelson,R,1,85,FB,13,0,0
+07/06/24,Reidsville,Snelson,R,2,78,CH,13,0,0
+07/06/24,Reidsville,Snelson,R,2,83,FB,11,0,0
+07/06/24,Reidsville,Snelson,R,2,87,FB,1,1,0
+07/06/24,Reidsville,Snelson,R,3,81,CH,4,0,0
+07/06/24,Reidsville,Snelson,R,3,79,FB,7,1,0
+07/06/24,Reidsville,Snelson,R,3,80,CH,13,0,0
+07/06/24,Reidsville,Snelson,R,3,85,FB,11,0,0
+07/06/24,Reidsville,Snelson,R,3,80,CH,12,1,1
+07/06/24,Reidsville,Snelson,R,4,,FB,4,0,0
+07/06/24,Reidsville,Snelson,R,4,77,CH,13,1,1
+07/06/24,Reidsville,Snelson,R,4,79,FB,12,1,1
+07/06/24,Reidsville,Snelson,R,5,79,FB,13,0,0
+07/06/24,Reidsville,Snelson,R,5,84,FB,4,1,0
+07/06/24,Reidsville,Snelson,R,6,84,FB,6,0,0
+07/06/24,Reidsville,Snelson,R,6,82,FB,6,1,0
+07/06/24,Reidsville,Snelson,R,6,80,FB,13,0,0
+07/06/24,Reidsville,Snelson,R,6,80,FB,10,0,0
+07/06/24,Reidsville,Snelson,R,6,,SL,12,0,0
+07/06/24,Reidsville,Snelson,R,6,82,FB,4,1,0
+07/06/24,Reidsville,Snelson,R,7,78,CH,11,0,0
+07/06/24,Reidsville,Snelson,R,7,78,FB,12,0,0
+07/06/24,Reidsville,Snelson,R,7,80,CH,5,1,0
+07/06/24,Reidsville,Snelson,R,7,77,CB,9,1,0
+07/06/24,Reidsville,Snelson,R,7,80,CH,5,1,0
+07/06/24,Reidsville,Snelson,L,8,84,FB,5,1,0
+07/06/24,Reidsville,Snelson,R,9,,CB,13,0,0
+07/06/24,Reidsville,Snelson,R,9,87,FB,7,1,1
+07/06/24,Reidsville,Snelson,R,9,79,CH,13,0,0
+07/06/24,Reidsville,Snelson,R,9,84,FB,13,1,1
+07/06/24,Reidsville,Snelson,R,9,83,FB,13,0,0
+07/06/24,Reidsville,Snelson,R,9,85,FB,6,1,0
+07/06/24,Reidsville,Snelson,R,9,89,FB,10,0,0
+07/06/24,Reidsville,Snelson,R,10,77,CB,10,0,0
+07/06/24,Reidsville,Snelson,R,10,86,FB,10,0,0
+07/06/24,Reidsville,Snelson,R,10,82,FB,9,1,1
+07/06/24,Reidsville,Snelson,R,10,79,SL,11,0,0
+07/06/24,Reidsville,Snelson,R,10,85,FB,1,0,0
+07/06/24,Reidsville,Snelson,R,10,89,FB,7,1,0
+07/06/24,Reidsville,Snelson,R,10,83,FB,6,1,0
+07/06/24,Reidsville,Snelson,R,11,83,FB,1,1,0
+07/06/24,Reidsville,Snelson,R,11,80,CH,9,0,0
+07/06/24,Reidsville,Snelson,R,11,85,FB,2,1,0
+07/06/24,Reidsville,Snelson,R,11,80,CH,12,0,0
+07/06/24,Reidsville,Snelson,R,11,,CH,8,1,0
+07/06/24,Reidsville,Snelson,R,12,78,CB,12,0,0
+07/06/24,Reidsville,Snelson,R,12,81,CH,6,1,1
+07/06/24,Reidsville,Snelson,R,12,75,CB,12,1,1
+07/06/24,Reidsville,Snelson,R,12,75,CB,8,1,0
+07/06/24,Reidsville,Snelson,R,12,84,FB,3,1,0
+07/06/24,Reidsville,Snelson,R,12,79,CH,5,1,1
+07/06/24,Reidsville,Snelson,R,13,83,FB,6,1,0
+07/06/24,Reidsville,Snelson,R,14,76,SL,9,0,0
+07/06/24,Reidsville,Snelson,R,14,,FB,4,1,0
+07/06/24,Reidsville,Snelson,R,15,82,FB,12,0,0
+07/06/24,Reidsville,Snelson,R,15,76,CB,7,1,0
+07/06/24,Reidsville,Snelson,R,15,79,CB,9,1,1
+07/06/24,Reidsville,Snelson,R,15,79,CB,12,1,1
+07/06/24,Reidsville,Snelson,R,16,76,SL,13,0,0
+07/06/24,Reidsville,Snelson,R,16,82,FB,13,0,0
+07/06/24,Reidsville,Snelson,R,16,82,FB,8,1,1
+07/06/24,Reidsville,Snelson,R,16,79,CB,12,1,1
+07/06/24,Reidsville,Snelson,R,16,81,FB,12,0,0
+07/06/24,Reidsville,Snelson,R,16,87,FB,4,1,0
+07/06/24,Reidsville,Snelson,L,17,84,FB,13,0,0
+07/06/24,Reidsville,Snelson,L,17,,CH,12,0,0
+07/06/24,Reidsville,Snelson,L,17,82,FB,12,0,0
+07/06/24,Reidsville,Snelson,L,17,83,FB,5,0,0
+07/06/24,Reidsville,Snelson,L,17,81,CH,6,1,0
+02/07/24,Clayton,Snelson,R,1,85,FB,12,0,0
+02/07/24,Clayton,Snelson,R,1,88,FB,2,1,0
+02/07/24,Clayton,Snelson,R,2,80,CH,6,0,0
+02/07/24,Clayton,Snelson,R,2,87,FB,4,0,0
+02/07/24,Clayton,Snelson,R,2,85,FB,9,1,0
+02/07/24,Clayton,Snelson,L,3,86,FB,4,0,0
+02/07/24,Clayton,Snelson,L,3,85,FB,8,0,0
+02/07/24,Clayton,Snelson,L,3,87,FB,12,0,0
+02/07/24,Clayton,Snelson,L,3,81,CH,7,1,1
+02/07/24,Clayton,Snelson,L,4,81,CB,10,0,0
+02/07/24,Clayton,Snelson,L,4,79,CB,4,0,0
+02/07/24,Clayton,Snelson,L,4,87,FB,10,0,0
+02/07/24,Clayton,Snelson,L,4,81,CH,7,0,0
+02/07/24,Clayton,Snelson,L,4,87,FB,6,1,0
+02/07/24,Clayton,Snelson,R,5,85,FB,3,1,0
+02/07/24,Clayton,Snelson,R,5,85,FB,6,1,0
+02/07/24,Clayton,Snelson,R,6,81,CH,5,1,0
+02/07/24,Clayton,Snelson,R,7,86,FB,13,0,0
+02/07/24,Clayton,Snelson,R,7,84,FB,13,1,1
+02/07/24,Clayton,Snelson,R,7,84,FB,13,0,0
+02/07/24,Clayton,Snelson,R,7,87,FB,8,1,0
+02/07/24,Clayton,Snelson,R,8,85,FB,6,0,0
+02/07/24,Clayton,Snelson,R,8,85,FB,9,1,1
+02/07/24,Clayton,Snelson,R,8,88,FB,10,0,0
+02/07/24,Clayton,Snelson,R,8,81,CH,9,1,0
+02/07/24,Clayton,Snelson,L,9,87,FB,4,1,1
+02/07/24,Clayton,Snelson,L,9,86,FB,12,0,0
+02/07/24,Clayton,Snelson,L,9,85,FB,10,0,0
+02/07/24,Clayton,Snelson,L,9,79,CB,13,1,1
+02/07/24,Clayton,Snelson,L,9,87,FB,12,0,0
+02/07/24,Clayton,Snelson,L,9,83,CH,10,0,0
+02/07/24,Clayton,Snelson,R,10,85,FB,10,0,0
+02/07/24,Clayton,Snelson,R,10,81,CB,13,0,0
+02/07/24,Clayton,Snelson,R,10,84,FB,6,0,0
+02/07/24,Clayton,Snelson,R,10,86,FB,3,1,0
+02/07/24,Clayton,Snelson,R,10,87,FB,12,0,0
+02/07/24,Clayton,Snelson,R,10,84,FB,12,0,0
+02/07/24,Clayton,Snelson,R,11,83,CH,8,1,0
+02/07/24,Clayton,Snelson,L,12,80,CB,5,1,0
+02/07/24,Clayton,Snelson,L,13,79,CB,13,0,0
+02/07/24,Clayton,Snelson,L,13,85,FB,12,0,0
+02/07/24,Clayton,Snelson,L,13,87,FB,10,0,0
+02/07/24,Clayton,Snelson,L,13,81,CH,1,0,0
+02/07/24,Clayton,Snelson,L,13,79,CH,12,0,0
+02/07/24,Clayton,Snelson,R,14,85,FB,2,1,1
+02/07/24,Clayton,Snelson,R,14,86,FB,2,1,0
+02/07/24,Clayton,Snelson,R,14,82,CH,12,0,0
+02/07/24,Clayton,Snelson,R,14,85,FB,10,1,1
+02/07/24,Clayton,Snelson,R,15,78,CB,12,0,0
+02/07/24,Clayton,Snelson,R,15,85,FB,11,0,0
+02/07/24,Clayton,Snelson,R,15,83,CH,5,1,0
+02/07/24,Clayton,Snelson,R,16,85,FB,10,0,0
+02/07/24,Clayton,Snelson,R,17,78,CH,11,1,1
+02/07/24,Clayton,Snelson,R,17,88,FB,8,1,1
+02/07/24,Clayton,Snelson,R,17,88,FB,11,1,0
+02/07/24,Clayton,Snelson,R,17,86,FB,11,0,0
+02/07/24,Clayton,Snelson,R,17,85,FB,10,0,0
+02/07/24,Clayton,Snelson,R,17,,CH,8,0,0
+02/07/24,Clayton,Snelson,L,18,81,CH,8,1,1
+02/07/24,Clayton,Snelson,L,18,77,CH,12,1,1
+02/07/24,Clayton,Snelson,L,18,82,CB,7,1,0
+02/07/24,Clayton,Snelson,L,18,83,FB,10,0,0
+02/07/24,Clayton,Snelson,L,18,83,FB,10,0,0
+02/07/24,Clayton,Snelson,L,18,83,CH,6,0,0
+07/07/24,Oak City,Snelson,R,1,82,CH,9,0,0
+07/07/24,Oak City,Snelson,R,1,82,CH,13,0,0
+07/07/24,Oak City,Snelson,R,1,76,CB,5,1,1
+07/07/24,Oak City,Snelson,R,1,89,FB,2,1,0
+07/07/24,Oak City,Snelson,R,1,83,CH,13,0,0
+07/07/24,Oak City,Snelson,R,1,87,FB,6,0,0
+07/07/24,Oak City,Snelson,R,2,75,CB,12,0,0
+07/07/24,Oak City,Snelson,R,2,82,FB,6,0,0
+07/07/24,Oak City,Snelson,R,2,83,CH,13,0,0
+07/07/24,Oak City,Snelson,R,2,88,FB,5,0,0
+07/07/24,Oak City,Snelson,R,2,88,FB,13,0,0
+07/07/24,Oak City,Snelson,R,2,81,CH,13,0,0
+07/07/24,Oak City,Snelson,L,3,87,FB,12,0,0
+07/07/24,Oak City,Snelson,L,3,88,FB,11,0,0
+07/07/24,Oak City,Snelson,L,3,88,FB,8,0,0
+07/07/24,Oak City,Snelson,L,3,78,CB,12,0,0
+07/07/24,Oak City,Snelson,L,3,87,FB,1,1,0
+07/07/24,Oak City,Snelson,L,3,89,FB,4,1,0
+07/07/24,Oak City,Snelson,R,4,85,FB,11,0,0
+07/07/24,Oak City,Snelson,R,4,82,CH,9,1,0
+07/07/24,Oak City,Snelson,R,5,82,CH,2,1,0
+07/07/24,Oak City,Snelson,R,6,80,CH,10,0,0
+07/07/24,Oak City,Snelson,R,6,85,FB,10,0,0
+07/07/24,Oak City,Snelson,R,6,79,CB,8,1,0
+07/07/24,Oak City,Snelson,R,6,80,CH,3,1,1
+07/07/24,Oak City,Snelson,R,6,81,CH,9,1,0
+07/07/24,Oak City,Snelson,R,6,87,FB,6,1,1
+07/07/24,Oak City,Snelson,R,7,79,CB,13,0,0
+07/07/24,Oak City,Snelson,R,7,83,CH,13,0,0
+07/07/24,Oak City,Snelson,R,7,82,CH,5,1,0
+07/07/24,Oak City,Snelson,R,8,77,CB,7,1,0
+07/07/24,Oak City,Snelson,R,9,87,FB,6,0,0
+07/07/24,Oak City,Snelson,R,9,88,FB,13,0,0
+07/07/24,Oak City,Snelson,R,9,87,FB,11,0,0
+07/07/24,Oak City,Snelson,R,9,87,FB,3,1,0
+07/07/24,Oak City,Snelson,R,10,86,FB,6,0,0
+07/07/24,Oak City,Snelson,R,10,87,FB,11,1,1
+07/07/24,Oak City,Snelson,R,10,87,FB,13,1,1
+07/07/24,Oak City,Snelson,R,11,89,FB,13,0,0
+07/07/24,Oak City,Snelson,R,11,87,FB,11,0,0
+07/07/24,Oak City,Snelson,R,11,87,FB,9,0,0
+07/07/24,Oak City,Snelson,R,11,88,FB,11,0,0
+07/07/24,Oak City,Snelson,R,11,87,FB,4,0,0
+07/07/24,Oak City,Snelson,R,11,85,FB,12,0,0
+07/07/24,Oak City,Snelson,L,12,86,FB,10,0,0
+07/07/24,Oak City,Snelson,L,12,87,FB,5,1,0
+07/07/24,Oak City,Snelson,L,12,88,FB,12,0,0
+07/07/24,Oak City,Snelson,L,12,88,FB,12,0,0
+07/07/24,Oak City,Snelson,L,12,86,FB,12,0,0
+07/07/24,Oak City,Snelson,R,13,,FB,9,1,1
+07/07/24,Oak City,Snelson,R,13,85,FB,6,1,1
+07/07/24,Oak City,Snelson,R,13,90,FB,6,0,0
+07/07/24,Oak City,Snelson,R,14,84,FB,6,0,0
+07/07/24,Oak City,Snelson,R,14,82,CH,8,1,0
+07/07/24,Oak City,Snelson,R,15,85,FB,5,1,1
+07/07/24,Oak City,Snelson,R,15,84,FB,10,0,0
+07/07/24,Oak City,Snelson,R,15,76,CB,4,0,0
+07/07/24,Oak City,Snelson,R,15,86,FB,8,1,0
+07/07/24,Oak City,Snelson,R,15,87,FB,5,1,0
+07/07/24,Oak City,Snelson,R,16,78,CB,5,0,0
+07/07/24,Oak City,Snelson,R,16,88,FB,13,0,0
+07/07/24,Oak City,Snelson,R,16,85,FB,5,0,0
+07/07/24,Oak City,Snelson,R,16,87,FB,13,0,0
+07/07/24,Oak City,Snelson,R,16,88,FB,12,1,1
+17/07/24,High Point,Snelson,R,1,84,FB,13,0,0
+17/07/24,High Point,Snelson,R,1,82,FB,2,1,1
+17/07/24,High Point,Snelson,R,1,75,CB,13,1,1
+17/07/24,High Point,Snelson,R,1,75,CB,13,1,1
+17/07/24,High Point,Snelson,R,2,86,FB,4,0,0
+17/07/24,High Point,Snelson,R,2,85,FB,3,0,0
+17/07/24,High Point,Snelson,R,2,79,CH,13,1,1
+17/07/24,High Point,Snelson,R,3,81,CH,10,0,0
+17/07/24,High Point,Snelson,R,3,81,CH,10,1,0
+17/07/24,High Point,Snelson,R,3,83,CH,11,0,0
+17/07/24,High Point,Snelson,R,3,85,FB,6,0,0
+17/07/24,High Point,Snelson,R,3,78,CB,8,1,0
+17/07/24,High Point,Snelson,R,3,76,CB,9,1,0
+17/07/24,High Point,Snelson,R,4,85,FB,7,1,0
+17/07/24,High Point,Snelson,R,4,,SL,13,1,1
+17/07/24,High Point,Snelson,R,4,82,CH,13,1,1
+17/07/24,High Point,Snelson,R,5,80,CH,4,0,0
+17/07/24,High Point,Snelson,R,5,82,CH,5,1,0
+17/07/24,High Point,Snelson,R,6,77,CB,1,0,0
+17/07/24,High Point,Snelson,R,6,80,CH,3,1,0
+17/07/24,High Point,Snelson,R,7,78,CH,5,1,0
+17/07/24,High Point,Snelson,R,8,78,CH,2,1,1
+17/07/24,High Point,Snelson,R,8,75,CB,13,0,0
+17/07/24,High Point,Snelson,R,8,78,CH,13,0,0
+17/07/24,High Point,Snelson,R,8,79,CH,13,0,0
+17/07/24,High Point,Snelson,R,8,86,FB,6,1,0
+17/07/24,High Point,Snelson,R,8,79,CB,4,1,1
+17/07/24,High Point,Snelson,R,9,75,SL,12,0,0
+17/07/24,High Point,Snelson,R,9,79,CH,9,1,1
+17/07/24,High Point,Snelson,R,9,80,CH,6,1,0
+17/07/24,High Point,Snelson,R,10,79,CH,11,1,0
+17/07/24,High Point,Snelson,R,10,76,CB,8,1,0
+17/07/24,High Point,Snelson,R,11,76,CB,5,1,1
+17/07/24,High Point,Snelson,R,11,80,CH,10,0,0
+17/07/24,High Point,Snelson,R,11,82,FB,1,1,0
+17/07/24,High Point,Snelson,R,12,79,CH,11,0,0
+17/07/24,High Point,Snelson,R,12,83,FB,10,1,0

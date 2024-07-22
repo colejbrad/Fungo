@@ -4,9 +4,8 @@ from FungoStats import FungoStats as fStat
 
 
 class FungoSplits:
-
     def getSplitHitterPAs(playerData: pd.DataFrame) -> tuple[pd.DataFrame]:
-        '''
+        """
         Creates separate dataframes based on the pitcherHand column
         for hitter data.
 
@@ -24,14 +23,14 @@ class FungoSplits:
             DataFrame of all rows from the input DataFrame where
             pitcherHand == "L"
 
-        '''
-        rightyData = playerData[playerData.pitcherHand == 'R']
-        leftyData = playerData[playerData.pitcherHand == 'L']
+        """
+        rightyData = playerData[playerData.pitcherHand == "R"]
+        leftyData = playerData[playerData.pitcherHand == "L"]
 
         return (rightyData, leftyData)
 
     def getSplitPitcherPAs(playerData: pd.DataFrame) -> tuple[pd.DataFrame]:
-        '''
+        """
         Creates separate dataframes based on the batterHand column
         for pitcher data.
 
@@ -49,14 +48,14 @@ class FungoSplits:
             DataFrame of all rows from the input DataFrame where
             batterHand == "L"
 
-        '''
-        rightyData = playerData[playerData.batterHand == 'R']
-        leftyData = playerData[playerData.batterHand == 'L']
+        """
+        rightyData = playerData[playerData.batterHand == "R"]
+        leftyData = playerData[playerData.batterHand == "L"]
 
         return (rightyData, leftyData)
 
     def getLocationSplits(playerData: pd.DataFrame) -> list[float]:
-        '''
+        """
         Calculates a player's batting average based on the location of the pitch
         for the ultimate pitch in an at bat
 
@@ -74,24 +73,42 @@ class FungoSplits:
             definition of these zones (1 is top left of strikezone going across
             down to 9 in bottom right of the zone with zones 10-13 being
             quadrants outside the zone)
-        '''
+        """
 
         dataDict = {
-            'tl': [], 'tm': [], 'tr': [],
-            'ml': [], 'mm': [], 'mr': [],
-            'bl': [], 'bm': [], 'br': [],
-            'ui': [], 'uo': [], 'li': [], 'lo': []
+            "tl": [],
+            "tm": [],
+            "tr": [],
+            "ml": [],
+            "mm": [],
+            "mr": [],
+            "bl": [],
+            "bm": [],
+            "br": [],
+            "ui": [],
+            "uo": [],
+            "li": [],
+            "lo": [],
         }
 
         locationMap = {
-            1: 'tl', 2: 'tm', 3: 'tr',
-            4: 'ml', 5: 'mm', 6: 'mr',
-            7: 'bl', 8: 'bm', 9: 'br',
-            10: 'ui', 11: 'uo', 12: 'li', 13: 'lo'
+            1: "tl",
+            2: "tm",
+            3: "tr",
+            4: "ml",
+            5: "mm",
+            6: "mr",
+            7: "bl",
+            8: "bm",
+            9: "br",
+            10: "ui",
+            11: "uo",
+            12: "li",
+            13: "lo",
         }
 
         for _, row in playerData.iterrows():
-            key = locationMap.get(row['pitchLocation'])
+            key = locationMap.get(row["pitchLocation"])
             if key:
                 dataDict[key].append(row)
 
@@ -100,8 +117,7 @@ class FungoSplits:
 
         stats = fStat()
         dataList = [
-            0 if dataDict[key].empty else stats.average(dataDict[key])
-            for key in dataDict
+            0 if dataDict[key].empty else stats.average(dataDict[key]) for key in dataDict
         ]
 
         return dataList
