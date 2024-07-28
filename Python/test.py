@@ -4,6 +4,7 @@ from FungoImport import FungoImport as fi
 from FungoSplits import FungoSplits as fs
 from FungoStats import FungoStats as fStat
 from FungoVisual import FungoVisual as fv
+from FungoPlayer import FungoPlayer as fp
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -68,3 +69,5 @@ richardsonRolling = fv.rollingAvg(richardson)
 fig, ax = plt.subplots()
 ax.plot(range(1, len(richardson) + 1), richardsonRolling)
 plt.show()
+
+RichardsonDict = fp.createPlayer("Richardson")

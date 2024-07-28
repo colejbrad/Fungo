@@ -52,7 +52,7 @@ class FungoSplits:
         rightyData = playerData[playerData.batterHand == "R"]
         leftyData = playerData[playerData.batterHand == "L"]
 
-        return (rightyData, leftyData)
+        return (leftyData, rightyData)
 
     def getLocationSplits(playerData: pd.DataFrame) -> list[float]:
         """
