@@ -90,4 +90,3 @@ Pitcher Data:
     location (int, num)
     wing (int, num)
     miss (int, num)
-    
