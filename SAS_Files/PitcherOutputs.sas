@@ -53,6 +53,17 @@ proc sgplot data= Fungo.avgVeloByGame;
 run;
 title;
 
+/* Perform ANOVA for BIB with pitchType as the block, location as
+   the treatment, and swinging strike rate as the response */
+ods exclude ClassLevels NObs;
+title &TitleOpts "Analysis of Swinging Strike Rate by Pitch Type and Location";
+proc glm data= Fungo.swingAndMissBIB plots= diagnostics;
+  class location pitchType;
+  model swingingStrRate = location pitchType / ss3;
+  lsmeans pitchType / cl adjust= tukey;
+run;
+title;
+
 /* Create a report that shows the number of swings, the number of misses,
    and the swinging strike rate by location of the pitch*/
 title &TitleOpts "Swinging Strike Rate by Zone";
@@ -68,6 +79,8 @@ proc report data= Fungo.swingAndMiss;
 run;
 title;
 
+/* Create a report that shows the number of swings, the number of misses,
+   and the swinging strike rate by the type of pitch*/
 title &TitleOpts "Swing and Miss Data by Location and Pitch Type";
 proc report data= Fungo.swingAndMissPType;
   column pitchType totalPitches totalSwings totalMisses swingingStrRate;

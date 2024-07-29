@@ -92,3 +92,43 @@ data Fungo.swingAndMissPType;
   set Fungo.swingAndMissPType;
   where ~missing(pitchType);
 run;
+
+/* Create dataset for BIB */
+proc means data= Fungo.SpecificPitcher noprint;
+  class pitchType location;
+  var swing miss;
+  output out= Fungo.swingsByLocationBIB (drop= _TYPE_ _FREQ_)
+         n(swing) = totalPitches
+         sum(swing) = totalSwings
+  ;
+run;
+
+proc means data= Fungo.onlySwings noprint;
+  class pitchType location;
+  var miss;
+  output out= Fungo.missesByLocationBIB (drop= _TYPE_ _FREQ_)
+         sum(miss) = totalMisses
+  ;
+run;
+
+proc sort data= Fungo.swingsByLocationBIB;
+  by location pitchType;
+run;
+
+proc sort data= Fungo.missesByLocationBIB;
+  by location pitchType;
+run;
+
+data Fungo.swingAndMissBIB;
+  merge Fungo.swingsByLocationBIB (in= a)
+        Fungo.missesByLocationBIB (in= b)
+  ;
+  by location;
+  if b = 0 then totalMisses = 0;
+  swingingStrRate = totalMisses / totalPitches;
+run;
+
+data Fungo.swingAndMissBIB;
+  set Fungo.swingAndMissBIB;
+  where ~missing(pitchType) and ~missing(location);
+run;
