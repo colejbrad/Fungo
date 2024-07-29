@@ -97,3 +97,5 @@ pdf.drawImage(image3, 10, 10, width=10 * cm, height=7 * cm)
 pdf.drawImage(image4, 300, 10, width=10 * cm, height=7 * cm)
 
 pdf.save()
+
+print(f"The PDF was saved to: Output_Files\\{player}Report.pdf")
