@@ -2,8 +2,8 @@
    created in the PitcherAnalysis file */
 
 /* Create library for storing data for Fungo */
-x 'cd C:\';
-libname Fungo "Users\1030c\Desktop\Fungo\Fungo\SAS_Files\Lib";
+x "cd C:\Users\1030c\Desktop\Fungo\Fungo\";
+libname Fungo "SAS_Files\Lib";
 
 *Establish macro variables;
 %let TitleOpts= height= 14 pt bold;
@@ -59,26 +59,38 @@ title &TitleOpts "Swinging Strike Rate by Zone";
 title2 &SubTitleOpts "Zones 1-9 are inside strikezone, 10-13 are outside of zone";
 proc report data= Fungo.swingAndMiss;
   column location totalPitches totalSwings totalMisses swingingStrRate;
-  define location / group 'Pitch Location';
-  define totalPitches / analysis 'Total Pitches';
-  define totalSwings / analysis 'Total Swings';
-  define totalMisses / analysis 'Total Misses';
+  define location / group "Pitch Location";
+  define totalPitches / analysis "Total Pitches";
+  define totalSwings / analysis "Total Swings";
+  define totalMisses / analysis "Total Misses";
   define swingingStrRate / analysis format= percent8.2
-                                    'Swinging Strike Rate';
+                                    "Swinging Strike Rate";
+run;
+title;
+
+title &TitleOpts "Swing and Miss Data by Location and Pitch Type";
+proc report data= Fungo.swingAndMissPType;
+  column pitchType totalPitches totalSwings totalMisses swingingStrRate;
+  define pitchType / group "Pitch Type";
+  define totalPitches / analysis "Total Pitches";
+  define totalSwings / analysis "Total Swings";
+  define totalMisses / analysis "Total Misses";
+  define swingingStrRate / analysis format= percent8.2
+                                    "Swinging Strike Rate";
 run;
 title;
 
 proc sort data= Fungo.SpecificPitcher;
-	by pitchType date;
+  by pitchType date;
 run;
 
 ods exclude ClassLevels NObs;
 title &TitleOpts "Regression Analysis of Velocity by Pitch Type";
 title2 &SubTitleOpts "*Data available for home games only*";
 proc glm data= Fungo.SpecificPitcher;
-	class date;
-	model velocity = date;
-	by pitchType;
+  class date;
+  model velocity = date;
+  by pitchType;
 run;
 
 ods pdf close;

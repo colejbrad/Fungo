@@ -2,8 +2,8 @@
 /* Data created is for use in PitcherOutput file */
 
 /* Create library for storing data for Fungo */
-x 'cd C:\';
-libname Fungo "Users\1030c\Desktop\Fungo\Fungo\SAS_Files\Lib";
+x "cd C:\Users\1030c\Desktop\Fungo\Fungo\";
+libname Fungo "SAS_Files\Lib";
 
 /* Establish macro variables */
 %let pitcher = Snelson;
@@ -20,7 +20,7 @@ run;
 
 data Fungo.onlySwings;
   set Fungo.SpecificPitcher;
-  if swing = 1;
+  where swing = 1;
 run;
 
 proc means data= Fungo.onlySwings noprint;
@@ -40,6 +40,11 @@ data Fungo.swingAndMiss;
   swingingStrRate = totalMisses / totalPitches;
 run;
 
+data Fungo.swingAndMiss;
+  set Fungo.swingAndMiss;
+  where ~missing(location);
+run;
+
 
 /* Create dataset for average velocity by game */
 proc means data= Fungo.SpecificPitcher noprint;
@@ -51,9 +56,39 @@ proc means data= Fungo.SpecificPitcher noprint;
   ;
 run;
 
-/* Remove entries with missing pitchType and date
-   from the avgVeloByGame dataset */
-data Fungo.avgVeloByGame;
-  set Fungo.avgVeloByGame;
-  if ~missing(pitchType) and ~missing(date);
+/* Create dataset for swing and miss data by pitch type */
+proc means data= Fungo.SpecificPitcher noprint;
+  class pitchType;
+  var swing miss;
+  output out= Fungo.swingsByLocationPType (drop= _TYPE_ _FREQ_)
+         n(swing) = totalPitches
+         sum(swing) = totalSwings
+  ;
+run;
+
+data Fungo.onlySwings;
+  set Fungo.SpecificPitcher;
+  where swing = 1;
+run;
+
+proc means data= Fungo.onlySwings noprint;
+  class pitchType;
+  var miss;
+  output out= Fungo.missesByLocationPType (drop= _TYPE_ _FREQ_)
+         sum(miss) = totalMisses
+  ;
+run;
+
+data Fungo.swingAndMissPType;
+  merge Fungo.swingsByLocationPType (in= a)
+        Fungo.missesByLocationPType (in= b)
+  ;
+  by pitchType;
+  if b = 0 then totalMisses = 0;
+  swingingStrRate = totalMisses / totalPitches;
+run;
+
+data Fungo.swingAndMissPType;
+  set Fungo.swingAndMissPType;
+  where ~missing(pitchType);
 run;

@@ -5,7 +5,7 @@ for specified player. Last name only */
 %let hitter = Richardson;
 
 /* Create library for storing data for Fungo */
-x 'cd C:\Users\1030c\Desktop\Fungo\Fungo\';
+x "cd C:\Users\1030c\Desktop\Fungo\Fungo\";
 libname Fungo "SAS_Files\Lib";
 
 /* Import data into SAS */
@@ -39,6 +39,38 @@ run;
 data Fungo.SpecificHitterResults;
   set Fungo.SpecificHitter;
   where hitType ne '' or resultType in ('walk', 'hbp');
+run;
+
+/* Create datasets for swing and miss data & merge them */
+proc means data= Fungo.SpecificHitter noprint;
+  class location;
+  var swing miss;
+  output out= Fungo.swingsByLocationHitter (drop= _TYPE_ _FREQ_)
+         n(swing) = totalPitches
+         sum(swing) = totalSwings
+  ;
+run;
+
+data Fungo.onlySwingsHitter;
+  set Fungo.SpecificHitter;
+  if swing = 1;
+run;
+
+proc means data= Fungo.onlySwingsHitter noprint;
+  class location;
+  var miss;
+  output out= Fungo.missesByLocationHitter (drop= _TYPE_ _FREQ_)
+         sum(miss) = totalMisses
+  ;
+run;
+
+data Fungo.&hitter.SwingAndMiss;
+  merge Fungo.swingsByLocationHitter (in= a)
+        Fungo.missesByLocationHitter (in= b)
+  ;
+  by location;
+  if b = 0 then totalMisses = 0;
+  swingingStrRate = totalMisses / totalPitches;
 run;
 
 /* Export data as CSV */
