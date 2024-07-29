@@ -43,7 +43,7 @@ run;
 
 /* Create datasets for swing and miss data & merge them */
 proc means data= Fungo.SpecificHitter noprint;
-  class location;
+  class pitchLocation;
   var swing miss;
   output out= Fungo.swingsByLocationHitter (drop= _TYPE_ _FREQ_)
          n(swing) = totalPitches
@@ -53,11 +53,11 @@ run;
 
 data Fungo.onlySwingsHitter;
   set Fungo.SpecificHitter;
-  if swing = 1;
+  where swing = 1;
 run;
 
 proc means data= Fungo.onlySwingsHitter noprint;
-  class location;
+  class pitchLocation;
   var miss;
   output out= Fungo.missesByLocationHitter (drop= _TYPE_ _FREQ_)
          sum(miss) = totalMisses
@@ -68,7 +68,7 @@ data Fungo.&hitter.SwingAndMiss;
   merge Fungo.swingsByLocationHitter (in= a)
         Fungo.missesByLocationHitter (in= b)
   ;
-  by location;
+  by pitchLocation;
   if b = 0 then totalMisses = 0;
   swingingStrRate = totalMisses / totalPitches;
 run;
