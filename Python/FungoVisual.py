@@ -2,10 +2,14 @@
 import numpy as np
 import seaborn as sns
 import pandas as pd
+import matplotlib.pyplot as plt
 from FungoStats import FungoStats as fStat
 
 
 class FungoVisual:
+    # Change filepath to location on user's disk
+    filepath: str = "C:\\Users\\1030c\\Desktop\\Fungo\\Fungo\\Images\\"
+
     def pitchMatrix(playerData: pd.DataFrame | list[float]) -> np.array:
         """
         Transform a DataFrame or list of pitch location data formatted to fit
@@ -119,19 +123,22 @@ class FungoVisual:
 
         return pitchMatrix
 
-    def plotMatrix(pitchMatrix: np.array) -> sns.heatmap:
+    def plotMatrix(playerName: str, plotType: str, pitchMatrix: np.array) -> None:
         """
-        Plots the formatted pitch location data
+        Plots the formatted pitch location data and saves it as PNG
 
         Parameters
         ----------
-        pitchMatrix : array
+        playerName : str
+            The last name of the player, title case
+        plotType : str
+            The type of plot requested: BA for batting average, Whiff for whiff %
+        pitchMatrix : np.array
             Formatted array of pitch information based on pitch location
 
         Returns
         -------
-        plot : plot
-            Plotted array
+        None
 
         """
         plot = sns.heatmap(
@@ -143,7 +150,14 @@ class FungoVisual:
             linewidths=0.5,
         )
 
-        return plot
+        fileLocation = FungoVisual.filepath + f"{playerName}{plotType}Zone.png"
+        plotFig = plot.get_figure()
+        if plotType == "BA":
+            plotFig.set_title("Batting Average by zone", fontsize=20)
+        elif plotType == "Whiff":
+            plotFig.set_title("Whiff Percentage by zone", fontsize=20)
+
+        plotFig.savefig(fileLocation)
 
     def rollingAvg(playerData: pd.DataFrame) -> list[float]:
         """
@@ -161,6 +175,86 @@ class FungoVisual:
             List of rolling averages at each plate appearance for a batter
 
         """
-        avgList = [fStat.average(playerData[: (i + 1)]) for i, r in playerData.iterrows()]
+        avgList = [
+            fStat.average(playerData.iloc[: (i + 1)]) for i, r in playerData.iterrows()
+        ]
 
         return avgList
+
+    def plotRollingAvg(playerName: str, playerData: list[float]) -> None:
+        """
+        Creates a series plot showing a player's rolling batting average througout the
+        season
+
+        Parameters
+        ----------
+        playerName : str
+            The last name of the player, title case
+        playerData : list[float]
+            A list of the player's rolling batting average, measured for each
+            plate appearance
+
+        Returns
+        -------
+        None
+
+        """
+        fig, ax = plt.subplots()
+        ax.plot(range(1, len(playerData) + 1), FungoVisual.rollingAvg(playerData))
+
+        ax.set_title("Rolling Batting Average", fontsize=20)
+        ax.set_xlabel("Plate Appearance", fontsize=14)
+        ax.set_ylabel("Batting Average", fontsize=14)
+
+        fileLocation = FungoVisual.filepath + f"{playerName}RollingBA.png"
+        fig.savefig(fileLocation)
+
+    def plotPitchTypeBAs(playerName: str, playerData: tuple) -> None:
+        """
+        Creates plot with 4 series plots, one for each pitch type a player saw and saves
+        the plot as a PNG
+
+        Parameters
+        ----------
+        playerName : str
+            The last name of the plauer, title case
+        playerData : tuple
+            DataFrames containing plate appearance information subsetted by pitch type
+
+        Returns
+        -------
+        None
+
+        """
+        fig, ax = plt.subplots()
+        ax.plot(
+            range(1, len(playerData) + 1),
+            FungoVisual.rollingAvg(playerData[0]),
+            label="FB",
+            color="blue",
+        )
+        ax.plot(
+            range(1, len(playerData) + 1),
+            FungoVisual.rollingAvg(playerData[1]),
+            label="CH",
+            color="red",
+        )
+        ax.plot(
+            range(1, len(playerData) + 1),
+            FungoVisual.rollingAvg(playerData[2]),
+            label="CB",
+            color="green",
+        )
+        ax.plot(
+            range(1, len(playerData) + 1),
+            FungoVisual.rollingAvg(playerData[3]),
+            label="SL",
+            color="orange",
+        )
+
+        ax.set_title("Rolling Batting Average", fontsize=20)
+        ax.set_xlabel("Plate Appearance", fontsize=14)
+        ax.set_ylabel("Batting Average", fontsize=14)
+
+        fileLocation = FungoVisual.filepath + f"{playerName}PitchTypeBA.png"
+        fig.savefig(fileLocation)

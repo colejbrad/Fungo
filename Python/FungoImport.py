@@ -4,9 +4,8 @@ import pandas as pd
 
 
 class FungoImport:
-
     def importHitter(playerData: str) -> pd.DataFrame:
-        '''
+        """
         Imports hitter data from the given file and
         returns a dataframe containing the data. It also
         replaces missing data in numeric columns with 0s
@@ -22,9 +21,9 @@ class FungoImport:
             DataFrame of the data from the input file with
             described changes made
 
-        '''
+        """
         try:
-            with open(playerData, newline='') as playerFile:
+            with open(playerData, newline="") as playerFile:
                 reader = csv.reader(playerFile)
                 playerData = list(reader)
         except FileNotFoundError:
@@ -41,12 +40,17 @@ class FungoImport:
         try:
             playerDF = pd.DataFrame(playerData[1:], columns=playerData[0])
 
-            numericColumns = ['plateAppearance', 'pitchLocation',
-                              'swing', 'miss', 'resultLocation']
+            numericColumns = [
+                "plateAppearance",
+                "pitchLocation",
+                "swing",
+                "miss",
+                "resultLocation",
+            ]
             playerDF[numericColumns] = playerDF[numericColumns].apply(
-                pd.to_numeric, errors='coerce')
-            playerDF[numericColumns] = playerDF[numericColumns].fillna(
-                0).astype(int)
+                pd.to_numeric, errors="coerce"
+            )
+            playerDF[numericColumns] = playerDF[numericColumns].fillna(0).astype(int)
 
         except ValueError as e:
             print(f"Error converting columns to int: {e}")
@@ -58,7 +62,7 @@ class FungoImport:
         return playerDF
 
     def importPitcher(playerData: str) -> pd.DataFrame:
-        '''
+        """
         Imports pitcher data from the given file and
         returns a dataframe containing the data. It also
         replaces missing data in numeric columns with 0s
@@ -74,9 +78,9 @@ class FungoImport:
             DataFrame of the data from the input file with
             described changes made
 
-        '''
+        """
         try:
-            with open(playerData, newline='') as playerFile:
+            with open(playerData, newline="") as playerFile:
                 reader = csv.reader(playerFile)
                 playerData = list(reader)
         except FileNotFoundError:
@@ -93,12 +97,11 @@ class FungoImport:
         try:
             playerDF = pd.DataFrame(playerData[1:], columns=playerData[0])
 
-            numericColumns = ['battersFaced', 'velocity', 'location',
-                              'swing', 'miss']
+            numericColumns = ["battersFaced", "velocity", "location", "swing", "miss"]
             playerDF[numericColumns] = playerDF[numericColumns].apply(
-                pd.to_numeric, errors='coerce')
-            playerDF[numericColumns] = playerDF[numericColumns].fillna(
-                0).astype(int)
+                pd.to_numeric, errors="coerce"
+            )
+            playerDF[numericColumns] = playerDF[numericColumns].fillna(0).astype(int)
 
         except ValueError as e:
             print(f"Error converting columns to int: {e}")
@@ -110,7 +113,7 @@ class FungoImport:
         return playerDF
 
     def importSwingAndMiss(playerData: str) -> pd.DataFrame:
-        '''
+        """
         Reads in the Swing and Miss dataset from PitcherAnalysis.sas file
         and outputs the dataset in a dataframe
 
@@ -124,7 +127,7 @@ class FungoImport:
         playerDF : DataFrame
             DataFrame representation of the SAS dataset
 
-        '''
+        """
         playerDF = pd.read_sas(playerData)
 
         return playerDF

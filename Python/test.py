@@ -1,5 +1,6 @@
 # Test various methods across the Fungo files
 import os
+from pathlib import Path
 from FungoImport import FungoImport as fi
 from FungoSplits import FungoSplits as fs
 from FungoStats import FungoStats as fStat
@@ -69,5 +70,9 @@ richardsonRolling = fv.rollingAvg(richardson)
 fig, ax = plt.subplots()
 ax.plot(range(1, len(richardson) + 1), richardsonRolling)
 plt.show()
+fig.savefig("C:\\Users\\1030c\\Desktop\\test.png")
 
 RichardsonDict = fp.createPlayer("Richardson")
+Path.cwd()
+
+player = {1: "a", 2: "b", 3: "c"}

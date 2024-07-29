@@ -43,13 +43,13 @@ class FungoPlayer:
 
             # Only have values for Total since they use full DataFrame
             playerDict["whiffPct"] = fStat.whiffRate(player[0])
-            playerDict["ChasePct"] = fStat.chaseRate(player[0])
+            playerDict["chasePct"] = fStat.chaseRate(player[0])
 
             # This tuple is set up as (Left, Center, Right)
-            playerDict["FieldPcts"] = fStat.fieldRatios(player[1])
+            playerDict["fieldPcts"] = fStat.fieldRatios(player[1])
 
             # This tuple is set up as (Grounder, Liner, Fly ball)
-            playerDict["HitTypes"] = fStat.hitTypeRatios(player[1])
+            playerDict["hitTypes"] = fStat.hitTypeRatios(player[1])
 
             return playerDict
         except ValueError:

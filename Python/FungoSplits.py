@@ -54,6 +54,29 @@ class FungoSplits:
 
         return (leftyData, rightyData)
 
+    def getPitchTypeSplits(playerData: pd.DataFrame) -> tuple[pd.DataFrame]:
+        """
+        Creates a tuple containing DataFrames for each pitch type a player saw from a
+        dataset containing plate appearance information
+
+        Parameters
+        ----------
+        playerData : pd.DataFrame
+            DataFrame containing information about a player's plate appearances
+
+        Returns
+        -------
+        A tuple containg DataFrames for each pitch type a player saw in their plate
+        appearance results
+
+        """
+        fastball = playerData[playerData.pitchType == "FB"]
+        changeup = playerData[playerData.pitchType == "CH"]
+        curveball = playerData[playerData.pitchType == "CB"]
+        slider = playerData[playerData.pitchType == "SL"]
+
+        return (fastball, changeup, curveball, slider)
+
     def getLocationSplits(playerData: pd.DataFrame) -> list[float]:
         """
         Calculates a player's batting average based on the location of the pitch
@@ -115,9 +138,8 @@ class FungoSplits:
         for key in dataDict:
             dataDict[key] = pd.DataFrame(dataDict[key])
 
-        stats = fStat()
         dataList = [
-            0 if dataDict[key].empty else stats.average(dataDict[key]) for key in dataDict
+            0 if dataDict[key].empty else fStat.average(dataDict[key]) for key in dataDict
         ]
 
         return dataList
