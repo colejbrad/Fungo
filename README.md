@@ -76,7 +76,7 @@ plate appearances instead of every pitch they saw. These datasets are then expor
 The structure of the datasets are as follows, types in parentheses based on which language they will be used in (Python, SAS):
 
 Hitter Data:
-- date (str, datetime)
+- date (str, datetime) format: ddMMMyy
 - opponent (str, char)
 - batter (str, char)
 - pitcherHand (str, char)
@@ -91,7 +91,7 @@ Hitter Data:
 - hitType (str, char)
 
 Pitcher Data:
-- date (str, datetime)
+- date (str, datetime) format: ddMMMyy
 - opponent (str, char)
 - pitcher (str, char)
 - batterHand (str, char)
