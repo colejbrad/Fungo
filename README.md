@@ -4,6 +4,17 @@ Author: Cole Bradley
 
 Code used for analysis and communication during internship at Wake Forest Fungo
 
+Usage For Hitters:
+1. Go to HitterCleaning.sas and change the hitter macro to the last name of the player you want to subset your data by
+2. Run the FungoOutput.py file in terminal
+3. When prompted, input the exact same string you used in the hitter macro
+
+Usage for Pitchers:
+1. Go to each .sas file and change the pitcher macro to the las name of the plauer you want to subset your data by
+2. Run the .sas files in the order: PitcherCleaning.sas, PitcherAnalysis.sas, PitcherOutputs.sas
+
+Both outputs will be saved to the Output_Files folder
+
 ## Python Files
 ### Fungo Import
 - Used for importing data for a specific hitter or pitcher into Python for use in other methods and programs
