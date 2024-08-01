@@ -1,0 +1,84 @@
+date,opponent,pitcher,batterHand,battersFaced,velocity,pitchType,location,swing,miss
+31/05/24,Burlington,Watson,L,1,80,FB,1,0,0
+31/05/24,Burlington,Watson,L,1,78,CH,12,1,1
+31/05/24,Burlington,Watson,L,1,86,FB,13,0,0
+31/05/24,Burlington,Watson,L,1,77,CH,10,1,0
+31/05/24,Burlington,Watson,R,2,77,SL,6,0,0
+31/05/24,Burlington,Watson,R,2,,FB,7,1,0
+31/05/24,Burlington,Watson,R,3,86,FB,5,1,0
+31/05/24,Burlington,Watson,R,3,85,FB,5,1,0
+31/05/24,Burlington,Watson,R,4,,CB,12,0,0
+31/05/24,Burlington,Watson,R,4,83,FB,2,1,0
+31/05/24,Burlington,Watson,R,5,,SL,13,1,1
+31/05/24,Burlington,Watson,R,5,78,CH,13,0,0
+31/05/24,Burlington,Watson,R,5,85,FB,13,0,0
+31/05/24,Burlington,Watson,R,5,83,FB,9,1,0
+31/05/24,Burlington,Watson,L,6,,CH,12,0,0
+31/05/24,Burlington,Watson,L,6,79,CH,13,0,0
+31/05/24,Burlington,Watson,L,6,84,FB,4,1,0
+11/07/24,C. Pirates,Watson,R,1,83,FB,13,0,0
+11/07/24,C. Pirates,Watson,R,1,84,FB,5,1,1
+11/07/24,C. Pirates,Watson,R,1,83,FB,4,1,0
+11/07/24,C. Pirates,Watson,R,2,74,SL,13,0,0
+11/07/24,C. Pirates,Watson,R,2,,FB,8,0,0
+11/07/24,C. Pirates,Watson,R,2,74,SL,13,0,0
+11/07/24,C. Pirates,Watson,R,2,84,FB,1,1,1
+11/07/24,C. Pirates,Watson,R,2,85,FB,8,1,0
+11/07/24,C. Pirates,Watson,R,2,73,CB,12,0,0
+11/07/24,C. Pirates,Watson,R,2,84,FB,13,0,0
+11/07/24,C. Pirates,Watson,R,3,84,FB,4,1,0
+11/07/24,C. Pirates,Watson,R,4,82,FB,13,0,0
+11/07/24,C. Pirates,Watson,R,4,79,CH,3,1,1
+11/07/24,C. Pirates,Watson,R,4,85,FB,7,1,1
+11/07/24,C. Pirates,Watson,R,4,75,SL,13,0,0
+11/07/24,C. Pirates,Watson,R,4,83,FB,1,1,1
+11/07/24,C. Pirates,Watson,R,5,,FB,10,0,0
+11/07/24,C. Pirates,Watson,R,5,81,FB,2,1,0
+11/07/24,C. Pirates,Watson,R,6,81,FB,12,0,0
+11/07/24,C. Pirates,Watson,R,6,81,FB,9,1,0
+11/07/24,C. Pirates,Watson,L,7,79,CH,4,0,0
+11/07/24,C. Pirates,Watson,L,7,81,FB,5,1,1
+11/07/24,C. Pirates,Watson,L,7,,CB,12,1,1
+17/07/24,High Point,Watson,R,1,78,CH,11,1,0
+17/07/24,High Point,Watson,R,1,80,FB,4,0,0
+17/07/24,High Point,Watson,R,1,72,CB,13,1,1
+17/07/24,High Point,Watson,R,2,,FB,13,0,0
+17/07/24,High Point,Watson,R,2,,FB,13,0,0
+17/07/24,High Point,Watson,R,2,83,FB,12,0,0
+17/07/24,High Point,Watson,R,2,83,FB,1,0,0
+17/07/24,High Point,Watson,R,2,82,FB,10,1,1
+17/07/24,High Point,Watson,R,2,64,CB,9,1,0
+17/07/24,High Point,Watson,R,2,73,SL,12,1,0
+17/07/24,High Point,Watson,R,2,84,FB,2,1,0
+17/07/24,High Point,Watson,R,2,75,CH,10,0,0
+17/07/24,High Point,Watson,R,3,83,FB,5,0,0
+17/07/24,High Point,Watson,R,3,82,FB,3,1,0
+17/07/24,High Point,Watson,R,3,71,CB,8,1,0
+17/07/24,High Point,Watson,R,4,,FB,8,1,1
+17/07/24,High Point,Watson,R,4,78,CH,13,0,0
+17/07/24,High Point,Watson,R,4,74,CB,13,0,0
+17/07/24,High Point,Watson,R,4,81,FB,6,1,0
+17/07/24,High Point,Watson,R,5,83,FB,13,0,0
+17/07/24,High Point,Watson,R,5,82,FB,2,1,0
+17/07/24,High Point,Watson,R,6,81,FB,8,1,1
+17/07/24,High Point,Watson,R,6,72,CB,7,0,0
+17/07/24,High Point,Watson,R,6,75,CH,5,1,0
+17/07/24,High Point,Watson,R,6,,FB,13,0,0
+17/07/24,High Point,Watson,R,6,76,CH,8,1,0
+17/07/24,High Point,Watson,R,7,,FB,5,0,0
+17/07/24,High Point,Watson,R,7,,FB,12,0,0
+17/07/24,High Point,Watson,R,7,83,FB,12,0,0
+17/07/24,High Point,Watson,R,7,84,FB,10,0,0
+17/07/24,High Point,Watson,R,7,83,FB,9,1,0
+17/07/24,High Point,Watson,R,7,73,CB,13,0,0
+17/07/24,High Point,Watson,R,8,79,CH,6,0,0
+17/07/24,High Point,Watson,R,8,73,CB,13,0,0
+17/07/24,High Point,Watson,R,8,82,FB,2,1,1
+17/07/24,High Point,Watson,R,8,71,CB,13,1,1
+17/07/24,High Point,Watson,R,9,82,FB,4,1,1
+17/07/24,High Point,Watson,R,9,77,CH,12,0,0
+17/07/24,High Point,Watson,R,9,84,FB,6,1,1
+17/07/24,High Point,Watson,R,9,74,CB,13,1,1
+17/07/24,High Point,Watson,R,10,83,FB,11,0,0
+17/07/24,High Point,Watson,R,10,82,FB,3,0,0
+17/07/24,High Point,Watson,R,10,74,CB,9,1,0

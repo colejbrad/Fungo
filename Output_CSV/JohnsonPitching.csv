@@ -1,0 +1,233 @@
+date,opponent,pitcher,batterHand,battersFaced,velocity,pitchType,location,swing,miss
+05/06/24,Yorktown,Johnson,R,1,67,CB,10,0,0
+05/06/24,Yorktown,Johnson,R,1,78,FB,8,0,0
+05/06/24,Yorktown,Johnson,R,1,75,CH,6,1,1
+05/06/24,Yorktown,Johnson,R,1,64,CB,7,1,0
+05/06/24,Yorktown,Johnson,L,2,73,CH,13,0,0
+05/06/24,Yorktown,Johnson,L,2,82,FB,13,0,0
+05/06/24,Yorktown,Johnson,L,2,78,FB,10,0,0
+05/06/24,Yorktown,Johnson,L,2,,FB,6,0,0
+05/06/24,Yorktown,Johnson,L,2,,FB,13,1,1
+05/06/24,Yorktown,Johnson,L,2,72,SL,12,0,0
+05/06/24,Yorktown,Johnson,R,3,67,CB,6,0,0
+05/06/24,Yorktown,Johnson,R,3,79,FB,13,1,0
+05/06/24,Yorktown,Johnson,R,3,83,FB,8,1,0
+05/06/24,Yorktown,Johnson,L,4,80,FB,5,0,0
+05/06/24,Yorktown,Johnson,L,4,79,FB,13,0,0
+05/06/24,Yorktown,Johnson,L,4,70,CB,13,1,1
+05/06/24,Yorktown,Johnson,L,4,80,FB,12,0,0
+05/06/24,Yorktown,Johnson,L,4,70,CB,4,1,1
+05/06/24,Yorktown,Johnson,L,5,,CH,12,0,0
+05/06/24,Yorktown,Johnson,L,5,77,CH,12,1,0
+05/06/24,Yorktown,Johnson,L,5,68,CB,6,1,1
+05/06/24,Yorktown,Johnson,L,5,65,CB,13,0,0
+05/06/24,Yorktown,Johnson,L,5,83,FB,1,1,0
+05/06/24,Yorktown,Johnson,L,5,82,FB,10,0,0
+05/06/24,Yorktown,Johnson,L,5,77,CH,2,1,0
+05/06/24,Yorktown,Johnson,L,5,72,SL,9,0,0
+05/06/24,Yorktown,Johnson,L,6,82,FB,10,0,0
+05/06/24,Yorktown,Johnson,L,6,69,CB,12,0,0
+05/06/24,Yorktown,Johnson,L,6,79,FB,8,1,1
+05/06/24,Yorktown,Johnson,L,6,,FB,12,0,0
+05/06/24,Yorktown,Johnson,L,6,78,FB,9,1,0
+05/06/24,Yorktown,Johnson,L,6,81,FB,5,1,0
+05/06/24,Yorktown,Johnson,R,7,70,CB,4,0,0
+05/06/24,Yorktown,Johnson,R,7,70,CB,9,0,0
+05/06/24,Yorktown,Johnson,R,7,71,CB,9,1,0
+05/06/24,Yorktown,Johnson,R,8,69,CB,10,0,0
+05/06/24,Yorktown,Johnson,R,8,81,FB,3,1,0
+05/06/24,Yorktown,Johnson,R,9,80,FB,10,0,0
+05/06/24,Yorktown,Johnson,R,10,66,CB,6,0,0
+05/06/24,Yorktown,Johnson,R,10,81,FB,9,1,0
+05/06/24,Yorktown,Johnson,R,10,72,SL,13,1,0
+05/06/24,Yorktown,Johnson,R,10,79,FB,8,0,0
+05/06/24,Yorktown,Johnson,R,10,81,FB,12,0,0
+05/06/24,Yorktown,Johnson,R,10,70,CB,6,1,1
+05/06/24,Yorktown,Johnson,R,10,66,CB,12,1,1
+05/06/24,Yorktown,Johnson,R,11,82,FB,8,1,0
+05/06/24,Yorktown,Johnson,R,11,78,FB,11,0,0
+05/06/24,Yorktown,Johnson,R,11,,CB,4,1,0
+05/06/24,Yorktown,Johnson,L,12,79,FB,4,0,0
+05/06/24,Yorktown,Johnson,L,12,79,FB,4,1,0
+05/06/24,Yorktown,Johnson,R,13,65,CB,8,0,0
+05/06/24,Yorktown,Johnson,R,13,81,FB,13,0,0
+05/06/24,Yorktown,Johnson,R,13,70,CB,11,0,0
+05/06/24,Yorktown,Johnson,R,13,83,FB,7,1,1
+05/06/24,Yorktown,Johnson,R,13,78,FB,13,1,0
+05/06/24,Yorktown,Johnson,R,14,67,CB,5,1,0
+05/06/24,Yorktown,Johnson,L,15,76,CH,7,0,0
+05/06/24,Yorktown,Johnson,L,15,78,FB,10,1,1
+05/06/24,Yorktown,Johnson,L,15,,CH,7,1,0
+05/06/24,Yorktown,Johnson,L,16,80,FB,1,0,0
+05/06/24,Yorktown,Johnson,L,16,81,FB,1,0,0
+05/06/24,Yorktown,Johnson,L,17,81,FB,12,0,0
+05/06/24,Yorktown,Johnson,L,17,81,FB,12,0,0
+05/06/24,Yorktown,Johnson,L,17,79,FB,7,1,0
+05/06/24,Yorktown,Johnson,R,18,77,CH,11,0,0
+05/06/24,Yorktown,Johnson,R,18,,FB,13,0,0
+05/06/24,Yorktown,Johnson,R,18,77,FB,4,0,0
+05/06/24,Yorktown,Johnson,R,18,69,CB,2,1,1
+05/06/24,Yorktown,Johnson,R,18,65,CB,5,1,1
+05/06/24,Yorktown,Johnson,L,19,68,CB,13,0,0
+05/06/24,Yorktown,Johnson,L,19,80,FB,12,0,0
+05/06/24,Yorktown,Johnson,L,19,76,CH,13,0,0
+05/06/24,Yorktown,Johnson,L,19,80,FB,8,1,1
+05/06/24,Yorktown,Johnson,L,19,,CH,13,0,0
+05/06/24,Yorktown,Johnson,R,20,79,FB,1,1,0
+05/06/24,Yorktown,Johnson,R,21,69,CB,6,0,0
+05/06/24,Yorktown,Johnson,R,21,67,CB,13,0,0
+05/06/24,Yorktown,Johnson,R,21,77,FB,6,0,0
+05/06/24,Yorktown,Johnson,R,21,68,CB,11,0,0
+05/06/24,Yorktown,Johnson,R,21,70,CB,,,
+05/06/24,Yorktown,Johnson,R,21,67,CB,10,0,0
+05/06/24,Yorktown,Johnson,R,21,,FB,10,0,0
+05/06/24,Yorktown,Johnson,L,22,69,CB,11,0,0
+05/06/24,Yorktown,Johnson,L,22,,SL,13,1,1
+05/06/24,Yorktown,Johnson,L,22,63,SL,5,1,0
+28/05/24,Carolina,Johnson,,,80,FB,7,0,0
+28/05/24,Carolina,Johnson,,,,CB,6,0,0
+28/05/24,Carolina,Johnson,,,,FB,8,1,0
+28/05/24,Carolina,Johnson,,,78,FB,5,1,1
+28/05/24,Carolina,Johnson,,,71,SL,13,0,0
+28/05/24,Carolina,Johnson,,,,CB,12,0,0
+28/05/24,Carolina,Johnson,,,,FB,5,0,0
+28/05/24,Carolina,Johnson,,,70,CH,13,0,0
+28/05/24,Carolina,Johnson,,,,FB,11,0,0
+28/05/24,Carolina,Johnson,,,,FB,12,0,0
+28/05/24,Carolina,Johnson,,,75,SL,9,1,1
+28/05/24,Carolina,Johnson,,,70,CB,13,0,0
+28/05/24,Carolina,Johnson,,,,FB,8,1,1
+28/05/24,Carolina,Johnson,,,77,FB,12,0,0
+28/05/24,Carolina,Johnson,,,68,CH,2,1,0
+28/05/24,Carolina,Johnson,,,70,CB,6,1,0
+28/05/24,Carolina,Johnson,,,67,CH,5,1,0
+28/05/24,Carolina,Johnson,,,82,FB,7,0,0
+28/05/24,Carolina,Johnson,,,79,FB,10,0,0
+28/05/24,Carolina,Johnson,,,78,FB,4,1,0
+28/05/24,Carolina,Johnson,,,78,FB,12,0,0
+28/05/24,Carolina,Johnson,,,73,CB,12,0,0
+28/05/24,Carolina,Johnson,,,77,FB,7,1,0
+11/06/24,Clayton,Johnson,L,1,62,CB,10,0,0
+11/06/24,Clayton,Johnson,L,1,,FB,4,1,0
+11/06/24,Clayton,Johnson,R,2,66,SL,13,0,0
+11/06/24,Clayton,Johnson,R,2,78,FB,5,1,0
+11/06/24,Clayton,Johnson,R,3,60,CB,11,0,0
+11/06/24,Clayton,Johnson,R,3,80,FB,12,0,0
+11/06/24,Clayton,Johnson,R,3,77,FB,10,0,0
+11/06/24,Clayton,Johnson,R,3,68,SL,12,1,1
+11/06/24,Clayton,Johnson,R,3,70,SL,13,0,0
+11/06/24,Clayton,Johnson,R,3,81,FB,13,0,0
+11/06/24,Clayton,Johnson,R,4,68,SL,13,0,0
+11/06/24,Clayton,Johnson,R,4,80,FB,13,0,0
+11/06/24,Clayton,Johnson,R,4,79,FB,13,0,0
+11/06/24,Clayton,Johnson,R,4,79,FB,2,0,0
+11/06/24,Clayton,Johnson,R,4,68,SL,6,1,0
+11/06/24,Clayton,Johnson,R,4,,CH,13,0,0
+11/06/24,Clayton,Johnson,R,5,69,CB,13,0,0
+11/06/24,Clayton,Johnson,R,5,81,FB,12,0,0
+11/06/24,Clayton,Johnson,R,5,77,FB,3,1,0
+11/06/24,Clayton,Johnson,R,5,69,CB,13,0,0
+11/06/24,Clayton,Johnson,R,5,79,FB,7,1,0
+11/06/24,Clayton,Johnson,R,5,79,FB,12,0,0
+11/06/24,Clayton,Johnson,L,6,81,FB,4,1,1
+11/06/24,Clayton,Johnson,L,6,80,FB,12,0,0
+11/06/24,Clayton,Johnson,L,6,69,CB,13,0,0
+11/06/24,Clayton,Johnson,L,6,78,FB,8,1,0
+11/06/24,Clayton,Johnson,R,7,68,CB,11,0,0
+11/06/24,Clayton,Johnson,R,7,80,FB,6,1,1
+11/06/24,Clayton,Johnson,R,7,80,FB,5,1,0
+21/06/24,Oak City,Johnson,R,1,69,CB,11,0,0
+21/06/24,Oak City,Johnson,R,1,81,FB,2,1,0
+21/06/24,Oak City,Johnson,R,2,82,FB,11,0,0
+21/06/24,Oak City,Johnson,R,2,70,CB,13,1,1
+21/06/24,Oak City,Johnson,R,2,70,CB,13,0,0
+21/06/24,Oak City,Johnson,R,2,82,FB,12,0,0
+21/06/24,Oak City,Johnson,R,2,80,FB,3,0,0
+21/06/24,Oak City,Johnson,R,2,71,CB,6,1,1
+03/07/24,Tarboro,Johnson,R,1,80,FB,13,0,0
+03/07/24,Tarboro,Johnson,R,1,79,FB,12,0,0
+03/07/24,Tarboro,Johnson,R,1,70,SL,13,0,0
+03/07/24,Tarboro,Johnson,R,1,76,CH,6,0,0
+03/07/24,Tarboro,Johnson,R,1,,FB,1,0,0
+03/07/24,Tarboro,Johnson,R,1,81,FB,2,1,0
+03/07/24,Tarboro,Johnson,R,2,70,CB,13,0,0
+03/07/24,Tarboro,Johnson,R,2,,FB,9,1,1
+03/07/24,Tarboro,Johnson,R,2,71,CH,13,0,0
+03/07/24,Tarboro,Johnson,R,2,81,FB,8,1,1
+03/07/24,Tarboro,Johnson,R,2,81,FB,13,0,0
+03/07/24,Tarboro,Johnson,R,2,82,FB,5,1,0
+03/07/24,Tarboro,Johnson,R,2,80,CH,3,1,0
+03/07/24,Tarboro,Johnson,R,3,,CB,12,0,0
+03/07/24,Tarboro,Johnson,R,3,80,FB,13,0,0
+03/07/24,Tarboro,Johnson,R,3,82,FB,6,1,0
+03/07/24,Tarboro,Johnson,R,3,83,FB,5,1,0
+03/07/24,Tarboro,Johnson,R,4,71,CB,10,0,0
+03/07/24,Tarboro,Johnson,R,4,69,CB,2,1,0
+03/07/24,Tarboro,Johnson,R,5,81,FB,13,0,0
+03/07/24,Tarboro,Johnson,R,5,79,FB,12,1,1
+03/07/24,Tarboro,Johnson,R,5,69,CB,6,0,0
+03/07/24,Tarboro,Johnson,R,5,71,CB,11,0,0
+03/07/24,Tarboro,Johnson,R,5,82,FB,13,0,0
+03/07/24,Tarboro,Johnson,R,5,72,SL,13,0,0
+03/07/24,Tarboro,Johnson,L,6,81,FB,4,1,0
+03/07/24,Tarboro,Johnson,L,6,69,CB,3,0,0
+03/07/24,Tarboro,Johnson,L,6,70,CB,13,0,0
+03/07/24,Tarboro,Johnson,L,6,81,FB,7,1,0
+03/07/24,Tarboro,Johnson,L,6,70,SL,12,1,0
+03/07/24,Tarboro,Johnson,L,6,81,FB,12,0,0
+03/07/24,Tarboro,Johnson,L,6,81,FB,9,1,0
+03/07/24,Tarboro,Johnson,L,6,80,FB,1,1,1
+03/07/24,Tarboro,Johnson,R,7,80,FB,4,0,0
+03/07/24,Tarboro,Johnson,R,7,73,CB,11,0,0
+03/07/24,Tarboro,Johnson,R,7,77,CH,5,1,0
+03/07/24,Tarboro,Johnson,R,8,79,FB,10,0,0
+03/07/24,Tarboro,Johnson,R,8,,FB,11,0,0
+03/07/24,Tarboro,Johnson,R,8,76,CH,13,1,1
+03/07/24,Tarboro,Johnson,R,8,77,CH,2,1,1
+03/07/24,Tarboro,Johnson,R,8,83,FB,11,0,0
+03/07/24,Tarboro,Johnson,R,8,81,FB,8,1,1
+03/07/24,Tarboro,Johnson,R,9,80,FB,13,0,0
+03/07/24,Tarboro,Johnson,R,9,80,FB,5,0,0
+03/07/24,Tarboro,Johnson,R,9,80,FB,2,1,0
+03/07/24,Tarboro,Johnson,R,10,78,FB,1,0,0
+03/07/24,Tarboro,Johnson,R,10,80,FB,1,1,0
+03/07/24,Tarboro,Johnson,R,11,77,CH,6,1,0
+03/07/24,Tarboro,Johnson,R,12,70,SL,6,1,0
+03/07/24,Tarboro,Johnson,R,12,72,CB,9,1,0
+07/07/24,Oak City,Johnson,L,1,79,FB,12,0,0
+07/07/24,Oak City,Johnson,L,1,81,FB,10,0,0
+07/07/24,Oak City,Johnson,L,1,79,FB,10,0,0
+07/07/24,Oak City,Johnson,L,1,79,FB,7,0,0
+07/07/24,Oak City,Johnson,L,1,78,FB,5,1,0
+07/07/24,Oak City,Johnson,R,2,71,CB,10,0,0
+07/07/24,Oak City,Johnson,R,2,78,FB,13,0,0
+07/07/24,Oak City,Johnson,R,2,81,FB,2,1,0
+07/07/24,Oak City,Johnson,R,2,69,SL,13,1,1
+07/07/24,Oak City,Johnson,R,2,71,SL,6,1,0
+07/07/24,Oak City,Johnson,R,3,70,CB,12,0,0
+07/07/24,Oak City,Johnson,R,3,82,FB,2,0,0
+07/07/24,Oak City,Johnson,R,3,71,SL,13,0,0
+07/07/24,Oak City,Johnson,R,3,80,FB,9,1,0
+07/07/24,Oak City,Johnson,R,4,69,CB,11,0,0
+07/07/24,Oak City,Johnson,R,4,67,CB,4,0,0
+07/07/24,Oak City,Johnson,R,4,81,FB,3,1,0
+07/07/24,Oak City,Johnson,R,4,71,SL,13,1,0
+07/07/24,Oak City,Johnson,R,4,64,CB,13,0,0
+07/07/24,Oak City,Johnson,R,4,82,FB,11,0,0
+07/07/24,Oak City,Johnson,R,4,71,SL,13,0,0
+07/07/24,Oak City,Johnson,R,5,77,CH,10,0,0
+07/07/24,Oak City,Johnson,R,5,78,FB,4,1,0
+07/07/24,Oak City,Johnson,R,5,64,CB,10,0,0
+07/07/24,Oak City,Johnson,R,5,82,FB,11,0,0
+07/07/24,Oak City,Johnson,R,5,80,FB,1,1,1
+07/07/24,Oak City,Johnson,R,5,73,CB,13,1,1
+07/07/24,Oak City,Johnson,R,6,82,FB,10,0,0
+07/07/24,Oak City,Johnson,R,6,78,FB,8,1,0
+07/07/24,Oak City,Johnson,R,6,71,SL,13,0,0
+07/07/24,Oak City,Johnson,R,6,80,FB,10,0,0
+07/07/24,Oak City,Johnson,R,6,79,FB,12,0,0
+07/07/24,Oak City,Johnson,R,7,69,CB,6,1,1
+07/07/24,Oak City,Johnson,R,7,71,SL,9,0,0
+07/07/24,Oak City,Johnson,R,7,70,SL,13,0,0
+07/07/24,Oak City,Johnson,R,7,80,FB,10,0,0
+07/07/24,Oak City,Johnson,R,7,80,FB,1,1,0

@@ -1,0 +1,56 @@
+date,opponent,pitcher,batterHand,battersFaced,velocity,pitchType,location,swing,miss
+30/05/24,Danville,Miller,L,1,82,FB,6,1,0
+30/05/24,Danville,Miller,L,1,80,FB,12,0,0
+30/05/24,Danville,Miller,L,1,82,FB,12,0,0
+30/05/24,Danville,Miller,L,1,74,SL,12,1,0
+30/05/24,Danville,Miller,L,1,82,FB,5,1,0
+30/05/24,Danville,Miller,R,2,70,SL,12,0,0
+30/05/24,Danville,Miller,R,2,67,SL,4,0,0
+30/05/24,Danville,Miller,R,2,67,SL,4,1,0
+30/05/24,Danville,Miller,R,3,,FB,13,0,0
+30/05/24,Danville,Miller,R,3,73,CH,9,0,0
+30/05/24,Danville,Miller,R,3,68,CB,5,1,0
+30/05/24,Danville,Miller,R,4,70,SL,12,0,0
+30/05/24,Danville,Miller,R,4,76,FB,4,1,0
+30/05/24,Danville,Miller,R,4,78,CB,13,1,0
+30/05/24,Danville,Miller,R,4,75,CH,10,1,1
+30/05/24,Danville,Miller,R,5,71,SL,6,1,1
+30/05/24,Danville,Miller,R,5,70,CH,5,1,1
+30/05/24,Danville,Miller,R,5,67,CB,13,0,0
+30/05/24,Danville,Miller,R,5,66,CB,12,0,0
+30/05/24,Danville,Miller,R,5,79,FB,13,0,0
+30/05/24,Danville,Miller,R,5,72,CH,10,0,0
+30/05/24,Danville,Miller,L,6,81,FB,11,0,0
+30/05/24,Danville,Miller,L,6,72,CH,12,0,0
+30/05/24,Danville,Miller,L,6,,FB,12,0,0
+30/05/24,Danville,Miller,L,6,77,FB,7,1,0
+30/05/24,Danville,Miller,L,6,74,CH,3,1,0
+30/05/24,Danville,Miller,R,7,78,FB,13,0,0
+30/05/24,Danville,Miller,R,7,68,CH,2,1,0
+30/05/24,Danville,Miller,L,8,77,FB,11,0,0
+30/05/24,Danville,Miller,L,8,77,FB,10,0,0
+30/05/24,Danville,Miller,L,8,71,SL,12,0,0
+30/05/24,Danville,Miller,L,8,77,FB,13,0,0
+04/06/24,High Point,Miller,R,1,81,FB,9,0,0
+04/06/24,High Point,Miller,R,1,,FB,13,1,0
+04/06/24,High Point,Miller,R,1,78,FB,12,0,0
+04/06/24,High Point,Miller,R,1,,CH,6,0,0
+04/06/24,High Point,Miller,L,2,81,FB,10,1,1
+04/06/24,High Point,Miller,L,2,82,FB,5,0,0
+04/06/24,High Point,Miller,L,2,76,CH,12,0,0
+04/06/24,High Point,Miller,L,2,75,CH,12,1,1
+04/06/24,High Point,Miller,L,3,,FB,5,1,0
+18/06/24,Carolina,Miller,R,1,82,FB,13,0,0
+18/06/24,Carolina,Miller,R,1,80,FB,10,0,0
+18/06/24,Carolina,Miller,R,1,82,FB,13,0,0
+18/06/24,Carolina,Miller,R,1,78,CH,10,0,0
+18/06/24,Carolina,Miller,R,2,79,SL,13,0,0
+18/06/24,Carolina,Miller,R,2,80,CH,6,0,0
+18/06/24,Carolina,Miller,R,2,,CB,7,1,0
+18/06/24,Carolina,Miller,R,3,81,FB,13,0,0
+18/06/24,Carolina,Miller,R,3,83,FB,2,1,0
+18/06/24,Carolina,Miller,R,3,83,FB,11,0,0
+18/06/24,Carolina,Miller,R,3,82,FB,10,0,0
+18/06/24,Carolina,Miller,R,4,84,FB,6,1,1
+18/06/24,Carolina,Miller,R,4,83,FB,10,0,0
+18/06/24,Carolina,Miller,R,5,81,FB,10,0,0

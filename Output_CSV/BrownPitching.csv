@@ -1,0 +1,177 @@
+date,opponent,pitcher,batterHand,battersFaced,velocity,pitchType,location,swing,miss
+04/06/24,High Point,Brown,L,1,77,FB,5,0,0
+04/06/24,High Point,Brown,L,1,77,FB,10,0,0
+04/06/24,High Point,Brown,L,1,78,FB,6,0,0
+04/06/24,High Point,Brown,L,1,80,FB,12,1,1
+04/06/24,High Point,Brown,R,2,78,FB,12,0,0
+04/06/24,High Point,Brown,R,2,75,SL,13,1,0
+04/06/24,High Point,Brown,R,2,80,FB,4,1,0
+04/06/24,High Point,Brown,R,3,75,SL,11,0,0
+04/06/24,High Point,Brown,R,3,74,SL,11,1,1
+04/06/24,High Point,Brown,R,3,,FB,9,0,0
+04/06/24,High Point,Brown,R,3,75,SL,13,0,0
+04/06/24,High Point,Brown,R,3,,FB,10,0,0
+04/06/24,High Point,Brown,R,3,72,SL,13,0,0
+04/06/24,High Point,Brown,L,4,83,FB,13,0,0
+04/06/24,High Point,Brown,L,4,78,FB,5,0,0
+04/06/24,High Point,Brown,L,4,76,CH,8,0,0
+04/06/24,High Point,Brown,L,4,79,FB,6,0,0
+04/06/24,High Point,Brown,R,5,79,FB,9,0,0
+04/06/24,High Point,Brown,R,5,,FB,5,1,0
+04/06/24,High Point,Brown,R,6,72,SL,11,1,0
+04/06/24,High Point,Brown,R,7,71,SL,13,0,0
+04/06/24,High Point,Brown,R,7,78,FB,13,0,0
+04/06/24,High Point,Brown,R,7,,CH,3,0,0
+04/06/24,High Point,Brown,R,7,72,SL,13,0,0
+04/06/24,High Point,Brown,R,7,,FB,8,0,0
+04/06/24,High Point,Brown,R,7,78,FB,5,1,0
+04/06/24,High Point,Brown,R,7,,CH,7,1,0
+04/06/24,High Point,Brown,R,8,,CH,9,0,0
+04/06/24,High Point,Brown,R,8,,SL,10,0,0
+04/06/24,High Point,Brown,R,8,,CB,13,1,1
+04/06/24,High Point,Brown,R,8,,FB,5,1,1
+28/05/24,Carolina,Brown,,,84,FB,5,0,0
+28/05/24,Carolina,Brown,,,86,FB,12,0,0
+28/05/24,Carolina,Brown,,,83,FB,5,1,1
+28/05/24,Carolina,Brown,,,86,FB,7,1,0
+28/05/24,Carolina,Brown,,,79,SL,8,1,1
+28/05/24,Carolina,Brown,,,85,FB,13,0,0
+28/05/24,Carolina,Brown,,,77,SL,5,1,0
+28/05/24,Carolina,Brown,,,81,FB,4,0,0
+28/05/24,Carolina,Brown,,,80,FB,7,1,1
+28/05/24,Carolina,Brown,,,84,FB,12,0,0
+28/05/24,Carolina,Brown,,,85,FB,9,1,0
+28/05/24,Carolina,Brown,,,82,FB,12,1,1
+28/05/24,Carolina,Brown,,,75,SL,13,0,0
+28/05/24,Carolina,Brown,,,81,FB,13,0,0
+28/05/24,Carolina,Brown,,,81,FB,9,1,1
+28/05/24,Carolina,Brown,,,74,SL,13,0,0
+28/05/24,Carolina,Brown,,,82,FB,4,1,0
+11/06/24,Clayton,Brown,R,1,,FB,12,1,0
+11/06/24,Clayton,Brown,R,1,75,SL,13,0,0
+11/06/24,Clayton,Brown,R,1,75,SL,4,1,0
+11/06/24,Clayton,Brown,L,2,81,FB,3,1,0
+11/06/24,Clayton,Brown,L,2,83,FB,12,0,0
+11/06/24,Clayton,Brown,L,2,79,FB,10,0,0
+11/06/24,Clayton,Brown,L,2,84,FB,1,1,0
+11/06/24,Clayton,Brown,R,3,78,FB,13,0,0
+11/06/24,Clayton,Brown,R,3,85,FB,2,1,1
+11/06/24,Clayton,Brown,R,3,77,CH,7,0,0
+11/06/24,Clayton,Brown,R,3,77,SL,13,0,0
+11/06/24,Clayton,Brown,R,3,84,FB,4,1,1
+11/06/24,Clayton,Brown,L,4,78,CH,8,0,0
+11/06/24,Clayton,Brown,L,4,84,FB,5,1,0
+11/06/24,Clayton,Brown,R,5,76,SL,6,1,0
+11/06/24,Clayton,Brown,R,5,83,FB,13,0,0
+11/06/24,Clayton,Brown,R,5,77,SL,11,0,0
+11/06/24,Clayton,Brown,R,5,77,CH,13,0,0
+11/06/24,Clayton,Brown,R,5,83,FB,7,0,0
+11/06/24,Clayton,Brown,R,5,80,FB,9,1,0
+11/06/24,Clayton,Brown,R,5,77,CH,10,0,0
+11/06/24,Clayton,Brown,R,6,78,CH,13,0,0
+11/06/24,Clayton,Brown,R,6,83,FB,2,1,0
+11/06/24,Clayton,Brown,L,7,84,FB,12,0,0
+11/06/24,Clayton,Brown,L,7,85,FB,4,1,0
+11/06/24,Clayton,Brown,L,7,79,CH,8,0,0
+11/06/24,Clayton,Brown,L,7,78,CH,8,1,0
+11/06/24,Clayton,Brown,L,7,79,SL,4,0,0
+11/06/24,Clayton,Brown,R,8,74,CH,13,0,0
+11/06/24,Clayton,Brown,R,8,82,FB,6,1,1
+11/06/24,Clayton,Brown,R,8,79,SL,13,0,0
+11/06/24,Clayton,Brown,R,8,77,CH,9,1,1
+11/06/24,Clayton,Brown,R,8,83,FB,11,0,0
+11/06/24,Clayton,Brown,R,8,82,FB,13,0,0
+11/06/24,Clayton,Brown,R,9,77,SL,10,0,0
+11/06/24,Clayton,Brown,R,9,77,SL,6,0,0
+11/06/24,Clayton,Brown,R,9,77,CH,6,1,1
+11/06/24,Clayton,Brown,R,9,79,SL,13,0,0
+11/06/24,Clayton,Brown,R,9,74,CH,1,1,0
+11/06/24,Clayton,Brown,R,10,83,FB,13,0,0
+11/06/24,Clayton,Brown,R,10,78,FB,5,1,0
+11/06/24,Clayton,Brown,R,10,79,SL,13,1,1
+11/06/24,Clayton,Brown,R,10,77,SL,11,1,1
+21/06/24,Oak City,Brown,R,1,85,FB,6,0,0
+21/06/24,Oak City,Brown,R,1,84,FB,1,0,0
+21/06/24,Oak City,Brown,R,1,80,CH,2,1,0
+21/06/24,Oak City,Brown,R,1,77,SL,11,1,1
+21/06/24,Oak City,Brown,R,2,83,FB,5,1,0
+21/06/24,Oak City,Brown,R,3,82,FB,11,0,0
+21/06/24,Oak City,Brown,R,3,85,FB,6,1,0
+21/06/24,Oak City,Brown,R,4,,SL,10,0,0
+21/06/24,Oak City,Brown,R,4,75,SL,9,1,1
+21/06/24,Oak City,Brown,R,4,78,SL,13,0,0
+21/06/24,Oak City,Brown,R,4,77,CH,3,0,0
+21/06/24,Oak City,Brown,R,4,72,SL,11,1,1
+21/06/24,Oak City,Brown,R,5,84,FB,12,1,0
+21/06/24,Oak City,Brown,R,5,79,CH,5,1,0
+21/06/24,Oak City,Brown,R,5,81,CH,13,0,0
+21/06/24,Oak City,Brown,R,5,78,CB,13,0,0
+21/06/24,Oak City,Brown,R,5,85,FB,2,1,0
+21/06/24,Oak City,Brown,R,6,80,CH,6,1,0
+21/06/24,Oak City,Brown,R,7,76,SL,13,1,1
+21/06/24,Oak City,Brown,R,7,77,SL,13,0,0
+21/06/24,Oak City,Brown,R,7,82,FB,3,0,0
+21/06/24,Oak City,Brown,R,7,77,CB,8,1,0
+21/06/24,Oak City,Brown,R,7,82,FB,7,1,1
+21/06/24,Oak City,Brown,L,8,84,FB,4,0,0
+21/06/24,Oak City,Brown,L,8,78,CH,10,0,0
+21/06/24,Oak City,Brown,L,8,84,FB,12,0,0
+21/06/24,Oak City,Brown,L,8,84,FB,11,0,0
+21/06/24,Oak City,Brown,L,8,84,FB,4,0,0
+21/06/24,Oak City,Brown,L,8,85,FB,10,0,0
+21/06/24,Oak City,Brown,R,9,79,CH,10,0,0
+21/06/24,Oak City,Brown,R,9,76,SL,11,1,1
+21/06/24,Oak City,Brown,R,9,78,CB,12,0,0
+21/06/24,Oak City,Brown,R,9,84,FB,4,1,0
+21/06/24,Oak City,Brown,R,10,81,CH,11,0,0
+21/06/24,Oak City,Brown,R,10,85,FB,5,1,0
+21/06/24,Oak City,Brown,R,10,80,CH,3,0,0
+21/06/24,Oak City,Brown,R,10,81,CH,,,
+21/06/24,Oak City,Brown,R,10,84,FB,1,1,0
+21/06/24,Oak City,Brown,R,10,77,SL,13,0,0
+21/06/24,Oak City,Brown,R,10,85,FB,2,1,0
+27/06/24,C. Pirates,Brown,L,1,,SL,13,0,0
+27/06/24,C. Pirates,Brown,L,1,82,FB,12,0,0
+27/06/24,C. Pirates,Brown,L,1,81,FB,3,0,0
+27/06/24,C. Pirates,Brown,L,1,83,FB,4,1,0
+27/06/24,C. Pirates,Brown,R,2,80,FB,11,0,0
+27/06/24,C. Pirates,Brown,R,2,83,FB,5,1,0
+27/06/24,C. Pirates,Brown,R,3,75,CB,8,1,0
+06/07/24,High Point,Brown,R,1,81,CB,13,0,0
+06/07/24,High Point,Brown,R,1,78,CH,4,1,0
+06/07/24,High Point,Brown,R,1,81,FB,11,0,0
+06/07/24,High Point,Brown,R,1,82,FB,6,0,0
+06/07/24,High Point,Brown,R,1,74,CH,8,1,0
+06/07/24,High Point,Brown,R,1,84,FB,5,1,0
+06/07/24,High Point,Brown,R,2,,FB,11,1,0
+06/07/24,High Point,Brown,R,2,78,CH,3,1,0
+06/07/24,High Point,Brown,R,2,77,CB,12,0,0
+06/07/24,High Point,Brown,R,2,73,SL,7,1,0
+06/07/24,High Point,Brown,R,3,,CB,7,1,1
+06/07/24,High Point,Brown,R,3,78,CH,12,0,0
+06/07/24,High Point,Brown,R,3,89,FB,1,1,0
+06/07/24,High Point,Brown,R,4,78,CH,6,1,0
+06/07/24,High Point,Brown,R,4,,SL,13,0,0
+06/07/24,High Point,Brown,R,4,75,CH,13,0,0
+06/07/24,High Point,Brown,R,4,83,FB,10,0,0
+06/07/24,High Point,Brown,R,4,77,CH,6,0,0
+06/07/24,High Point,Brown,R,4,78,CH,8,1,0
+06/07/24,High Point,Brown,R,5,80,CH,4,0,0
+06/07/24,High Point,Brown,R,5,83,FB,11,0,0
+06/07/24,High Point,Brown,R,5,75,SL,7,0,0
+06/07/24,High Point,Brown,R,5,78,CH,5,1,0
+06/07/24,High Point,Brown,R,6,74,CB,8,0,0
+06/07/24,High Point,Brown,R,6,82,FB,6,0,0
+06/07/24,High Point,Brown,R,6,,CH,5,1,1
+06/07/24,High Point,Brown,R,7,77,SL,13,1,1
+06/07/24,High Point,Brown,R,7,76,SL,13,0,0
+06/07/24,High Point,Brown,R,7,,FB,9,0,0
+06/07/24,High Point,Brown,R,7,80,CH,10,0,0
+06/07/24,High Point,Brown,R,7,76,CB,12,0,0
+06/07/24,High Point,Brown,R,7,,FB,9,1,0
+17/07/24,High Point,Brown,R,1,81,CH,12,0,0
+17/07/24,High Point,Brown,R,1,86,FB,6,0,0
+17/07/24,High Point,Brown,R,1,83,FB,12,0,0
+17/07/24,High Point,Brown,R,1,80,CH,5,1,1
+17/07/24,High Point,Brown,R,1,79,CH,2,1,0
+17/07/24,High Point,Brown,R,2,86,FB,6,1,0

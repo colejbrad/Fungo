@@ -1,0 +1,85 @@
+date,opponent,pitcher,batterHand,battersFaced,velocity,pitchType,location,swing,miss
+04/06/24,High Point,Larkins,L,1,88,FB,13,0,0
+04/06/24,High Point,Larkins,L,1,87,FB,10,0,0
+04/06/24,High Point,Larkins,L,1,84,CH,5,1,0
+04/06/24,High Point,Larkins,L,1,85,FB,8,1,0
+04/06/24,High Point,Larkins,R,2,,FB,12,0,0
+04/06/24,High Point,Larkins,R,2,,CH,5,1,0
+04/06/24,High Point,Larkins,R,2,,CB,13,0,0
+04/06/24,High Point,Larkins,R,2,,CH,12,0,0
+04/06/24,High Point,Larkins,R,2,,FB,3,1,0
+04/06/24,High Point,Larkins,R,2,,SL,7,1,0
+04/06/24,High Point,Larkins,R,2,,FB,10,0,0
+04/06/24,High Point,Larkins,L,3,86,FB,5,1,0
+04/06/24,High Point,Larkins,L,3,84,FB,8,0,0
+04/06/24,High Point,Larkins,L,3,87,FB,12,0,0
+04/06/24,High Point,Larkins,L,3,83,CH,2,1,1
+04/06/24,High Point,Larkins,R,4,,FB,4,1,0
+04/06/24,High Point,Larkins,R,4,,CB,13,0,0
+04/06/24,High Point,Larkins,R,4,,FB,2,1,0
+04/06/24,High Point,Larkins,R,5,74,CB,8,0,0
+04/06/24,High Point,Larkins,R,5,,CB,12,0,0
+04/06/24,High Point,Larkins,R,5,82,CH,6,0,0
+04/06/24,High Point,Larkins,R,5,75,CB,13,0,0
+04/06/24,High Point,Larkins,R,5,74,CB,11,0,0
+04/06/24,High Point,Larkins,R,5,,FB,6,1,1
+04/06/24,High Point,Larkins,R,6,85,FB,2,1,0
+04/06/24,High Point,Larkins,R,6,,CB,12,0,0
+04/06/24,High Point,Larkins,R,6,74,CB,5,0,0
+04/06/24,High Point,Larkins,R,6,,FB,13,1,1
+04/06/24,High Point,Larkins,R,7,,FB,11,1,0
+04/06/24,High Point,Larkins,R,7,,FB,4,1,0
+04/06/24,High Point,Larkins,R,8,,FB,2,1,0
+04/06/24,High Point,Larkins,L,9,85,FB,10,0,0
+04/06/24,High Point,Larkins,L,9,86,FB,5,0,0
+04/06/24,High Point,Larkins,L,9,74,CB,10,0,0
+04/06/24,High Point,Larkins,L,9,74,SL,13,0,0
+04/06/24,High Point,Larkins,L,9,87,FB,11,0,0
+04/06/24,High Point,Larkins,L,10,81,FB,12,0,0
+04/06/24,High Point,Larkins,L,10,84,FB,4,1,1
+04/06/24,High Point,Larkins,L,10,86,FB,1,1,0
+11/06/24,Clayton,Larkins,R,1,88,FB,13,0,0
+11/06/24,Clayton,Larkins,R,1,89,FB,10,1,0
+11/06/24,Clayton,Larkins,R,2,76,SL,12,0,0
+11/06/24,Clayton,Larkins,R,2,,FB,5,1,0
+11/06/24,Clayton,Larkins,R,3,89,FB,13,0,0
+11/06/24,Clayton,Larkins,R,3,89,FB,11,0,0
+11/06/24,Clayton,Larkins,R,3,87,FB,8,1,1
+11/06/24,Clayton,Larkins,R,3,87,FB,13,1,1
+11/06/24,Clayton,Larkins,R,3,86,FB,13,0,0
+11/06/24,Clayton,Larkins,R,3,88,FB,2,1,0
+11/06/24,Clayton,Larkins,R,3,73,CB,7,0,0
+11/06/24,Clayton,Larkins,L,4,86,FB,13,0,0
+11/06/24,Clayton,Larkins,L,4,83,CH,10,0,0
+11/06/24,Clayton,Larkins,L,4,76,SL,12,0,0
+11/06/24,Clayton,Larkins,L,4,86,FB,6,0,0
+11/06/24,Clayton,Larkins,L,4,85,FB,4,0,0
+11/06/24,Clayton,Larkins,L,4,84,CH,5,1,0
+11/06/24,Clayton,Larkins,R,5,78,CH,12,0,0
+11/06/24,Clayton,Larkins,R,5,87,FB,8,1,0
+11/06/24,Clayton,Larkins,R,5,85,FB,2,1,1
+11/06/24,Clayton,Larkins,R,5,85,FB,13,0,0
+11/06/24,Clayton,Larkins,R,5,77,CB,1,0,0
+11/06/24,Clayton,Larkins,L,6,77,CB,12,0,0
+11/06/24,Clayton,Larkins,L,6,87,FB,8,0,0
+11/06/24,Clayton,Larkins,L,6,87,FB,9,1,1
+11/06/24,Clayton,Larkins,L,6,77,CB,12,0,0
+11/06/24,Clayton,Larkins,L,6,85,FB,10,0,0
+11/06/24,Clayton,Larkins,L,6,75,CB,12,0,0
+11/06/24,Clayton,Larkins,R,7,76,CB,4,1,0
+11/06/24,Clayton,Larkins,R,7,81,CH,13,0,0
+11/06/24,Clayton,Larkins,R,7,88,FB,3,1,0
+11/06/24,Clayton,Larkins,R,8,86,FB,6,1,0
+11/06/24,Clayton,Larkins,L,9,86,FB,7,1,0
+11/06/24,Clayton,Larkins,R,10,74,CB,12,0,0
+11/06/24,Clayton,Larkins,R,10,,FB,13,0,0
+11/06/24,Clayton,Larkins,R,10,86,FB,6,1,0
+11/06/24,Clayton,Larkins,R,11,75,CB,10,0,0
+11/06/24,Clayton,Larkins,R,11,75,CB,10,0,0
+11/06/24,Clayton,Larkins,R,11,85,FB,13,0,0
+11/06/24,Clayton,Larkins,R,11,86,FB,13,0,0
+11/06/24,Clayton,Larkins,R,12,76,CB,1,0,0
+11/06/24,Clayton,Larkins,R,12,77,SL,10,0,0
+11/06/24,Clayton,Larkins,R,12,86,FB,1,1,0
+11/06/24,Clayton,Larkins,R,12,89,FB,1,1,0
+11/06/24,Clayton,Larkins,R,12,83,CH,4,1,0
