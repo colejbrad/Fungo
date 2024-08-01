@@ -1,0 +1,8 @@
+date,opponent,batter,pitcherHand,plateAppearance,pitchType,pitchLocation,swing,miss,result,resultType,resultLocation,hitType
+17/07/24,High Point,Brown,R,1,FB,10,0,0,ball,walk,,
+17/07/24,High Point,Brown,R,2,FB,4,0,0,strike,looking,,kk
+17/07/24,High Point,Brown,L,3,CH,2,1,0,bip,popup,8,po5
+17/07/24,High Point,Brown,L,4,CH,12,0,0,ball,walk,,
+06/07/24,High Point,Brown,R,1,FB,2,1,0,bip,grounder,1,go3
+06/07/24,High Point,Brown,R,2,FB,4,1,0,bip,grounder,6,single
+06/07/24,High Point,Brown,R,3,FB,10,1,1,strike,swinging,,k

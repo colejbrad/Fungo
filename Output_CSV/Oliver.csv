@@ -1,0 +1,86 @@
+date,opponent,batter,pitcherHand,plateAppearance,pitchType,pitchLocation,swing,miss,result,resultType,resultLocation,hitType
+11/06/24,Clayton,Oliver,R,1,FB,9,0,0,strike,looking,,
+11/06/24,Clayton,Oliver,R,1,FB,13,1,0,foul,,,
+11/06/24,Clayton,Oliver,R,1,FB,13,0,0,ball,,,
+11/06/24,Clayton,Oliver,R,1,SL,10,0,0,ball,,,
+11/06/24,Clayton,Oliver,R,1,CH,8,1,1,strike,swinging,,k
+11/06/24,Clayton,Oliver,R,2,FB,3,1,0,bip,fly,5,sf8
+11/06/24,Clayton,Oliver,L,3,FB,13,0,0,ball,,,
+11/06/24,Clayton,Oliver,L,3,CB,12,0,0,ball,,,
+11/06/24,Clayton,Oliver,L,3,FB,11,0,0,ball,,,
+11/06/24,Clayton,Oliver,L,3,SL,12,1,0,foul,,,
+11/06/24,Clayton,Oliver,L,3,FB,7,1,0,bip,grounder,1,go4
+11/06/24,Clayton,Oliver,R,4,CH,12,0,0,ball,,,
+11/06/24,Clayton,Oliver,R,4,FB,6,1,0,foul,,,
+11/06/24,Clayton,Oliver,R,4,FB,8,1,0,foul,,,
+11/06/24,Clayton,Oliver,R,4,FB,6,1,0,bip,grounder,2,single
+11/06/24,Clayton,Oliver,R,5,FB,1,1,0,foul,,,
+11/06/24,Clayton,Oliver,R,5,CB,9,0,0,strike,looking,,
+11/06/24,Clayton,Oliver,R,5,CB,13,0,0,ball,,,
+11/06/24,Clayton,Oliver,R,5,FB,11,0,0,ball,,,
+11/06/24,Clayton,Oliver,R,5,FB,13,0,0,ball,,,
+11/06/24,Clayton,Oliver,R,5,SL,4,1,1,strike,swinging,,k
+05/06/24,Yorktown,Oliver,R,1,CB,10,0,0,ball,,,
+05/06/24,Yorktown,Oliver,R,1,FB,7,1,0,foul,,,
+05/06/24,Yorktown,Oliver,R,1,CH,5,1,0,foul,,,
+05/06/24,Yorktown,Oliver,R,1,CB,10,0,0,b,,,
+05/06/24,Yorktown,Oliver,R,1,FB,11,1,0,foul,,,
+05/06/24,Yorktown,Oliver,R,1,FB,4,1,1,strike,swinging,,k
+05/06/24,Yorktown,Oliver,R,2,CH,11,0,0,ball,,,
+05/06/24,Yorktown,Oliver,R,2,FB,1,1,0,bip,grounder,6,double
+05/06/24,Yorktown,Oliver,R,3,FB,5,1,0,foul,,,
+05/06/24,Yorktown,Oliver,R,3,FB,12,0,0,ball,,,
+05/06/24,Yorktown,Oliver,R,3,CH,11,1,0,foul,,,
+05/06/24,Yorktown,Oliver,R,3,CH,4,1,0,bip,fly,4,sf7
+05/06/24,Yorktown,Oliver,L,4,FB,13,0,0,ball,,,
+05/06/24,Yorktown,Oliver,L,4,FB,10,0,0,ball,,,
+05/06/24,Yorktown,Oliver,L,4,CH,13,0,0,ball,,,
+05/06/24,Yorktown,Oliver,L,4,FB,5,0,0,strike,looking,,
+05/06/24,Yorktown,Oliver,L,4,CH,4,1,1,strike,swinging,,
+05/06/24,Yorktown,Oliver,L,4,CH,12,0,0,ball,walk,,
+30/05/24,Danville,Oliver,R,1,FB,12,0,0,ball,,,
+30/05/24,Danville,Oliver,R,1,FB,7,1,0,bip,fly,4,fo8
+30/05/24,Danville,Oliver,R,2,FB,12,0,0,ball,,,
+30/05/24,Danville,Oliver,R,2,SL,10,0,0,ball,,,
+30/05/24,Danville,Oliver,R,2,FB,12,0,0,ball,,,
+30/05/24,Danville,Oliver,R,2,FB,12,0,0,ball,walk,,
+30/05/24,Danville,Oliver,R,3,FB,,1,0,bip,popup,2,po6
+30/05/24,Danville,Oliver,R,4,SL,13,0,0,ball,,,
+30/05/24,Danville,Oliver,R,4,FB,9,1,0,foul,,,
+30/05/24,Danville,Oliver,R,4,FB,5,1,0,foul,,,
+30/05/24,Danville,Oliver,R,4,CB,13,1,1,strike,swinging,,k
+30/05/24,Danville,Oliver,R,5,FB,10,0,0,ball,,,
+30/05/24,Danville,Oliver,R,5,CH,12,0,0,ball,,,
+30/05/24,Danville,Oliver,R,5,FB,12,0,0,ball,,,
+30/05/24,Danville,Oliver,R,5,FB,10,0,0,ball,walk,,
+07/06/24,Reidsville,Oliver,R,1,FB,13,0,0,ball,,,
+07/06/24,Reidsville,Oliver,R,1,FB,12,1,0,foul,,,
+07/06/24,Reidsville,Oliver,R,1,FB,10,0,0,ball,,,
+07/06/24,Reidsville,Oliver,R,1,FB,3,1,0,foul,,,
+07/06/24,Reidsville,Oliver,R,1,CB,13,0,0,ball,,,
+07/06/24,Reidsville,Oliver,R,1,CH,12,0,0,ball,walk,,
+07/06/24,Reidsville,Oliver,R,2,FB,12,0,0,ball,,,
+07/06/24,Reidsville,Oliver,R,2,FB,10,0,0,ball,,,
+07/06/24,Reidsville,Oliver,R,2,FB,12,0,0,ball,,,
+07/06/24,Reidsville,Oliver,R,2,FB,10,0,0,ball,walk,,
+07/06/24,Reidsville,Oliver,R,3,SL,4,0,0,strike,looking,,
+07/06/24,Reidsville,Oliver,R,3,FB,6,1,0,bip,grounder,6,single
+07/06/24,Reidsville,Oliver,R,4,FB,,1,0,bip,grounder,2,fc
+21/06/24,Oak City,Oliver,R,1,CH,1,0,0,strike,looking,,
+21/06/24,Oak City,Oliver,R,1,CB,6,1,0,bip,grounder,1,sh3
+21/06/24,Oak City,Oliver,R,2,FB,11,1,1,strike,swinging,,
+21/06/24,Oak City,Oliver,R,2,CH,12,1,1,strike,swinging,,
+21/06/24,Oak City,Oliver,R,2,FB,12,1,1,strike,swinging,,k
+21/06/24,Oak City,Oliver,R,3,FB,4,1,0,foul,,,
+21/06/24,Oak City,Oliver,R,3,CB,10,0,0,ball,,,
+21/06/24,Oak City,Oliver,R,3,FB,12,0,0,ball,,,
+21/06/24,Oak City,Oliver,R,3,CH,13,0,0,ball,,,
+21/06/24,Oak City,Oliver,R,3,FB,10,0,0,ball,walk,,
+21/06/24,Oak City,Oliver,R,4,CH,10,0,0,ball,,,
+21/06/24,Oak City,Oliver,R,4,FB,10,0,0,ball,,,
+21/06/24,Oak City,Oliver,R,4,FB,1,1,1,strike,swinging,,
+21/06/24,Oak City,Oliver,R,4,CB,13,0,0,ball,hbp,,
+21/06/24,Oak City,Oliver,R,5,SL,5,0,0,strike,looking,,
+21/06/24,Oak City,Oliver,R,5,FB,12,1,1,strike,swinging,,
+21/06/24,Oak City,Oliver,R,5,SL,12,0,0,ball,,,
+21/06/24,Oak City,Oliver,R,5,FB,9,1,0,bip,grounder,1,go3

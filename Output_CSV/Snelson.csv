@@ -1,108 +1,199 @@
 date,opponent,batter,pitcherHand,plateAppearance,pitchType,pitchLocation,swing,miss,result,resultType,resultLocation,hitType
-6/11/2024,Clayton,Snelson,R,1,SL,9,0,0,strike,looking,,
-6/11/2024,Clayton,Snelson,R,1,FB,12,0,0,ball,,,
-6/11/2024,Clayton,Snelson,R,1,FB,6,1,0,foul,,,
-6/11/2024,Clayton,Snelson,R,1,FB,10,0,0,ball,,,
-6/11/2024,Clayton,Snelson,R,1,CH,13,0,0,ball,,,
-6/11/2024,Clayton,Snelson,R,1,FB,12,0,0,ball,walk,,
-6/11/2024,Clayton,Snelson,R,2,CH,10,0,0,ball,hbp,,
-6/11/2024,Clayton,Snelson,L,3,FB,5,0,0,strike,looking,,
-6/11/2024,Clayton,Snelson,L,3,CB,4,1,0,foul,,,
-6/11/2024,Clayton,Snelson,L,3,FB,12,0,0,ball,hbp,,
-6/11/2024,Clayton,Snelson,R,4,FB,3,1,0,foul,,,
-6/11/2024,Clayton,Snelson,R,4,CB,10,0,0,ball,,,
-6/11/2024,Clayton,Snelson,R,4,CH,13,0,0,ball,,,
-6/11/2024,Clayton,Snelson,R,4,CB,13,0,0,ball,,,
-6/11/2024,Clayton,Snelson,R,4,FB,9,1,0,bip,fly,6,fo9
-6/4/2024,High Point,Snelson,R,1,FB,10,1,0,bip,popup,7,po3
-6/4/2024,High Point,Snelson,R,2,FB,1,1,0,foul,,,
-6/4/2024,High Point,Snelson,R,2,CH,3,1,0,foul,,,
-6/4/2024,High Point,Snelson,R,2,FB,13,0,0,ball,,,
-6/4/2024,High Point,Snelson,R,2,FB,2,1,0,bip,fly,4,double
-6/4/2024,High Point,Snelson,R,3,CH,10,0,0,ball,,,
-6/4/2024,High Point,Snelson,R,3,FB,2,1,0,foul,,,
-6/4/2024,High Point,Snelson,R,3,CB,10,0,0,ball,,,
-6/4/2024,High Point,Snelson,R,3,FB,13,1,1,strike,swinging,,
-6/4/2024,High Point,Snelson,R,3,CB,10,0,0,ball,,,
-6/4/2024,High Point,Snelson,R,3,CH,3,1,0,foul,,,
-6/4/2024,High Point,Snelson,R,3,CH,11,0,0,ball,walk,,
-6/4/2024,High Point,Snelson,L,4,FB,6,0,0,strike,looking,,
-6/4/2024,High Point,Snelson,L,4,FB,13,0,0,ball,,,
-6/4/2024,High Point,Snelson,L,4,SL,12,0,0,ball,,,
-6/4/2024,High Point,Snelson,L,4,FB,7,1,1,strike,swinging,,
-6/4/2024,High Point,Snelson,L,4,FB,12,0,0,ball,,,
-6/4/2024,High Point,Snelson,L,4,CH,9,1,0,foul,,,
-6/4/2024,High Point,Snelson,L,4,FB,4,1,1,strike,swinging,,k
-5/28/2024,Carolina,Snelson,R,1,FB,8,1,1,strike,swinging,,
-5/28/2024,Carolina,Snelson,R,1,FB,5,1,0,foul,,,
-5/28/2024,Carolina,Snelson,R,1,FB,2,1,0,foul,,,
-5/28/2024,Carolina,Snelson,R,1,CB,12,0,0,ball,,,
-5/28/2024,Carolina,Snelson,R,1,FB,7,1,0,bip,fly,5,fo8
-5/28/2024,Carolina,Snelson,R,2,CH,9,1,0,foul,,,
-5/28/2024,Carolina,Snelson,R,2,CB,7,1,0,foul,,,
-5/28/2024,Carolina,Snelson,R,2,FB,12,1,1,strike,swinging,,k
-5/28/2024,Carolina,Snelson,R,3,FB,7,0,0,strike,looking,,
-5/28/2024,Carolina,Snelson,R,3,FB,12,1,0,foul,,,
-5/28/2024,Carolina,Snelson,R,3,CB,4,1,0,bip,popup,8,po2
-6/5/2024,Yorktown,Snelson,R,1,CB,11,0,0,ball,,,
-6/5/2024,Yorktown,Snelson,R,1,FB,1,1,0,foul,,,
-6/5/2024,Yorktown,Snelson,R,1,CB,7,1,0,bip,fly,5,fo8
-6/5/2024,Yorktown,Snelson,R,2,CB,11,0,0,ball,,,
-6/5/2024,Yorktown,Snelson,R,2,FB,5,0,0,strike,looking,,
-6/5/2024,Yorktown,Snelson,R,2,CB,10,0,0,ball,,,
-6/5/2024,Yorktown,Snelson,R,2,FB,10,0,0,ball,,,
-6/5/2024,Yorktown,Snelson,R,2,FB,6,1,1,strike,swinging,,
-6/5/2024,Yorktown,Snelson,R,2,FB,11,0,0,ball,walk,,
-6/5/2024,Yorktown,Snelson,R,3,FB,1,1,0,foul,,,
-6/5/2024,Yorktown,Snelson,R,3,FB,10,0,0,ball,,,
-6/5/2024,Yorktown,Snelson,R,3,FB,9,1,1,strike,swinging,,
-6/5/2024,Yorktown,Snelson,R,3,CH,8,1,0,bip,fly,6,single
-6/5/2024,Yorktown,Snelson,R,4,CH,12,0,0,ball,,,
-6/5/2024,Yorktown,Snelson,R,4,FB,6,1,0,foul,,,
-6/5/2024,Yorktown,Snelson,R,4,FB,4,1,0,bip,grounder,2,go6
-6/18/2024,Carolina,Snelson,L,1,CB,6,0,0,strike,looking,,
-6/18/2024,Carolina,Snelson,L,1,FB,11,0,0,ball,,,
-6/18/2024,Carolina,Snelson,L,1,SL,6,1,0,bip,grounder,2,go4
-6/18/2024,Carolina,Snelson,L,2,FB,13,0,0,ball,,,
-6/18/2024,Carolina,Snelson,L,2,CB,11,1,0,foul,,,
-6/18/2024,Carolina,Snelson,L,2,FB,11,0,0,ball,,,
-6/18/2024,Carolina,Snelson,L,2,CB,11,0,0,ball,,,
-6/18/2024,Carolina,Snelson,L,2,SL,7,1,1,strike,swinging,,
-6/18/2024,Carolina,Snelson,L,2,SL,7,1,0,foul,,,
-6/18/2024,Carolina,Snelson,L,2,CH,11,1,0,bip,fly,5,fo8
-6/18/2024,Carolina,Snelson,R,3,FB,9,0,0,strike,looking,,
-6/18/2024,Carolina,Snelson,R,3,FB,10,0,0,ball,,,
-6/18/2024,Carolina,Snelson,R,3,CH,2,1,0,foul,,,
-6/18/2024,Carolina,Snelson,R,3,SL,11,0,0,ball,,,
-6/18/2024,Carolina,Snelson,R,3,FB,11,0,0,ball,,,
-6/18/2024,Carolina,Snelson,R,3,CH,13,0,0,ball,walk,,
-6/18/2024,Carolina,Snelson,R,4,FB,5,0,0,strike,looking,,
-6/18/2024,Carolina,Snelson,R,4,CB,13,0,0,ball,,,
-6/18/2024,Carolina,Snelson,R,4,SL,13,0,0,ball,,,
-6/18/2024,Carolina,Snelson,R,4,FB,9,1,1,strike,swinging,,
-6/18/2024,Carolina,Snelson,R,4,FB,13,0,0,ball,,,
-6/18/2024,Carolina,Snelson,R,4,FB,10,0,0,ball,walk,,
-6/21/2024,Oak City,Snelson,R,1,FB,2,1,0,bip,grounder,2,sb1
-6/21/2024,Oak City,Snelson,R,2,FB,2,0,0,strike,looking,,
-6/21/2024,Oak City,Snelson,R,2,CB,1,1,1,strike,swinging,,
-6/21/2024,Oak City,Snelson,R,2,FB,8,1,0,bip,grounder,1,go2
-6/21/2024,Oak City,Snelson,R,3,CB,4,0,0,strike,looking,,
-6/21/2024,Oak City,Snelson,R,3,FB,12,0,0,ball,,,
-6/21/2024,Oak City,Snelson,R,3,FB,10,0,0,ball,,,
-6/21/2024,Oak City,Snelson,R,3,CB,4,0,0,strike,looking,,
-6/21/2024,Oak City,Snelson,R,3,CB,12,0,0,ball,,,
-6/21/2024,Oak City,Snelson,R,3,FB,10,0,0,ball,walk,,
-6/21/2024,Oak City,Snelson,R,4,FB,9,1,0,foul,,,
-6/21/2024,Oak City,Snelson,R,4,CB,6,1,0,bip,fly,5,single
-6/21/2024,Oak City,Snelson,R,5,SL,7,0,0,strike,looking,,
-6/21/2024,Oak City,Snelson,R,5,SL,13,0,0,ball,,,
-6/21/2024,Oak City,Snelson,R,5,FB,10,0,0,ball,,,
-6/21/2024,Oak City,Snelson,R,5,SL,6,1,0,bip,fly,5,roe
-6/27/2024,C. Pirates,Snelson,R,1,FB,11,0,0,ball,,,
-6/27/2024,C. Pirates,Snelson,R,1,FB,11,0,0,ball,,,
-6/27/2024,C. Pirates,Snelson,R,1,CH,13,0,0,ball,,,
-6/27/2024,C. Pirates,Snelson,R,1,FB,5,0,0,strike,looking,,
-6/27/2024,C. Pirates,Snelson,R,1,FB,2,1,0,bip,grounder,4,single
-6/27/2024,C. Pirates,Snelson,R,2,FB,6,1,0,bip,fly,4,fo7
-6/27/2024,C. Pirates,Snelson,R,3,CH,9,1,0,bip,grounder,4,single
-6/27/2024,C. Pirates,Snelson,R,4,FB,7,1,0,bip,grounder,3,fc
+11/06/24,Clayton,Snelson,R,1,SL,9,0,0,strike,looking,,
+11/06/24,Clayton,Snelson,R,1,FB,12,0,0,ball,,,
+11/06/24,Clayton,Snelson,R,1,FB,6,1,0,foul,,,
+11/06/24,Clayton,Snelson,R,1,FB,10,0,0,ball,,,
+11/06/24,Clayton,Snelson,R,1,CH,13,0,0,ball,,,
+11/06/24,Clayton,Snelson,R,1,FB,12,0,0,ball,walk,,
+11/06/24,Clayton,Snelson,R,2,CH,10,0,0,ball,hbp,,
+11/06/24,Clayton,Snelson,L,3,FB,5,0,0,strike,looking,,
+11/06/24,Clayton,Snelson,L,3,CB,4,1,0,foul,,,
+11/06/24,Clayton,Snelson,L,3,FB,12,0,0,ball,hbp,,
+11/06/24,Clayton,Snelson,R,4,FB,3,1,0,foul,,,
+11/06/24,Clayton,Snelson,R,4,CB,10,0,0,ball,,,
+11/06/24,Clayton,Snelson,R,4,CH,13,0,0,ball,,,
+11/06/24,Clayton,Snelson,R,4,CB,13,0,0,ball,,,
+11/06/24,Clayton,Snelson,R,4,FB,9,1,0,bip,fly,6,fo9
+04/06/24,High Point,Snelson,R,1,FB,10,1,0,bip,popup,7,po3
+04/06/24,High Point,Snelson,R,2,FB,1,1,0,foul,,,
+04/06/24,High Point,Snelson,R,2,CH,3,1,0,foul,,,
+04/06/24,High Point,Snelson,R,2,FB,13,0,0,ball,,,
+04/06/24,High Point,Snelson,R,2,FB,2,1,0,bip,fly,4,double
+04/06/24,High Point,Snelson,R,3,CH,10,0,0,ball,,,
+04/06/24,High Point,Snelson,R,3,FB,2,1,0,foul,,,
+04/06/24,High Point,Snelson,R,3,CB,10,0,0,ball,,,
+04/06/24,High Point,Snelson,R,3,FB,13,1,1,strike,swinging,,
+04/06/24,High Point,Snelson,R,3,CB,10,0,0,ball,,,
+04/06/24,High Point,Snelson,R,3,CH,3,1,0,foul,,,
+04/06/24,High Point,Snelson,R,3,CH,11,0,0,ball,walk,,
+04/06/24,High Point,Snelson,L,4,FB,6,0,0,strike,looking,,
+04/06/24,High Point,Snelson,L,4,FB,13,0,0,ball,,,
+04/06/24,High Point,Snelson,L,4,SL,12,0,0,ball,,,
+04/06/24,High Point,Snelson,L,4,FB,7,1,1,strike,swinging,,
+04/06/24,High Point,Snelson,L,4,FB,12,0,0,ball,,,
+04/06/24,High Point,Snelson,L,4,CH,9,1,0,foul,,,
+04/06/24,High Point,Snelson,L,4,FB,4,1,1,strike,swinging,,k
+28/05/24,Carolina,Snelson,R,1,FB,8,1,1,strike,swinging,,
+28/05/24,Carolina,Snelson,R,1,FB,5,1,0,foul,,,
+28/05/24,Carolina,Snelson,R,1,FB,2,1,0,foul,,,
+28/05/24,Carolina,Snelson,R,1,CB,12,0,0,ball,,,
+28/05/24,Carolina,Snelson,R,1,FB,7,1,0,bip,fly,5,fo8
+28/05/24,Carolina,Snelson,R,2,CH,9,1,0,foul,,,
+28/05/24,Carolina,Snelson,R,2,CB,7,1,0,foul,,,
+28/05/24,Carolina,Snelson,R,2,FB,12,1,1,strike,swinging,,k
+28/05/24,Carolina,Snelson,R,3,FB,7,0,0,strike,looking,,
+28/05/24,Carolina,Snelson,R,3,FB,12,1,0,foul,,,
+28/05/24,Carolina,Snelson,R,3,CB,4,1,0,bip,popup,8,po2
+05/06/24,Yorktown,Snelson,R,1,CB,11,0,0,ball,,,
+05/06/24,Yorktown,Snelson,R,1,FB,1,1,0,foul,,,
+05/06/24,Yorktown,Snelson,R,1,CB,7,1,0,bip,fly,5,fo8
+05/06/24,Yorktown,Snelson,R,2,CB,11,0,0,ball,,,
+05/06/24,Yorktown,Snelson,R,2,FB,5,0,0,strike,looking,,
+05/06/24,Yorktown,Snelson,R,2,CB,10,0,0,ball,,,
+05/06/24,Yorktown,Snelson,R,2,FB,10,0,0,ball,,,
+05/06/24,Yorktown,Snelson,R,2,FB,6,1,1,strike,swinging,,
+05/06/24,Yorktown,Snelson,R,2,FB,11,0,0,ball,walk,,
+05/06/24,Yorktown,Snelson,R,3,FB,1,1,0,foul,,,
+05/06/24,Yorktown,Snelson,R,3,FB,10,0,0,ball,,,
+05/06/24,Yorktown,Snelson,R,3,FB,9,1,1,strike,swinging,,
+05/06/24,Yorktown,Snelson,R,3,CH,8,1,0,bip,fly,6,single
+05/06/24,Yorktown,Snelson,R,4,CH,12,0,0,ball,,,
+05/06/24,Yorktown,Snelson,R,4,FB,6,1,0,foul,,,
+05/06/24,Yorktown,Snelson,R,4,FB,4,1,0,bip,grounder,2,go6
+18/06/24,Carolina,Snelson,L,1,CB,6,0,0,strike,looking,,
+18/06/24,Carolina,Snelson,L,1,FB,11,0,0,ball,,,
+18/06/24,Carolina,Snelson,L,1,SL,6,1,0,bip,grounder,2,go4
+18/06/24,Carolina,Snelson,L,2,FB,13,0,0,ball,,,
+18/06/24,Carolina,Snelson,L,2,CB,11,1,0,foul,,,
+18/06/24,Carolina,Snelson,L,2,FB,11,0,0,ball,,,
+18/06/24,Carolina,Snelson,L,2,CB,11,0,0,ball,,,
+18/06/24,Carolina,Snelson,L,2,SL,7,1,1,strike,swinging,,
+18/06/24,Carolina,Snelson,L,2,SL,7,1,0,foul,,,
+18/06/24,Carolina,Snelson,L,2,CH,11,1,0,bip,fly,5,fo8
+18/06/24,Carolina,Snelson,R,3,FB,9,0,0,strike,looking,,
+18/06/24,Carolina,Snelson,R,3,FB,10,0,0,ball,,,
+18/06/24,Carolina,Snelson,R,3,CH,2,1,0,foul,,,
+18/06/24,Carolina,Snelson,R,3,SL,11,0,0,ball,,,
+18/06/24,Carolina,Snelson,R,3,FB,11,0,0,ball,,,
+18/06/24,Carolina,Snelson,R,3,CH,13,0,0,ball,walk,,
+18/06/24,Carolina,Snelson,R,4,FB,5,0,0,strike,looking,,
+18/06/24,Carolina,Snelson,R,4,CB,13,0,0,ball,,,
+18/06/24,Carolina,Snelson,R,4,SL,13,0,0,ball,,,
+18/06/24,Carolina,Snelson,R,4,FB,9,1,1,strike,swinging,,
+18/06/24,Carolina,Snelson,R,4,FB,13,0,0,ball,,,
+18/06/24,Carolina,Snelson,R,4,FB,10,0,0,ball,walk,,
+21/06/24,Oak City,Snelson,R,1,FB,2,1,0,bip,grounder,2,sb1
+21/06/24,Oak City,Snelson,R,2,FB,2,0,0,strike,looking,,
+21/06/24,Oak City,Snelson,R,2,CB,1,1,1,strike,swinging,,
+21/06/24,Oak City,Snelson,R,2,FB,8,1,0,bip,grounder,1,go2
+21/06/24,Oak City,Snelson,R,3,CB,4,0,0,strike,looking,,
+21/06/24,Oak City,Snelson,R,3,FB,12,0,0,ball,,,
+21/06/24,Oak City,Snelson,R,3,FB,10,0,0,ball,,,
+21/06/24,Oak City,Snelson,R,3,CB,4,0,0,strike,looking,,
+21/06/24,Oak City,Snelson,R,3,CB,12,0,0,ball,,,
+21/06/24,Oak City,Snelson,R,3,FB,10,0,0,ball,walk,,
+21/06/24,Oak City,Snelson,R,4,FB,9,1,0,foul,,,
+21/06/24,Oak City,Snelson,R,4,CB,6,1,0,bip,fly,5,single
+21/06/24,Oak City,Snelson,R,5,SL,7,0,0,strike,looking,,
+21/06/24,Oak City,Snelson,R,5,SL,13,0,0,ball,,,
+21/06/24,Oak City,Snelson,R,5,FB,10,0,0,ball,,,
+21/06/24,Oak City,Snelson,R,5,SL,6,1,0,bip,fly,5,roe
+27/06/24,C. Pirates,Snelson,R,1,FB,11,0,0,ball,,,
+27/06/24,C. Pirates,Snelson,R,1,FB,11,0,0,ball,,,
+27/06/24,C. Pirates,Snelson,R,1,CH,13,0,0,ball,,,
+27/06/24,C. Pirates,Snelson,R,1,FB,5,0,0,strike,looking,,
+27/06/24,C. Pirates,Snelson,R,1,FB,2,1,0,bip,grounder,4,single
+27/06/24,C. Pirates,Snelson,R,2,FB,6,1,0,bip,fly,4,fo7
+27/06/24,C. Pirates,Snelson,R,3,CH,9,1,0,bip,grounder,4,single
+27/06/24,C. Pirates,Snelson,R,4,FB,7,1,0,bip,grounder,3,fc
+03/07/24,Tarboro,Snelson,R,1,FB,6,1,0,bip,grounder,2,go4
+03/07/24,Tarboro,Snelson,R,2,CB,7,0,0,strike,looking,,
+03/07/24,Tarboro,Snelson,R,2,SL,6,1,0,foul,,,
+03/07/24,Tarboro,Snelson,R,2,FB,2,1,0,foul,,,
+03/07/24,Tarboro,Snelson,R,2,SL,13,0,0,ball,,,
+03/07/24,Tarboro,Snelson,R,2,CB,4,1,0,bip,grounder,2,go6
+03/07/24,Tarboro,Snelson,R,3,FB,10,0,0,ball,,,
+03/07/24,Tarboro,Snelson,R,3,FB,13,0,0,ball,,,
+03/07/24,Tarboro,Snelson,R,3,FB,6,0,0,strike,looking,,
+03/07/24,Tarboro,Snelson,R,3,FB,2,1,0,foul,,,
+03/07/24,Tarboro,Snelson,R,3,SL,13,0,0,ball,,,
+03/07/24,Tarboro,Snelson,R,3,FB,13,0,0,ball,walk,,
+03/07/24,Tarboro,Snelson,R,4,FB,1,1,0,bip,fly,4,single
+03/07/24,Tarboro,Snelson,R,5,FB,10,0,0,ball,,,
+03/07/24,Tarboro,Snelson,R,5,FB,13,0,0,ball,,,
+03/07/24,Tarboro,Snelson,R,5,FB,5,1,0,strike,looking,,
+03/07/24,Tarboro,Snelson,R,5,CH,10,0,0,ball,,,
+03/07/24,Tarboro,Snelson,R,5,CH,4,1,0,strike,looking,,
+03/07/24,Tarboro,Snelson,R,5,FB,5,1,1,strike,swinging,,k
+10/07/24,Clayton,Snelson,R,1,FB,12,0,0,ball,,,
+10/07/24,Clayton,Snelson,R,1,SL,11,0,0,ball,,,
+10/07/24,Clayton,Snelson,R,1,FB,5,1,1,strike,swinging,,
+10/07/24,Clayton,Snelson,R,1,FB,3,1,1,strike,swinging,,
+10/07/24,Clayton,Snelson,R,1,CH,6,1,1,strike,swinging,,k
+10/07/24,Clayton,Snelson,R,2,SL,13,0,0,ball,,,
+10/07/24,Clayton,Snelson,R,2,FB,4,1,0,foul,,,
+10/07/24,Clayton,Snelson,R,2,CB,13,1,1,strike,swinging,,
+10/07/24,Clayton,Snelson,R,2,CB,13,0,0,ball,,,
+10/07/24,Clayton,Snelson,R,2,CH,12,0,0,ball,,,
+10/07/24,Clayton,Snelson,R,2,FB,7,1,0,foul,,,
+10/07/24,Clayton,Snelson,R,2,CH,3,1,0,bip,popup,4,single
+10/07/24,Clayton,Snelson,R,3,CB,9,0,0,strike,looking,,
+10/07/24,Clayton,Snelson,R,3,CB,4,1,0,bip,popup,4,po5
+11/07/24,C. Pirates,Snelson,R,1,FB,4,1,0,bip,popup,8,po5
+11/07/24,C. Pirates,Snelson,R,2,FB,11,0,0,ball,,,
+11/07/24,C. Pirates,Snelson,R,2,FB,11,1,0,foul,,,
+11/07/24,C. Pirates,Snelson,R,2,CH,10,0,0,ball,,,
+11/07/24,C. Pirates,Snelson,R,2,FB,11,0,0,ball,,,
+11/07/24,C. Pirates,Snelson,R,2,FB,13,0,0,ball,walk,,
+11/07/24,C. Pirates,Snelson,R,3,FB,13,1,0,foul,,,
+11/07/24,C. Pirates,Snelson,R,3,CB,10,0,0,ball,,,
+11/07/24,C. Pirates,Snelson,R,3,FB,4,1,0,foul,,,
+11/07/24,C. Pirates,Snelson,R,3,FB,10,0,0,ball,,,
+11/07/24,C. Pirates,Snelson,R,3,FB,2,1,1,strike,swinging,,k
+11/07/24,C. Pirates,Snelson,R,4,FB,6,1,0,foul,,,
+11/07/24,C. Pirates,Snelson,R,4,FB,10,1,1,strike,swinging,,
+11/07/24,C. Pirates,Snelson,R,4,FB,10,1,0,foul,,,
+11/07/24,C. Pirates,Snelson,R,4,CH,12,0,0,ball,,,
+11/07/24,C. Pirates,Snelson,R,4,SL,13,0,0,ball,,,
+11/07/24,C. Pirates,Snelson,R,4,FB,7,1,1,strike,swinging,,k
+11/07/24,C. Pirates,Snelson,R,5,FB,10,0,0,ball,,,
+11/07/24,C. Pirates,Snelson,R,5,FB,3,1,0,bip,fly,5,fo8
+16/07/24,Oak City,Snelson,R,1,FB,2,1,0,bip,fly,5,sf8
+16/07/24,Oak City,Snelson,R,2,FB,11,1,0,foul,,,
+16/07/24,Oak City,Snelson,R,2,FB,13,0,0,ball,,,
+16/07/24,Oak City,Snelson,R,2,CB,5,1,0,bip,fly,5,fo9
+16/07/24,Oak City,Snelson,R,3,CH,11,0,0,ball,,,
+16/07/24,Oak City,Snelson,R,3,FB,2,1,0,foul,,,
+16/07/24,Oak City,Snelson,R,3,FB,11,1,0,bip,popup,5,po8
+16/07/24,Oak City,Snelson,R,4,FB,9,1,0,bip,fly,5,fo8
+17/07/24,High Point,Snelson,R,1,SL,13,0,0,ball,,,
+17/07/24,High Point,Snelson,R,1,SL,4,0,0,strike,looking,,
+17/07/24,High Point,Snelson,R,1,SL,9,0,0,strike,looking,,
+17/07/24,High Point,Snelson,R,1,SL,13,1,1,strike,swinging,,k
+17/07/24,High Point,Snelson,R,2,CH,10,0,0,ball,,,
+17/07/24,High Point,Snelson,R,2,CH,12,0,0,ball,hbp,,
+17/07/24,High Point,Snelson,R,3,FB,10,1,0,foul,,,
+17/07/24,High Point,Snelson,R,3,SL,3,1,0,foul,,,
+17/07/24,High Point,Snelson,R,3,FB,7,1,0,foul,,,
+17/07/24,High Point,Snelson,R,3,SL,13,0,0,ball,,,
+17/07/24,High Point,Snelson,R,3,SL,13,0,0,ball,,,
+17/07/24,High Point,Snelson,R,3,FB,4,0,0,strike,looking,,kk
+17/07/24,High Point,Snelson,L,4,FB,6,0,0,strike,looking,,
+17/07/24,High Point,Snelson,L,4,CH,11,0,0,ball,,,
+17/07/24,High Point,Snelson,L,4,FB,11,0,0,ball,,,
+17/07/24,High Point,Snelson,L,4,CB,13,0,0,ball,,,
+17/07/24,High Point,Snelson,L,4,FB,6,0,0,strike,looking,,
+17/07/24,High Point,Snelson,L,4,FB,4,1,0,bip,liner,5,single
+17/07/24,High Point,Snelson,L,5,FB,11,0,0,ball,,,
+17/07/24,High Point,Snelson,L,5,FB,1,1,0,bip,grounder,3,sb1
+06/07/24,High Point,Snelson,R,1,CB,10,0,0,ball,,,
+06/07/24,High Point,Snelson,R,1,FB,13,0,0,ball,,,
+06/07/24,High Point,Snelson,R,1,FB,6,0,0,strike,looking,,
+06/07/24,High Point,Snelson,R,1,CH,12,1,1,strike,swinging,,
+06/07/24,High Point,Snelson,R,1,CB,1,1,0,bip,fly,5,fo8
+06/07/24,High Point,Snelson,R,2,FB,3,1,0,foul,,,
+06/07/24,High Point,Snelson,R,2,CB,13,0,0,ball,,,
+06/07/24,High Point,Snelson,R,2,FB,13,1,0,foul,,,
+06/07/24,High Point,Snelson,R,2,CB,13,0,0,ball,,,
+06/07/24,High Point,Snelson,R,2,CH,9,0,0,strike,looking,,kk
+06/07/24,High Point,Snelson,R,3,FB,8,1,0,bip,grounder,4,single

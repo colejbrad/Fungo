@@ -1,0 +1,6 @@
+date,opponent,batter,pitcherHand,plateAppearance,pitchType,pitchLocation,swing,miss,result,resultType,resultLocation,hitType
+03/07/24,Tarboro,Morgan,R,1,FB,3,1,0,bip,fly,4,double
+03/07/24,Tarboro,Morgan,R,2,FB,4,1,0,bip,grounder,3,go6
+03/07/24,Tarboro,Morgan,R,3,FB,2,1,0,bip,fly,5,fo8
+03/07/24,Tarboro,Morgan,R,4,FB,13,0,0,ball,walk,,
+03/07/24,Tarboro,Morgan,R,5,CH,6,0,0,strike,looking,,kk

@@ -158,6 +158,7 @@ class FungoVisual:
             plt.title("Whiff Percentage by zone", fontsize=20)
 
         plotFig.savefig(fileLocation)
+        plt.close()
 
     def rollingAvg(playerData: pd.DataFrame) -> list[float]:
         """
@@ -206,6 +207,7 @@ class FungoVisual:
 
         fileLocation = FungoVisual.filepath + f"{playerName}RollingBA.png"
         fig.savefig(fileLocation)
+        plt.close
 
     def plotPitchTypeBAs(playerName: str, playerData: tuple) -> None:
         """
@@ -257,3 +259,4 @@ class FungoVisual:
 
         fileLocation = FungoVisual.filepath + f"{playerName}PitchTypeBA.png"
         fig.savefig(fileLocation)
+        plt.close()

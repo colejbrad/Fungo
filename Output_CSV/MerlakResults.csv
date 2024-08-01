@@ -1,0 +1,41 @@
+date,opponent,batter,pitcherHand,plateAppearance,pitchType,pitchLocation,swing,miss,result,resultType,resultLocation,hitType
+15/06/24,Burlington,Merlak,R,1,FB,3,1,1,strike,swinging,,k
+15/06/24,Burlington,Merlak,R,2,CB,4,0,0,strike,looking,,kk
+15/06/24,Burlington,Merlak,R,3,FB,12,0,0,ball,walk,,
+15/06/24,Burlington,Merlak,R,4,CH,1,1,1,strike,swinging,,k
+05/06/24,Yorktown,Merlak,R,1,CH,5,1,1,strike,swinging,,k
+05/06/24,Yorktown,Merlak,R,2,FB,4,1,0,bip,popup,1,po3
+05/06/24,Yorktown,Merlak,R,3,FB,6,1,0,bip,grounder,2,single
+05/06/24,Yorktown,Merlak,L,4,CH,13,0,0,ball,walk,,
+31/05/24,Burlington,Merlak,L,1,FB,11,0,0,ball,walk,,
+31/05/24,Burlington,Merlak,R,2,FB,10,0,0,ball,walk,,
+31/05/24,Burlington,Merlak,R,3,FB,8,1,0,bip,fly,5,fo9
+28/05/24,Carolina,Merlak,R,1,FB,12,0,0,ball,hbp,,
+11/06/24,Clayton,Merlak,R,1,FB,11,0,0,ball,walk,,
+11/06/24,Clayton,Merlak,R,2,CH,10,0,0,ball,hbp,,
+11/06/24,Clayton,Merlak,R,3,CH,13,0,0,ball,walk,,
+11/06/24,Clayton,Merlak,R,4,FB,4,1,0,bip,grounder,3,roe
+04/06/24,High Point,Merlak,R,1,CB,13,0,0,ball,walk,,
+04/06/24,High Point,Merlak,R,2,FB,4,1,0,bip,grounder,3,go5
+18/06/24,Carolina,Merlak,R,1,CB,4,1,0,bip,fly,4,fo7
+18/06/24,Carolina,Merlak,L,2,FB,3,1,0,bip,grounder,3,sh6
+18/06/24,Carolina,Merlak,R,3,SL,6,1,0,bip,grounder,3,go5
+18/06/24,Carolina,Merlak,R,4,CH,6,1,0,bip,grounder,1,go4
+27/06/24,C. Pirates,Merlak,R,1,CB,9,1,1,strike,swinging,,k
+27/06/24,C. Pirates,Merlak,R,2,FB,1,1,0,bip,fly,6,fo9
+02/07/24,Clayton,Merlak,L,1,FB,6,1,0,bip,popup,1,po4
+03/07/24,Tarboro,Merlak,R,1,FB,6,1,1,strike,swinging,,k
+03/07/24,Tarboro,Merlak,R,2,CH,13,0,0,ball,walk,,
+03/07/24,Tarboro,Merlak,R,3,FB,2,1,1,strike,swinging,,k
+03/07/24,Tarboro,Merlak,R,4,SL,9,1,0,bip,popup,2,po4
+07/07/24,Oak City,Merlak,R,1,FB,13,0,0,ball,walk,,
+07/07/24,Oak City,Merlak,R,2,CB,6,0,0,strike,looking,,kk
+11/07/24,C. Pirates,Merlak,R,1,FB,2,1,0,bip,popup,2,po6
+11/07/24,C. Pirates,Merlak,R,2,FB,5,1,0,bip,grounder,2,go6
+11/07/24,C. Pirates,Merlak,R,3,FB,10,0,0,ball,walk,,
+11/07/24,C. Pirates,Merlak,R,4,FB,5,1,0,bip,popup,1,po3
+11/07/24,C. Pirates,Merlak,R,5,FB,4,1,0,bip,popup,3,po5
+16/07/24,Oak City,Merlak,R,1,FB,1,1,0,bip,popup,7,po3
+16/07/24,Oak City,Merlak,R,2,FB,11,0,0,ball,walk,,
+16/07/24,Oak City,Merlak,R,3,FB,6,1,0,bip,fly,4,fo7
+17/07/24,High Point,Merlak,R,1,SL,6,1,0,bip,fly,4,single

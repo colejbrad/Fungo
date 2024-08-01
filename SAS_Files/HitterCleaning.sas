@@ -2,7 +2,7 @@
 
 /* Change definition of this Macro to filter
 for specified player. Last name only */
-%let hitter = Richardson;
+%let hitter = Brown;
 
 /* Create library for storing data for Fungo */
 x "cd C:\Users\1030c\Desktop\Fungo\Fungo\";

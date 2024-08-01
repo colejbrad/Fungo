@@ -1,0 +1,215 @@
+date,opponent,batter,pitcherHand,plateAppearance,pitchType,pitchLocation,swing,miss,result,resultType,resultLocation,hitType
+28/05/24,Carolina,DiCarlo,R,1,FB,12,0,0,ball,,,
+28/05/24,Carolina,DiCarlo,R,1,FB,7,1,0,bip,fly,4,fo7
+28/05/24,Carolina,DiCarlo,R,2,CH,12,1,1,strike,swinging,,
+28/05/24,Carolina,DiCarlo,R,2,CB,10,0,0,ball,,,
+28/05/24,Carolina,DiCarlo,R,2,CB,2,1,0,foul,,,
+28/05/24,Carolina,DiCarlo,R,2,SL,13,0,0,ball,,,
+28/05/24,Carolina,DiCarlo,R,2,FB,9,1,0,bip,liner,3,lo6
+28/05/24,Carolina,DiCarlo,R,3,CH,4,1,1,strike,swinging,,
+28/05/24,Carolina,DiCarlo,R,3,FB,7,1,0,bip,grounder,3,go6
+30/05/24,Danville,DiCarlo,R,1,FB,10,0,0,ball,,,
+30/05/24,Danville,DiCarlo,R,1,FB,5,1,0,bip,liner,4,single
+30/05/24,Danville,DiCarlo,R,2,FB,13,0,0,ball,,,
+30/05/24,Danville,DiCarlo,R,2,FB,12,1,1,strike,swinging,,
+30/05/24,Danville,DiCarlo,R,2,SL,9,1,0,foul,,,
+30/05/24,Danville,DiCarlo,R,2,FB,5,1,0,bip,liner,4,lo7
+30/05/24,Danville,DiCarlo,R,3,FB,8,1,0,bip,grounder,3,sb3
+30/05/24,Danville,DiCarlo,R,4,FB,6,0,0,strike,looking,,
+30/05/24,Danville,DiCarlo,R,4,FB,13,0,0,ball,,,
+30/05/24,Danville,DiCarlo,R,4,CH,3,0,0,strike,looking,,
+30/05/24,Danville,DiCarlo,R,4,FB,12,0,0,ball,,,
+30/05/24,Danville,DiCarlo,R,4,FB,11,0,0,ball,,,
+30/05/24,Danville,DiCarlo,R,4,FB,10,0,0,ball,walk,,
+30/05/24,Danville,DiCarlo,R,5,FB,6,1,0,bip,grounder,3,go6
+30/05/24,Danville,DiCarlo,R,6,FB,10,0,0,ball,,,
+30/05/24,Danville,DiCarlo,R,6,FB,12,0,0,ball,,,
+31/05/24,Burlington,DiCarlo,R,1,FB,12,1,1,strike,swinging,,
+31/05/24,Burlington,DiCarlo,R,1,FB,13,0,0,ball,,,
+31/05/24,Burlington,DiCarlo,R,1,FB,12,1,0,bip,grounder,3,go5
+31/05/24,Burlington,DiCarlo,R,2,CH,10,0,0,ball,,,
+31/05/24,Burlington,DiCarlo,R,2,FB,11,0,0,ball,,,
+31/05/24,Burlington,DiCarlo,R,2,FB,6,1,0,bip,grounder,1,go3
+31/05/24,Burlington,DiCarlo,L,3,FB,3,1,0,bip,liner,6,lo9
+31/05/24,Burlington,DiCarlo,R,4,CH,10,1,0,foul,,,
+31/05/24,Burlington,DiCarlo,R,4,CB,12,0,0,ball,,,
+31/05/24,Burlington,DiCarlo,R,4,FB,10,0,0,ball,,,
+31/05/24,Burlington,DiCarlo,R,4,FB,5,0,0,ball,,,
+31/05/24,Burlington,DiCarlo,R,4,FB,5,1,0,foul,,,
+31/05/24,Burlington,DiCarlo,R,4,FB,12,0,0,ball,walk,,
+31/05/24,Burlington,DiCarlo,R,5,CH,9,0,0,strike,looking,,
+31/05/24,Burlington,DiCarlo,R,5,FB,13,0,0,ball,,,
+31/05/24,Burlington,DiCarlo,R,5,FB,13,0,0,ball,,,
+31/05/24,Burlington,DiCarlo,R,5,FB,1,1,0,bip,liner,6,lo9
+07/06/24,Reidsville,DiCarlo,R,1,FB,10,0,0,ball,,,
+07/06/24,Reidsville,DiCarlo,R,1,CB,12,0,0,ball,,,
+07/06/24,Reidsville,DiCarlo,R,1,FB,5,0,0,strike,looking,,
+07/06/24,Reidsville,DiCarlo,R,1,CB,12,0,0,ball,,,
+07/06/24,Reidsville,DiCarlo,R,1,CH,7,1,0,bip,popup,3,po6
+07/06/24,Reidsville,DiCarlo,R,2,FB,12,1,0,foul,,,
+07/06/24,Reidsville,DiCarlo,R,2,FB,10,0,0,ball,,,
+07/06/24,Reidsville,DiCarlo,R,2,FB,4,1,0,foul,,,
+07/06/24,Reidsville,DiCarlo,R,2,CH,10,1,0,foul,,,
+07/06/24,Reidsville,DiCarlo,R,2,CB,8,1,0,bip,grounder,2,gidp
+07/06/24,Reidsville,DiCarlo,R,3,FB,6,1,0,bip,liner,2,gidp
+07/06/24,Reidsville,DiCarlo,R,4,CH,12,0,0,ball,,,
+07/06/24,Reidsville,DiCarlo,R,4,FB,10,0,0,ball,,,
+07/06/24,Reidsville,DiCarlo,R,4,FB,2,1,0,bip,fly,4,single
+07/06/24,Reidsville,DiCarlo,L,5,CB,12,0,0,ball,,,
+07/06/24,Reidsville,DiCarlo,L,5,FB,3,1,0,bip,fly,2,fo6
+05/06/24,Yorktown,DiCarlo,R,1,FB,8,1,0,foul,,,
+05/06/24,Yorktown,DiCarlo,R,1,FB,2,1,0,bip,fly,5,fo8
+05/06/24,Yorktown,DiCarlo,R,2,CH,10,1,1,strike,swinging,,
+05/06/24,Yorktown,DiCarlo,R,2,FB,10,0,0,ball,,,
+05/06/24,Yorktown,DiCarlo,R,2,FB,10,0,0,ball,,,
+05/06/24,Yorktown,DiCarlo,R,2,FB,11,1,0,bip,fly,4,fo7
+05/06/24,Yorktown,DiCarlo,R,3,CH,4,1,0,foul,,,
+05/06/24,Yorktown,DiCarlo,R,3,FB,3,1,0,foul,,,
+05/06/24,Yorktown,DiCarlo,R,3,FB,10,0,0,ball,,,
+05/06/24,Yorktown,DiCarlo,R,3,FB,11,1,0,foul,,,
+05/06/24,Yorktown,DiCarlo,R,3,FB,4,1,0,bip,grounder,2,roe
+05/06/24,Yorktown,DiCarlo,R,4,FB,12,0,0,ball,,,
+05/06/24,Yorktown,DiCarlo,R,4,FB,10,0,0,ball,,,
+05/06/24,Yorktown,DiCarlo,R,4,CH,7,1,0,foul,,,
+05/06/24,Yorktown,DiCarlo,R,4,FB,12,1,0,foul,,,
+05/06/24,Yorktown,DiCarlo,R,4,CH,2,1,0,foul,,,
+05/06/24,Yorktown,DiCarlo,R,4,CH,6,1,0,foul,,,
+05/06/24,Yorktown,DiCarlo,R,4,SL,6,1,0,bip,popup,4,roe
+11/06/24,Clayton,DiCarlo,R,1,FB,12,0,0,ball,,,
+11/06/24,Clayton,DiCarlo,R,1,FB,2,1,0,foul,,,
+11/06/24,Clayton,DiCarlo,R,1,CH,10,1,0,foul,,,
+11/06/24,Clayton,DiCarlo,R,1,CH,6,1,0,bip,fly,4,single
+11/06/24,Clayton,DiCarlo,R,2,FB,13,0,0,ball,,,
+11/06/24,Clayton,DiCarlo,R,2,FB,4,1,0,bip,grounder,2,fc
+11/06/24,Clayton,DiCarlo,R,3,CB,9,1,0,foul,,,
+11/06/24,Clayton,DiCarlo,R,3,CH,12,0,0,ball,,,
+11/06/24,Clayton,DiCarlo,R,3,FB,10,0,0,ball,,,
+11/06/24,Clayton,DiCarlo,R,3,FB,13,0,0,ball,,,
+11/06/24,Clayton,DiCarlo,R,3,CH,7,1,0,foul,,,
+11/06/24,Clayton,DiCarlo,R,3,FB,1,1,0,bip,liner,6,single
+11/06/24,Clayton,DiCarlo,R,4,FB,4,1,0,foul,,,
+11/06/24,Clayton,DiCarlo,R,4,SL,10,1,0,foul,,,
+11/06/24,Clayton,DiCarlo,R,4,CB,8,1,0,bip,grounder,3,gidp
+11/06/24,Clayton,DiCarlo,R,5,SL,12,0,0,ball,,,
+11/06/24,Clayton,DiCarlo,R,5,SL,13,1,0,foul,,,
+11/06/24,Clayton,DiCarlo,R,5,FB,13,0,0,ball,hbp,,
+18/06/24,Carolina,DiCarlo,R,1,FB,8,1,0,bip,liner,4,single
+18/06/24,Carolina,DiCarlo,L,2,SL,12,0,0,ball,,,
+18/06/24,Carolina,DiCarlo,L,2,CB,7,0,0,strike,looking,,
+18/06/24,Carolina,DiCarlo,L,2,FB,12,0,0,ball,,,
+18/06/24,Carolina,DiCarlo,L,2,CB,10,0,0,ball,,,
+18/06/24,Carolina,DiCarlo,L,2,FB,3,1,0,foul,,,
+18/06/24,Carolina,DiCarlo,L,2,CB,3,1,0,foul,,,
+18/06/24,Carolina,DiCarlo,R,3,CH,1,1,0,bip,fly,6,fo9
+18/06/24,Carolina,DiCarlo,R,4,FB,5,1,0,foul,,,
+18/06/24,Carolina,DiCarlo,R,4,FB,12,0,0,ball,,,
+18/06/24,Carolina,DiCarlo,R,4,CH,12,0,0,ball,,,
+18/06/24,Carolina,DiCarlo,R,4,FB,2,1,0,foul,,,
+18/06/24,Carolina,DiCarlo,R,4,FB,6,0,0,strike,looking,,kk
+21/06/24,Oak City,DiCarlo,R,1,CB,11,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,1,FB,10,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,1,CB,11,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,1,FB,10,0,0,ball,walk,,
+21/06/24,Oak City,DiCarlo,R,2,FB,12,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,2,CH,12,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,2,CH,7,0,0,strike,looking,,
+21/06/24,Oak City,DiCarlo,R,2,FB,5,1,0,foul,,,
+21/06/24,Oak City,DiCarlo,R,2,FB,12,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,2,CH,10,1,0,foul,,,
+21/06/24,Oak City,DiCarlo,R,2,FB,10,1,0,foul,,,
+21/06/24,Oak City,DiCarlo,R,2,FB,9,1,0,bip,grounder,6,single
+21/06/24,Oak City,DiCarlo,R,3,FB,13,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,3,CH,13,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,3,FB,11,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,3,FB,11,0,0,ball,walk,,
+21/06/24,Oak City,DiCarlo,R,4,CB,12,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,4,FB,12,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,4,FB,7,0,0,strike,looking,,
+21/06/24,Oak City,DiCarlo,R,4,FB,9,1,0,bip,fly,4,double
+21/06/24,Oak City,DiCarlo,R,5,FB,13,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,5,FB,12,0,0,ball,,,
+21/06/24,Oak City,DiCarlo,R,5,FB,1,1,0,bip,fly,4,fo7
+27/06/24,C. Pirates,DiCarlo,R,1,FB,10,0,0,ball,,,
+27/06/24,C. Pirates,DiCarlo,R,1,FB,1,1,0,foul,,,
+27/06/24,C. Pirates,DiCarlo,R,1,CB,9,1,0,bip,grounder,2,sh4
+27/06/24,C. Pirates,DiCarlo,R,2,FB,1,1,0,foul,,,
+27/06/24,C. Pirates,DiCarlo,R,2,FB,4,1,0,foul,,,
+27/06/24,C. Pirates,DiCarlo,R,2,FB,10,0,0,ball,,,
+27/06/24,C. Pirates,DiCarlo,R,2,CH,12,1,0,foul,,,
+27/06/24,C. Pirates,DiCarlo,R,2,FB,6,1,0,bip,liner,4,lo7
+02/07/24,Clayton,DiCarlo,R,1,FB,9,1,0,bip,grounder,2,go1
+02/07/24,Clayton,DiCarlo,R,2,CH,12,0,0,ball,,,
+02/07/24,Clayton,DiCarlo,R,2,FB,1,1,0,foul,,,
+02/07/24,Clayton,DiCarlo,R,2,FB,5,1,0,bip,grounder,2,go4
+02/07/24,Clayton,DiCarlo,L,3,FB,11,0,0,ball,,,
+02/07/24,Clayton,DiCarlo,L,3,FB,1,1,0,bip,grounder,3,go6
+02/07/24,Clayton,DiCarlo,L,4,CH,12,0,0,ball,,,
+02/07/24,Clayton,DiCarlo,L,4,FB,3,1,0,bip,grounder,1,single
+02/07/24,Clayton,DiCarlo,L,5,CB,11,0,0,ball,,,
+02/07/24,Clayton,DiCarlo,L,5,FB,7,0,0,strike,looking,,
+02/07/24,Clayton,DiCarlo,L,5,FB,11,1,1,strike,swinging,,
+02/07/24,Clayton,DiCarlo,L,5,CB,11,0,0,ball,,,
+02/07/24,Clayton,DiCarlo,L,5,FB,2,1,0,bip,fly,6,fo9
+03/07/24,Tarboro,DiCarlo,R,1,FB,12,1,0,ball,,,
+03/07/24,Tarboro,DiCarlo,R,1,CH,1,1,0,bip,liner,4,lo7
+03/07/24,Tarboro,DiCarlo,R,2,CB,7,0,0,strike,looking,,
+03/07/24,Tarboro,DiCarlo,R,2,CB,4,1,0,bip,grounder,3,go6
+03/07/24,Tarboro,DiCarlo,R,3,CB,7,0,0,strike,looking,,
+03/07/24,Tarboro,DiCarlo,R,3,FB,12,0,0,ball,,,
+03/07/24,Tarboro,DiCarlo,R,3,FB,5,1,0,foul,,,
+03/07/24,Tarboro,DiCarlo,R,3,CB,10,0,0,ball,,,
+03/07/24,Tarboro,DiCarlo,R,3,CB,4,1,0,foul,,,
+03/07/24,Tarboro,DiCarlo,R,3,CH,3,1,0,bip,fly,5,single
+03/07/24,Tarboro,DiCarlo,R,4,FB,10,0,0,ball,,,
+03/07/24,Tarboro,DiCarlo,R,4,FB,4,0,0,strike,looking,,
+03/07/24,Tarboro,DiCarlo,R,4,FB,12,0,0,ball,,,
+03/07/24,Tarboro,DiCarlo,R,4,FB,9,1,0,foul,,,
+03/07/24,Tarboro,DiCarlo,R,4,FB,3,1,0,bip,grounder,3,go5
+03/07/24,Tarboro,DiCarlo,R,5,FB,10,1,0,foul,,,
+03/07/24,Tarboro,DiCarlo,R,5,CH,12,0,0,ball,,,
+03/07/24,Tarboro,DiCarlo,R,5,SL,8,1,0,foul,,,
+03/07/24,Tarboro,DiCarlo,R,5,FB,7,1,0,bip,fly,4,double
+03/07/24,Tarboro,DiCarlo,R,6,FB,5,0,0,strike,looking,,
+03/07/24,Tarboro,DiCarlo,R,6,CH,12,0,0,ball,,,
+03/07/24,Tarboro,DiCarlo,R,6,FB,1,1,0,bip,fly,4,fo7
+07/07/24,Oak City,DiCarlo,R,1,FB,13,0,0,ball,,,
+07/07/24,Oak City,DiCarlo,R,1,CH,2,1,0,bip,grounder,1,go3
+07/07/24,Oak City,DiCarlo,R,2,FB,7,1,0,foul,,,
+07/07/24,Oak City,DiCarlo,R,2,FB,10,1,0,foul,,,
+07/07/24,Oak City,DiCarlo,R,2,FB,10,1,0,foul,,,
+07/07/24,Oak City,DiCarlo,R,2,CH,10,1,0,bip,grounder,2,sh4
+07/07/24,Oak City,DiCarlo,R,3,FB,8,1,0,foul,,,
+07/07/24,Oak City,DiCarlo,R,3,FB,6,1,0,bip,fly,4,single
+07/07/24,Oak City,DiCarlo,R,4,FB,13,0,0,ball,,,
+07/07/24,Oak City,DiCarlo,R,4,FB,2,1,0,bip,grounder,1,go1
+07/07/24,Oak City,DiCarlo,R,5,FB,5,1,0,bip,grounder,3,single
+10/07/24,Clayton,DiCarlo,R,1,FB,6,1,0,bip,grounder,1,go3
+10/07/24,Clayton,DiCarlo,R,2,CH,1,1,0,bip,grounder,1,gidp
+17/07/24,High Point,DiCarlo,R,1,FB,12,0,0,ball,,,
+17/07/24,High Point,DiCarlo,R,1,FB,12,1,0,foul,,,
+17/07/24,High Point,DiCarlo,R,1,FB,12,0,0,ball,,,
+17/07/24,High Point,DiCarlo,R,1,FB,12,0,0,ball,,,
+17/07/24,High Point,DiCarlo,R,1,FB,12,0,0,ball,walk,,
+17/07/24,High Point,DiCarlo,R,2,CH,12,1,1,strike,swinging,,
+17/07/24,High Point,DiCarlo,R,2,FB,4,1,0,foul,,,
+17/07/24,High Point,DiCarlo,R,2,CH,7,1,0,foul,,,
+17/07/24,High Point,DiCarlo,R,2,FB,5,1,0,bip,grounder,2,fc
+17/07/24,High Point,DiCarlo,R,3,FB,4,0,0,strike,looking,,
+17/07/24,High Point,DiCarlo,R,3,SL,9,1,0,bip,grounder,2,go4
+17/07/24,High Point,DiCarlo,L,4,CB,9,0,0,strike,looking,,
+17/07/24,High Point,DiCarlo,L,4,FB,8,1,0,bip,liner,4,single
+17/07/24,High Point,DiCarlo,L,5,CB,6,1,0,bip,grounder,2,single
+06/07/24,High Point,DiCarlo,R,1,FB,12,1,0,foul,,,
+06/07/24,High Point,DiCarlo,R,1,CB,13,0,0,ball,,,
+06/07/24,High Point,DiCarlo,R,1,CH,6,0,0,strike,looking,,
+06/07/24,High Point,DiCarlo,R,1,FB,4,1,0,bip,liner,5,lo8
+06/07/24,High Point,DiCarlo,R,2,FB,6,0,0,strike,looking,,
+06/07/24,High Point,DiCarlo,R,2,FB,12,0,0,ball,,,
+06/07/24,High Point,DiCarlo,R,2,FB,11,0,0,ball,,,
+06/07/24,High Point,DiCarlo,R,2,SL,13,0,0,ball,,,
+06/07/24,High Point,DiCarlo,R,2,FB,10,0,0,ball,wakj,,
+06/07/24,High Point,DiCarlo,R,3,CH,4,1,0,bip,grounder,1,go4
+06/07/24,High Point,DiCarlo,R,4,FB,12,0,0,ball,,,
+06/07/24,High Point,DiCarlo,R,4,FB,5,1,0,foul,,,
+06/07/24,High Point,DiCarlo,R,4,FB,1,1,1,strike,swinging,,
+06/07/24,High Point,DiCarlo,R,4,FB,4,0,0,strike,looking,,kk
